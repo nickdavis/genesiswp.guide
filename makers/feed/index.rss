@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Maker Interviews &#8211; GenesisWP.guide</title>
+	<atom:link href="https://genesiswp.guide/makers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 18 Apr 2016 13:04:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Meet Tonya Mork (and win a year of Know The Code!)</title>
+		<link>https://genesiswp.guide/meet-tonya-mork/</link>
+					<comments>https://genesiswp.guide/meet-tonya-mork/#comments</comments>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 09:45:32 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=392</guid>
+
+					<description><![CDATA[<p>Tonya Mork on Know The Code, who she looks up to in WordPress, and helping developers grow beyond a copy/paste mentality.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-tonya-mork/">Meet Tonya Mork (and win a year of Know The Code!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="alignnone size-full wp-image-393" src="http://genesiswp.guide/wp-content/uploads/2016/04/tonya-cropped.jpg" alt="Tonya Mork" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2016/04/tonya-cropped.jpg 660w, https://genesiswp.guide/wp-content/uploads/2016/04/tonya-cropped-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><strong>In a shift from our regularly scheduled programming, today I&#8217;m delighted to share an interview with one of the Genesis&#8217; communities finest, <a href="http://twitter.com/hellofromtonya" target="_blank">Tonya Mork</a> of <a href="https://knowthecode.io/" target="_blank">Know The Code</a>.</strong></p>
+<p>Know The Code is a new membership site designed to teach you how to be a developer (particularly a WordPress developer) from the ground up.</p>
+<p>Of course it&#8217;s not the only online resource out there for learning WordPress but with it&#8217;s slightly different approach &#8211; and it&#8217;s focus on Genesis in particular (in fact, this month is Genesis Framework month on Know The Code) &#8211; I wanted to hear more.</p>
+<p>She&#8217;s also generously sharing an exclusive discount code for Know The Code for GenesisWP.guide readers and doing a giveaway for a year&#8217;s membership to the site at the end of this interview.</p>
+<p>I hope you enjoy.</p>
+<hr />
+<p><b>NICK: For those that don’t know, tell us a little bit about yourself, where do you live, what do you do and what makes you tick?</b></p>
+<p>TONYA: Hello, I’m Tonya.  I’m a happy-go-lucky gal who happens to be a software teacher, electrical engineer, and software engineer.  I live in the states in a quiet, small fishing village on Lake Michigan in NE Wisconsin.</p>
+<p>What makes me tick is kindness and helping.  It comes in the smallest gestures of making someone laugh, holding a door for them, helping our neighbors, or sharing what I know to help here in this software community.</p>
+<p>Things that I like are acid jazz, hot lemon water, baseball, and glorious sceneries.</p>
+<p>What do I do? I share what I know to help web developers better themselves by teaching them how to evaluate and build clean, quality code…from scratch.</p>
+<p><b>You recently did a (fantastic) <a href="http://heropress.com/essays/finding-your-purpose-in-life/" target="_blank">interview with HeroPress on Finding Your Purpose In Life</a> in which you explained some of the health challenges you’ve faced. Without wanting to make you repeat everything you already said there(!), for those that didn’t read the interview yet (and I encourage everyone to read that too) can you tell us a little more about what you went through and how it eventually led you to WordPress?</b></p>
+<p>I used to build mega-million dollar high-tech systems for the major manufacturers in the world. But then my health failed and threw me into isolation, as I struggled everyday to survive.</p>
+<p>During this period, I was lost. I started dabbling in WordPress for a non-profit and blog I started. It ignited my engineering self.  I wanted to really know it; so I dug into the core code to reverse engineer it.  Then I found the WordPress Community, which gave me purpose again.</p>
+<p>I received a miracle (<a href="http://heropress.com/essays/finding-your-purpose-in-life/" target="_blank">go read my essay on HeroPress for the details</a>). In that moment, I was changed forever. In this third chapter of my life, I just want to dedicate myself to teaching and helping.</p>
+<p><b>After getting into WordPress, how did you first get into Genesis and how long have you been working with it?</b></p>
+<p>I found Genesis in the either late 2010 or early 2011.  I believe in focusing your time and energies on those things that are unique and custom.</p>
+<p>I had a choice of writing my own theme or using something in the market.  Writing my own meant I had to invest my time to write and test it.  Then over the years I’d have to maintain it.  That didn’t appeal to me. Why? Because it is too costly.</p>
+<p>Every website has custom features and components.  These unique bits are why a client comes to you.  That is where you do your work and make your money.</p>
+<p>In a theme, there is a huge amount of redundancy from site-to-site.  Genesis takes care of that for you, giving you a solid platform from which to do the custom bits.  It enables you to spend your time and efforts wisely.  You are not having to maintain the entire theme or adjusting it for SEO, WordPress, security, microdata, or HTML markup changes. No, you just maintain your custom bits.</p>
+<p><b>I think I first came across your work, in a major way at least, last year when you were <a href="http://officehours.fm/podcast/72-2/" target="_blank">chatting to Carrie on OfficeHours.fm</a>. It was just around the time you were rolling out the <a href="http://wpdevelopersclub.com/" target="_blank">WP Developers Club</a> (and I know you put together a pretty awesome team of advisors for that) and and now you’ve launched another new project, called <a href="http://knowthecode.io/" target="_blank">Know The Code</a>. For those that don’t know can you tell us a little more about those projects, how they came about and how they’re related (if at all!). From the outside looking in it seems like Know The Code is now your main focus?</b></p>
+<p>WP Developers Club was in the works for about two years before it launched.  I had the idea of creating a club just for WordPress developers.  In engineering, we have clubs and associations such as <a href="http://www.ieee.org/index.html">IEEE</a> and <a href="http://societyofwomenengineers.swe.org/">Society of Women Engineers</a>, which provide education and services for their members.  I wanted that for our community.</p>
+<p>We started down a path of creating a formal school and apprenticeship program.  But then we discovered that the market wasn’t as supportive of these educational programs,, due to the amount of time a person would need to invest to level up through it.  The time and effort it would take to build these far outweighed the support.  We had to rethink and make adjustments.</p>
+<p>I turned WP Developers Club into a community, where you can join our Slack group and help one another.</p>
+<p>But I still wanted to teach and help our community to redirect their time away from  “searching for code and solutions” to building it themselves. I wanted to help each person to be capable of sitting down, putting his/her hands on the keyboard, and just writing the code from scratch.  No more spending hours searching for how to do something. No more relying on bloated plugins to provide the features you need.  I wanted to help each developer be able to maximize his/her time and have the confidence and ability to build anything.</p>
+<p>So I took the educational component of WP Developers Club and shaped it into <a href="https://knowthecode.io">Know the Code</a>.</p>
+<p>Yes, I spend the majority of my time focusing on <a href="https://knowthecode.io">KnowTheCode.io</a> now.  As I release content nearly every day, my days are filled with planning out materials, recording, editing, releasing, and helping in the Pro forums.  But I do spend time too in the WP Developers Club community answering questions and talking with fellow developers.</p>
+<p><b>How’s it gone with Know The Code, so far? Any surprises (good or bad) or stories you can share?</b></p>
+<p>The response from those who have signed up is incredible.  I’m completely humbled by the by the response from the members who give me a chance to help them.  People are so kind to share how it’s helping them and filling in those gaps.</p>
+<p>I had one member who asked what one of the quips had to do with the PHP <a href="https://knowthecode.io/doc/foreach">foreach</a> in the Docx that he was reviewing.  The quips are these silly, witty phrases that we embedded into the middle of the articles to break up the content.  Code is meant to be fun.  I wanted to inject a bit of humor to make you laugh.</p>
+<p>Another person asked me why I leave some the errors and whoops in the videos.  I want it to feel like you and I are sitting together working on code.  In normal workflow, there will be some boo boos and backtracking as you are thinking through the code and problem.  The videos are lightly edited to make them more real, i.e. more of unplugged, real world feeling to them.  I don’t like over-produced showmanship, as it detracts from the code and learning.</p>
+<p>Shoot, sometimes I’ll laugh and say, “Well I messed that up. I bet you caught that and are laughing at me.” It makes it more real.  I like that.</p>
+<p><b>A lot of your focus with Know The Code, particularly this month with your Genesis Framework month, is on Genesis. Obviously we’re big fans of Genesis here at GenesisWP.guide but what are the biggest reasons to work in Genesis for you and why did you decide to make it a core part of what Know The Code teaches?</b></p>
+<p>I teach PHP, WordPress, Genesis, JavaScript, and jQuery.  I selected Genesis as one of my focal core technologies because, in my opinion, it is a developer’s theming framework.</p>
+<p>I talked about why I use Genesis early.  As developers, we have to focus ourselves and our limited time on the custom bits.  You don’t have time to write a theme from scratch for every project.  There are far too many features and custom elements to each project.  Just the styling alone is very time consuming.  Genesis abstracts away the theming stuff and lets you do what professional developers do: write the custom bits.</p>
+<p>I use it because I can customize anything in it easily and with minimal effort.  I want to share that with you. I want you to maximize your talents and gifts.  I want you to focus on the money making bits of your projects.  Genesis helps you to do this.</p>
+<p><b>You’re currently in the middle of Genesis Framework month, what other plans do you have for that and Genesis education in general?</b></p>
+<p>This month I’m focusing on Genesis to <i>kick off</i> the theming component of web development and to begin building the knowledge libraries.  It’s only a drop in the bucket of what will come.</p>
+<p>I will be thoroughly documenting (<a href="https://knowthecode.io/the-docx">Docx</a>) each and every construct, even, constant, and data type for the technologies (PHP, WordPress, Genesis, JavaScript, and jQuery).  These Docx will take time.  I build them incrementally to support the hands-on building <a href="https://knowthecode.io/labs">Labs</a>.</p>
+<p>As a WordPress developer, even if you specialize in Genesis-powered sites, you must have a solid foundation in PHP, HTML, CSS, and WordPress Core.  It all works together.  Then you can get the most out of Genesis.</p>
+<p>For Genesis specifically, I will continue building the Developer’s Guide to Customizing Genesis, as there are many more components to add to it.  Then I’ll be doing various Bootcamps and one-specific feature labs for you.</p>
+<p>Over the months and years, you will get to build a lot of code, some of it will be feature-based plugins while others will be front-end presentation in a child theme.  It’s code. Therefore, the possibilities are endless on what we can build together.</p>
+<p><b>After Genesis Framework month, what’s the next focus?</b></p>
+<p>Well in May I’m starting a bootcamp series for the absolute beginner to teach them the core fundamentals of web development and programming.  I have an Object-Oriented Programming (OOP) Bootcamp that I’m working on which I’m not sure yet when I’ll fully release it.</p>
+<p>I’ve barely scratched the surface of Genesis, WordPress, and PHP.  I’ll continue building up the libraries for each of these technologies.  Remember that Genesis runs on WordPress which runs on PHP.  You have to have a solid proficiency in PHP first in order to build anything from scratch.  OK, no problem, you’ll get that here.</p>
+<p>Then in the summer, I’ll start working on jQuery and JavaScript.</p>
+<p><b>What do you think of the current state of the WordPress education market in general?</b></p>
+<p>I started Know the Code because I couldn’t find an online source in this ecosystem which focused on building adaptable, fundamental skills.  Everything focuses on a single edge case. Education in our space is focused on “showing.”</p>
+<p>The “showing” model creates a copy/paste mentality.  You go and watch a video.  For that one thing they are showing you, you can take the code and paste that into your project.</p>
+<p>But are you able to turn that code into something else, some other feature? Did they thoroughly explain the thought process of why the code is constructing in this way, how it works, or what other alternatives are possible? Did they talk about potential side effects? If there’s a bug in that code or some side effect that conflicts with something else, did you get the skills from the educational source to properly troubleshoot that code?</p>
+<p>Being self-taught typically means you learned little bits of information when you needed for a specific task you were doing.  That creates these gaps, where something may work, but you don’t understand why.  Plus you may have hidden bugs that cause the viewers or your client problems or nuisancy issues.</p>
+<p>For example, the Event Registry system in WordPress’ Plugin API is a huge part of what we do, as it allows us to customize WordPress, Genesis, and other plugins.  But do you really understand what an `<a href="https://knowthecode.io/docx/wordpress/add_action">add_action</a>` or `<a href="https://knowthecode.io/docx/wordpress/add_filter">add_filter</a>` does?  I see a lot of questions on problems with callbacks, arguments, and priority levels.</p>
+<p>The fundamentals are so important to fill in these gaps.</p>
+<p>Let me give you an example that might be relatable.  This weekend I was with my in-laws.  The family is very musical.  My niece was teaching me how to play a small scale in this song on the piano.  I don’t know how to play the piano.  But I copied what she told me to do.  I was able to get the notes out of the piano.  So it sounds like I could play.  But I can’t play any other part of the song, read music, or play any other song.  I just copied what she showed me.  I didn’t learn adaptable skills.</p>
+<p>Other educational and tutorial resources are valuable.  Don’t get me wrong.  If you have a solid baseline knowledge and know the code, then you can really get a lot of these other sites for those specific edge cases and features.  You’ll know how to take what they are <i>showing</i> you and alter it for your specific needs.</p>
+<p><b>Of course, there’s a reasonable amount of WordPress and Genesis courses out there already (though I think the market is far from saturated). For Genesis, I’m thinking of Carrie Dils over at Lynda and Sridhar’s own membership site particularly &#8211; have you given much thought about how you’ll distinguish what you’re doing from other offerings or how Know The Code complements them? If so, how do you plan to do so?</b></p>
+<p>Absolutely. Know the Code is very different.</p>
+<p>Those sites are focused on a specific edge case.  When you need a specific feature to add to your website, such changing the top navigation bar when scrolling down the page, these sites are awesome for that.  Sridhar, for example, provides creative tutorials for you to add cool features to your site.  Carrie teaches basic theming in Genesis.  These resources help you to see code and site design in different ways.</p>
+<p>But they do not teach you the true essence of code, code construction, clean, quality code techniques, root cause analysis, or how to think logically and solve problems.  They do not empower you to take what you learn and expand it in real-world, professional programming and development skills.</p>
+<p>I’m teaching you how to not only work in Genesis or WordPress, but in any web development profession. Code is code.  Once you learn how to think about code, you can get that computer to do what you want it to do.</p>
+<p>Isn’t that what you want? Don’t you want to quote a project and know that “Yes, this is the way to do it and I know how, on my own?”  Don’t you want to be able to just sit down, know exactly what you are doing, and just let the code flow out of you into the keyboard?  That’s what I teach.</p>
+<p>I think the current resources are valuable and we complement one another.  But what I do is very different.  While yes, I will give you something pretty to build or some cool feature to add to your project.  But those specific one feature edge cases are a cover to teach you true programming and web development.</p>
+<p>I want you to be able to own that title “Web Developer” and have it mean something not only in WordPress but in any market or technology.  I’m teaching you this profession and craft.</p>
+<p>I think that distinguishes Know the Code and me.  I’m here to serve a different purpose.</p>
+<p><b>Are there any other WordPress businesses you particularly look up to, either inside or outside of the Genesis community to </b><b>copy</b><b> get inspiration from (and why)?</b></p>
+<p>I’m very drawn to people and businesses who live <i>integrity</i>. It is who they are. They are about helping you to be more awesome.  They know that community-first and value-first approach helps for the betterment of the entire ecosystem.  They do not employ the sizzle, flash, or over-the-top salesy stuff.  You don’t feel pressured or icky when you visit their sites or read their stuff.  No, you get insightful information and real value.</p>
+<p>Integrity. Character. Value. Quality. Focusing on your core strengths. Solving a real problem. Being there with real customer support. These are attributes which catch my eye and draw me to their services, products, and websites.  They go above and beyond to give you, not only a quality product or service, but to support you.</p>
+<p>I’m inspired by this approach and philosophy because it’s good for the entire ecosystem and the individual. Then when you need what they are offering, you go directly to them because they are the authority and you trust them. You know they will deliver and help you.</p>
+<p>Our community is filled with such companies and people.  It’s a huge reason why I stay here.  People have integrity here.  They want to help one another.</p>
+<p>More specifically, I’m a big fan of <a href="http://wpninjas.com/" target="_blank">WP Ninjas</a>, <a href="http://www.studiopress.com/" target="_blank">StudioPress</a>, <a href="https://serverpress.com/" target="_blank">ServerPress</a>, <a href="https://pippinsplugins.com/" target="_blank">Pippins Plugins</a>, and many others.  These companies stay true to their niche and fulfill a need in the marketplace with quality products and excellent support.  They give of themselves to help you.  You buy from them, not only because their services and products are awesome, but because you believe in them.  You know they have your back and are there for you.</p>
+<p>On the people side, <a href="https://twitter.com/tommcfarlin" target="_blank">Tom McFarlin</a>, <a href="https://twitter.com/cdils" target="_blank">Carrie Dils</a>, <a href="https://twitter.com/jameslaws" target="_blank">James Laws</a>, <a href="https://twitter.com/MarcBenzak" target="_blank">Marc Benzakein</a>, <a href="https://twitter.com/jdelia" target="_blank">Jackie D’Elia</a>, <a href="https://twitter.com/schlessera" target="_blank">Alain Schlesser</a>, and <a href="https://twitter.com/GaryJ" target="_blank">Gary Jones</a> are some of my favorite people. They have integrity and go the extra mile to reach out and give of themselves.  They truly want to help you fulfill your potential.</p>
+<p>Outside of WordPress, I really like what Jeffrey Way did at <a href="http://laracasts.com">Laracasts</a> as well as Ryan Bates at <a href="http://railscasts.com/">RailsCasts</a>.  I was with both of them when each launched.  They give a ton of value to each web developer.  Jeffrey nails it with clean, quality code and proper testing methodologies.</p>
+<p><b>Have you set targets for Know The Code (financial or otherwise)? Is there a point you have in mind where you’d consider it a ‘success’?</b></p>
+<p>Of course I have.  I keep a close eye on the financials as any business owner does.  I have metrics in place and have set milestones to let me know if the community wants me to teach them or not.</p>
+<p>As I said in my essay, I’m not interested in acquiring stuff.  I’m not interested in building a big company or lining my pockets.  That has no value for me.  I just need enough of an income to support my family.  I need enough income to allow me to dedicate myself to helping you.</p>
+<p>I’m talking with some companies to become sponsoring partners, companies that I believe in. I’m asking help me fulfill my mission and be here for you. Their backing and support will definitely help me to stay right here and help you.</p>
+<p>Will Know the Code provide enough income so that I can do just this and nothing else? Well, that’s up to all of you and the WordPress developers’ community to determine if I am providing you with value to be a better programmer and developer.</p>
+<p>Do I have a point where I would consider it a success? I think success will be measured in the success of each developer. As I’m here to help developers, it’s not my success that matters, but rather each person and the results they get through my teachings.</p>
+<p><b>Having launched now, what’s the one piece of advice you’d give to other creators in the WordPress space that are thinking of launching their own projects?</b></p>
+<p>Do what you know and are passionate about.  Find a way to take that thing which is uniquely yours and match it up with a problem that others are having.  Solving a problem in a unique way helps to differentiate you from others.  And then deliver it with integrity and value.</p>
+<p><b>Away from business, what are the biggest improvements, if any, you’d like to see in WordPress core and the Genesis Framework?</b></p>
+<p>As a software community, the biggest improvement we can make is to level up each developer, fill in those technical gaps, and ensure each person knows the fundamentals of computation and programming.  Once we do this, we will innovate and continue to propel WordPress into the future.</p>
+<p>Software and digital computing makes huge leaps and bounds each and every year.  It’s our job to keep pace and ensure WordPress and Genesis are not getting left behind.  I want you to prosper and be in this profession for years to come.  It all starts with a solid foundation.  And then in this profession, continuous, relentless learning is an absolute must.</p>
+<p>Listen to me. Code is code. You combine the building blocks together in a clean, quality manner.  It allows you to build a small ma/pa website to powering up financial centers, robotics, and predictive monitoring systems.  It starts with knowing the building blocks, practical clean, quality code techniques, and testing practices.  Knowing how to think about code, getting the most out of the computer, logical thought, problem solving, and code construction are what determine your ability to future-proof yourself in this business.</p>
+<p>More specifically for the software itself, I’d like to see more attention to clean code in Core.  In both WordPress and Genesis, I’d like to see us handle legacy systems differently to remove the bloat and baggage of old, out-of-date technologies.</p>
+<p>For WordPress Core, I’d like to see more emphasis on modularity to allow us the ability to decouple components and spin up only what we need.</p>
+<p><b>Any other hidden talents or passions you’d like to share?</b></p>
+<p>I’m passionate about saving animals who are unwanted.  We’ve filled our home over the decades with many loving furbabies.  Eddie, the Min Pin in my picture, is a Puppy Mill rescue. He’s a biter to anyone other than us.  But to us, he’s the biggest baby, who is almost always curled up on my lap.  We have two other kitties who were strays and starving. Now they live their lives watching the birdies in a home filled with love.</p>
+<p>I love writing and drawing.  In my younger days I was an avid sportswoman in basketball, software, and volleyball.</p>
+<p><b>Game of Thrones or Downton Abbey?</b></p>
+<p>Neither.</p>
+<p>Ha, you know I’ve been around a long time.  I remember sitting in the theatre for the opening of the first Star Wars in 1977.  My friends and I sat in the front row and loved every minute of it!</p>
+<p>Along the way and over the decades, I lost my zeal for sci fi. I really enjoy shows and movies that make me think about the strategy and intent. I watch a lot of documentaries and strategy-based shows, such as Elementary, Madam Secretary, and Enemy of the State.</p>
+<p><b>What’s the best way for people to get in touch with you if they want to learn more?</b></p>
+<p>I’m very accessible.  You can reach me on Twitter at <a href="https://twitter.com/hellofromTonya">@hellofromtonya</a>, forums or contact on <a href="https://knowthecode.io">KnowTheCode.io</a>, or in multiple slack groups including GenesisWP, WP Developers Club, and Post Status.</p>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Discount code and your chance to win!</h2>
+<p style="text-align: center;">If you&#8217;re keen to try Know The Code, Tonya is generously sharing the following exclusive discount code for GenesisWP.guide readers to get 20% off a yearly Pro Membership on checkout for a limited time:</p>
+<p style="text-align: center;"><strong>GENESISWPGUIDE</strong></p>
+<p style="text-align: center;">(And don&#8217;t be put off using the discount code right away, if you win the giveaway and you&#8217;re already a yearly pro member, Tonya will refund your fee!).</p>
+<p style="text-align: center;"><strong>For your chance of winning a <a href="https://knowthecode.io/" target="_blank">1 year Pro Membership of Know The Code (worth $290)</a>, just enter your details below.</strong></p>
+<p style="text-align: center;"><em>(Competition closes 11:59pm PST, Sunday 24 April 2016)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished *sad face*, but look out for new chances to win cool stuff in future articles *happy clap*.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-tonya-mork/">Meet Tonya Mork (and win a year of Know The Code!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://genesiswp.guide/meet-tonya-mork/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet Frank Schrijvers</title>
+		<link>https://genesiswp.guide/meet-frank-schrijvers/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2016 11:00:26 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=310</guid>
+
+					<description><![CDATA[<p>Frank Schrijvers on Genesis, Minecraft, and where he finds the inspiration for his beautiful child themes at WPStudio.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-frank-schrijvers/">Meet Frank Schrijvers</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<h1 style="text-align: center;"><img loading="lazy" class="alignnone wp-image-311 size-full" src="http://genesiswp.guide/wp-content/uploads/2016/01/frank.jpg" alt="Frank Schrijvers" width="660" height="440" /></h1>
+<p><strong>After a short break in the series, I&#8217;m delighted to be back to share the latest in an occasional series of interviews with the finest folk in the Genesis community and today it&#8217;s the turn of <a href="https://twitter.com/wpstudiowp" target="_blank">Frank Schrijvers</a> of <a href="https://www.wpstud.io/" target="_blank">WPStudio</a> to take the mic.</strong></p>
+<p>If you don&#8217;t know Frank, you might well know his <a href="https://www.wpstud.io/themes/" target="_blank">beautifully designed Genesis themes</a> over at WP Studio (which are going from strength to strength) or his <a href="https://www.wpstud.io/plugins/" target="_blank">handy Genesis plugins</a> or his <a href="https://www.wpstud.io/blog/" target="_blank">useful tutorials</a>.</p>
+<p>Hailing from the Netherlands he was gracious enough to do the interview in his non-native language, but he comes across extremely well.</p>
+<p>I love what he&#8217;s doing (and he tells me he&#8217;s got two more themes in the coming in the next weeks) so he&#8217;s definitely one to watch and follow (<a href="http://twitter.com/wpstudiowp" target="_blank">@wpstudiowp</a>) if you don&#8217;t already.</p>
+<p>I hope you enjoy (oh and look out for the giveaway at the end).</p>
+<hr />
+<p><b>NICK: You’re probably most well known, at least in the Genesis community, for being the guy behind all those fantastic designs over at WPStudio (where you sell Genesis themes) but for those that maybe don’t know, tell us a little bit about yourself, where you live, what you do and what makes you tick?</b></p>
+<p>Hi, I’m Frank. Just a regular guy from the Netherlands, land of the wooden shoes, tulips, windmills and of course – smile – top-notch web designers and coders.</p>
+<p>My background is quite diverse: initially, I was trained as a social worker and have been working at a refugee center for many years. In the new millennium, I quit my job to do some serious travelling together with my girlfriend, a religious science student. We kept a blog on our experiences in Sri Lanka, India, Nepal, Thailand, Laos and Cambodia. This was my first encounter with WordPress, HMTL and CSS.</p>
+<p>After a year of travelling, I was hired as supervisor in a Dutch hosting company. I spend my free time developing my web design and developing skills. My improved skills did not stay unnoticed and I was hired a web designer in the same company.</p>
+<p>Around 4 years ago I realized that being your own boss is more challenging then being bossed around (smile). So I started my own company. Nowadays, I’m running a small company named WPX (<a href="https://www.wpx.nl/">www.wpx.nl</a>), specialized in WordPress design, hosting and maintenance. But I’m even more passionate about WPStudio (<a href="http://www.wpstud.io/">www.wpstud.io</a>), focused on developing premium Genesis themes.</p>
+<p><b>How did you first get into Genesis website development and how long have you been working with it?</b></p>
+<p>I’ve started building WordPress themes in 2008/2009. Back in those days, every website I built was based on the famous Kubrick theme. Moreover, I’ve also developed four themes for the WordPress repository. You should be able to find them if you search well, as they are still out there (wink).</p>
+<p>Within WPX, my colleague and I specialized in WooCommerce Webshops and used our own framework bases on Google Bootstrap. In my experience, our framework wasn’t as flexible as we hoped it to be and it eventually cost too much time to set things up.</p>
+<p>Luckily, I came across the Genesis Framework, bought it and never looked back. This was about two years ago.</p>
+<p><b>What are the biggest reasons to work in Genesis for you?</b></p>
+<p>I am totally hooked up by Genesis’ hooks, the clean code, the flexibility, and the functional as well as simple admin settings. Additionally, I find it important that a framework is here to stay, based on a large community and broad experiences. Indeed: you’ve got a Genesis fan over here!</p>
+<p><b>Genesis 2.2 was released with a big focus on accessibility. What, if anything, would you like to see on the roadmap for future Genesis releases?</b></p>
+<p>What a difficult question. For me, a good framework equals a solid fundament instead of focusing at special features. I think it has been said before: in the future the Genesis framework at least has to keep up with WordPress and web standards.</p>
+<p><b>Any other hidden talents or passions you’d like to share?</b></p>
+<p>Besides theme development, my biggest passion is my eight-year-old son Yuka. Since I have my office at home, he usually spends some hours sitting next to me, playing Minecraft on one of my computers. I’m really amazed by the objects he builds using these digital Lego blocks. When I have time to spare I like to build with him (smile). When the wind is up I enjoy going power kiting. I’m also interested in interior design, and I collect designer toys like Kidrobot.</p>
+<p><b>For people that don’t know, what’s the backstory to WPStudio, what made you decide to launch it?</b></p>
+<p>The main reason for starting WPStudio was to create a company that reflects who I am: the themes I develop at WPStudio embody my passion and creativity. Hopefully, the fun I have in creating Genesis themes will benefit their quality. To be honest, using my imagination to create another theme is more fun than for example spending my time setting up a hosting environment or cleaning up hacked websites.</p>
+<p><b>Are you full time with WPStudio? (If not, what else do you do!). Do you also offer ‘regular’ WordPress / Genesis development work like custom themes and consulting?</b></p>
+<p>I’m running WPStudio alongside my other company WPX. Usually, theme developing and blog writing for WPStudio takes up 30% of my time. In the other 70% at WPX I manage a broad spectrum of WordPress services, including hosting (based on Nginx), consultancy, maintenance and development.</p>
+<p><b>Have you set particular goals for WPStudio (financial or otherwise)?</b></p>
+<p>My main goal is to make WPStudio grow. For WPStudio, 2016 hopefully becomes a year with a twist: spending less time on WPX and use it to expand the Genesis theme building for WPStudio. It would even be more satisfactory if this twist pays out in my portfolio, website visitors, sales, blog articles and knowledge. In summary, my aim for 2016 is WPStudio to become part of the established order within the Genesis theme market.</p>
+<p><b>One of the reasons I wanted to talk to you, in particular, is because I think the designs you put out are some of the strongest I’ve seen in the Genesis premium theme marketplace and I’d love to see more people discover your work. I know your background includes working at a web design agency, but can you tell me more about how you approach designing new themes and where you find inspiration?</b></p>
+<p>I indeed have experience as a web designer at different companies. In the latest company, we designed and developed everything ourselves from scratch. None of it was WordPress based. I quickly discovered that a solid structure and layout form the basic for good theme design. In other words: limit the bells and whistles, keep it simple and clean. I find my inspiration for new themes in various places, on the digital highway but also in real life. For instance, the newest railway station of my hometown Arnhem, the Netherlands is magnificent – you should look it up on the Internet. Interior books and designer toy stores are inspirational as well. Of course, more standard resources such as awwwards.com, dribbble.com and themeforest.net also inspire me.</p>
+<p><b>Who do you look up to in the design world, either inside or outside of WordPress?</b></p>
+<p>I dig the work of the Focus Lab team. They do such an awesome job. I particularly like the diversity in their work. I’m also a big fan of the product designs from Dieter Rams.</p>
+<p><b>In terms of marketing, have there been any particular techniques or tactics that have worked well for you with WPStudio? Do you have any new initiatives you are planning to try in future?</b></p>
+<p>To be honest: I’m still looking for the best technique (smile). It is not natural for me to shout new themes from the rooftops. I don’t spam Twitter, Facebook or Slack to promote my newest theme. As it is my handicap as well, theme PR could be a nice goal for WPStudio for 2016 (wink). An affiliate program may be a good starter.</p>
+<p><b>What do you think of the current state of the Genesis theme market and where do you see it headed?</b></p>
+<p>It’s a small market, which I like. It’s such a shame though that there are so many unknown theme developers. An initiative like Calvin launched a few weeks ago – listing theme developers – may help to put more theme developers in the spotlight as well. Also, the Genesis theme market seems to mature, showing more variety in themes, techniques and designs. For both customers, developers and end-users this is a nice development.</p>
+<p><b>Are there any other WordPress businesses you particularly look up to, either inside or outside of the Genesis community to </b><del><b>copy</b></del><b> get inspiration from (and why)?</b></p>
+<p>Not really. I prefer to draw up mu own path. Having said that, I do like the enthusiasm in the Genesis community like Brian, Calvin and – not to forget – you. As I said earlier, many things inspire me. When I discover something interesting created by someone else, this stimulates me to take another step myself as well.</p>
+<p><b>I see you also created a few Genesis plugins (</b><a href="https://www.wpstud.io/plugins/"><b>https://www.wpstud.io/plugins/</b></a><b>) what’s the reaction to those been like?</b></p>
+<p>I started developing plugins to get familiar with Genesis, including developing plugins. I’ve used the plugins in some of my own projects and figured they may come in handy for other users as well. Furthermore, plugin development is a nice way to come in contact with other users. The reactions I get are overall positive. Sometimes, the plugins don’t seem to perform within a specific theme. In that case, I prefer to get a note to be able to put the plugin to the next level.</p>
+<p><b>Finally, I know you&#8217;ve just launched another theme, Forest. How&#8217;s everything going and what are your plans for yourself and WPStudio in 2016?</b></p>
+<p>The Forest theme is alive and kicking! I’m curious what people think of it. My second goal for 2016 was to re-design the website for WPStudio. That job is done as well! Furthermore, I like to release at least 4 nice-looking themes and hopefully some clever plugins as well.</p>
+<p><b>What’s the best way for people to get in touch with you if they want to learn more about what you do?</b></p>
+<p>They can visit my website <a href="https://www.wpstud.io/">wpstud.io</a>. I can also be reached by e-mail (info@wpstud.io) or on Twitter <a href="https://twitter.com/wpstudiowp">@wpstudiowp</a>.</p>
+<p><b>And finally the most important question of all, Game of Thrones or Downton Abbey?</b></p>
+<p>I totally fail on this last question. I’ll put both series on my to do list for 2016 right away (wink). I’ve recently watched ‘The Leftovers’ and really liked it.</p>
+<hr />
+<p>My thanks again to <a href="http://twitter.com/wpstudiowp" target="_blank">Frank</a> for taking the time and also generously doing a giveaway (details below).</p>
+<p>If you haven&#8217;t already make sure you check out his <a href="https://www.wpstud.io/themes" target="_blank">beautiful Genesis themes</a> and <a href="http://twitter.com/wpstudiowp" target="_blank">give him a follow</a> because I know he&#8217;s got a couple more lined up very soon you&#8217;ll want to know about too.</p>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Win a copy of Forest!</h2>
+<p style="text-align: center;"><strong>For your chance of winning a <a href="https://www.wpstud.io/themes/genesis-theme-forest/" target="_blank">copy of Forest</a> &#8211; the latest and greatest Genesis theme from WPStudio &#8211; just enter your name and email address below.</strong><br />
+<em>(Competition closes 11:59pm PST, Sunday 7 February 2016)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished *sad face*, but look out for new chances to win cool stuff in future articles *happy clap*.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-frank-schrijvers/">Meet Frank Schrijvers</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Susan Ramsey</title>
+		<link>https://genesiswp.guide/meet-susan-ramsey/</link>
+					<comments>https://genesiswp.guide/meet-susan-ramsey/#comments</comments>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Wed, 23 Dec 2015 10:20:34 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=270</guid>
+
+					<description><![CDATA[<p>Susan Ramsey on working with Lindsey Riel, launching her first Genesis premium theme and why Genesis is her passion.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-susan-ramsey/">Meet Susan Ramsey</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="size-full wp-image-271 alignnone" src="http://genesiswp.guide/wp-content/uploads/2015/12/the-awesome-susan-ramsey.jpg" alt="Susan Ramsey" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2015/12/the-awesome-susan-ramsey.jpg 660w, https://genesiswp.guide/wp-content/uploads/2015/12/the-awesome-susan-ramsey-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><strong>I know that I said that <a href="http://genesiswp.guide/2015-12-18/">last week&#8217;s This Week in Genesis</a> was the last before 2016 but I had one more little Christmas treat I wanted to share with you all here on GenesisWP.guide, an interview with the Genesis community&#8217;s one and only <a href="https://twitter.com/onehappystudio" target="_blank">Susan Ramsey</a>!</strong></p>
+<p>Probably of all my interviewees so far, she&#8217;s the most well known in the Genesis community but for those that don&#8217;t know, Susan is not only a one woman force of nature on the <a href="http://www.studiopress.com/forums/" target="_blank">StudioPress forums</a> solving (and encouraging others to help solve) problems in the community; she&#8217;s also the support guru at successful Genesis theme shop <a href="http://prettydarncute.com/" target="_blank">Pretty Darn Cute Design</a>; and owner of <a href="http://onehappystudio.com/" target="_blank">One Happy Studio</a>, her own Genesis focused business.</p>
+<p>Plus, Susan also put out her first Genesis premium theme this year, entitled <a href="http://prettydarncute.com/product/elise-free-ecommerce-genesis-feminine-wordpress-theme/" target="_blank">Elise</a> on a &#8216;pay what you want&#8217; model via Pretty Darn Cute.</p>
+<p>But enough background information on a lady most of you all already know, I&#8217;ll jump into the interview now and let Susan speak for herself!</p>
+<hr />
+<p><strong>NICK: I know I jokingly refer to you as a Genesis community legend in some of the This Week in Genesis updates, but you absolutely are a legend in the Genesis community (in the most positive sense of the word)! I remember, particularly when I was first starting out in Genesis (in early 2011, I think it was) you seemed to be everywhere, popping up on Twitter and in the community forums (I assume you must have a clone?). So my point being that I know that a lot of the people reading this will likely know about you already. But for those that maybe don’t know or know you only for Genesis, tell us a little bit about yourself, where you live, what you do and what makes you tick?</strong></p>
+<p>SUSAN: My social media tagline is “British born, Australian raised, American…” &#8211; I grew up in Australia, but moved to the US early on in my marriage; we lived in the Chicago area for a number of years before moving to Fort Worth, Texas in 2009. We have a teenage son and two dogs.</p>
+<p>I still have the Australian accent, despite living in the US for over 20 years. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>I work full time as an IT Project Manager, focusing on the deployment side of the project cycle.</p>
+<p><strong>How did you first get into Genesis and how long have you been working with it?</strong></p>
+<p>I was a craft blogger on the Blogger platform for a number of years (I started my first blog in 2003).</p>
+<p>When we bought our house, I started to follow a lot of home decorating blogs, and noticed that a lot of my favorite blogs had one thing in common &#8211; they were all build on the Genesis Framework.</p>
+<p>In 2012, I decided that I was ready to move my blog to WordPress, so using the Genesis Framework seemed like the natural choice for me.</p>
+<p><strong>What are the biggest reasons to work in Genesis for you?</strong></p>
+<p>The ease of use.</p>
+<p>The Genesis Framework does the “heavy lifting”, meaning that someone who wants to be able to customize their own site can do so by modifying a child theme; the average blogger doesn’t need (or want) to know how it all comes together &#8211; they just want the opportunity to change the colors or fonts and be able to give their own stamp to their website without having to worry about becoming a developer.</p>
+<p>Having the Genesis Framework as the core of their site gives them peace of mind that their site is build on a rock solid foundation.</p>
+<p><strong>Any other hidden talents or passions you’d like to share?</strong></p>
+<p>Genesis is my passion!</p>
+<p>I think this is probably why I may be so well known in the community.</p>
+<p>When I first moved to WordPress and the Genesis Framework, I was a complete beginner, and picked things up pretty quickly.</p>
+<p>I asked a couple of questions on the old StudioPress help forum, and then started answering others questions for other users; I wanted to share my enthusiasm for this platform.</p>
+<p>Pretty soon after I started using Genesis, I abandoned my own blogging to focus on helping others build their own sites.</p>
+<p>As I work full time, working with Genesis is what I do in my “spare time” &#8211; I think you’d have to be passionate about it to want to come home from a long (and sometimes stressful) day at work, and still have the energy to work on websites late into the night and on weekends <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>I enjoy traveling and photography, although I don’t get to do as much of either as I would like! I would love to buy an Airstream (I’m a little obsessed about this dream of mine! I’m undecided on whether I will buy a new one, or a vintage restored one), and travel around the US, visiting each of the National Parks. That’s on my retirement bucket list.</p>
+<p><strong>Most recently, you’ve recently rebranded as <a href="http://onehappystudio.com/" target="_blank">One Happy Studio</a> (from Graphically Designing), can you tell us more about that and how it’s going?</strong></p>
+<p>I purchased the domain Graphically Designing when I first gave some thought to making a business in WordPress.</p>
+<p>The previous owner of Graphically Designing, (Darcy Milder) had been a Genesis recommended developer, but she had retired from the business by the time I bought my first theme (Modern Blogger, by Lindsey of Pretty Darn Cute Design).</p>
+<p>Buying the domain (I didn’t buy the business) was a good business decision, as I have been kept busy since then, but over the past couple of years, I’d been giving thought to really establishing myself in my own right, with my own brand identity that was uniquely mine.</p>
+<p>The hardest part was choosing a name (who knew?) &#8211; my own name was not available as a domain, so I chose something that I thought what convey what I’m about &#8211; I like to consider myself happy, exuberant and outgoing, so One Happy Studio was born. It’s been a great move for me.</p>
+<p><strong>Do you have a typical type of client you work with at One Happy Studio? And do you tend to focus on one particular area (consulting, design, development, support) for your clients more than any other or is it a mix?</strong></p>
+<p>I work predominantly with female bloggers or small business owners &#8211; I seem to go through phases with the types of businesses &#8211; I’ve worked with a number of teachers in the past year; a couple of years ago, I worked with a lot of people who owned baking businesses!</p>
+<p>Most are just getting their feet wet with their first site, or are wanting to get started with WordPress, so I do a lot of theme setups, and basic customizations, and assist with support issues. In the future, I’m looking to focus more on theme development, and fully custom websites.</p>
+<p><strong>Away from that, I know you also work closely with Lindsey Riel (<a href="http://genesiswp.guide/meet-lindsey-riel/">who I interviewed previously</a>) over at <a href="http://prettydarncute.com/" target="_blank">Pretty Darn Cute Design</a> helping her out with support. How did you first get involved with that? Is it difficult balancing your time between that and One Happy Studio? And what is it like working with Lindsey <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>The first theme I purchased was Lindsey’s first theme, Modern Blogger.</p>
+<p>Lindsey noticed that I was helping to answer questions on the StudioPress forum, and approached me to help her with theme support when the support model was moved from forum to a dedicated help desk.</p>
+<p>Around this time, I was also providing theme support to a couple of other third party developers; eventually, Lindsey asked me to join her team and work with her exclusively, so I’ve been doing that for about two years.</p>
+<p>Working with Lindsey has been a tremendous opportunity for me &#8211; in addition to providing theme support for all the Pretty Darn Cute Design themes, Lindsey offers a 24 hour theme setup service, and I take care of all of those, and any customization requests which come in.</p>
+<p>In terms of balancing my time between Pretty Darn Cute and One Happy Studio, I don’t give it a lot of thought; I write tutorials over at One Happy Studio (I have a “Genesis for Beginners” series), which are written in response to some of the support questions I receive over at the Pretty Darn Cute Design support forum.</p>
+<p>Lindsey has been great about encouraging me to develop my own business and identity, and has promoted my services through her website and Facebook page, so I think it’s a good, collaborative relationship.</p>
+<p><strong>Recently you launched, I believe, your first ‘for sale’ Genesis child theme, <a href="http://prettydarncute.com/product/elise-free-ecommerce-genesis-feminine-wordpress-theme/" target="_blank">Elise</a>. Can you tell us a little more about that and how it’s gone?</strong></p>
+<p>The theme Elise is very special to me; it’s named after my daughter (who passed away at the age of four); I knew what the name would be even before I started designing it. It’s designed to appeal to the “mommy blogger”, so I chose colors, functionality, design layout and images that would be attractive to that niche.</p>
+<p>It’s been a popular theme in terms of the numbers of unique downloads, and I’ve been really happy with the feedback which I’ve received; it’s definitely encouraged me to keep learning and creating new themes.</p>
+<p><strong>Something, in particular, I wanted to ask you about is the ‘pay what you want’ pricing for Elise. What was the thinking behind that and how has it gone? And do you think you’ll do a similar model for any future theme releases?</strong></p>
+<p>The idea behind the “pay your own price” was twofold &#8211; an opportunity to give back to the community, and also a way to introduce One Happy Studio as a theme developer in the Genesis marketplace, which is a new direction for me.</p>
+<p>For future releases, I think I’ll be pricing them as regular products, but may offer a limited time “name your own price” as a special promotion.</p>
+<p><strong>You probably have a pretty good overview of what’s going on in the Genesis marketplace (and community). Based on that what do you think of the current state of the Genesis theme market and where do you see it headed?</strong></p>
+<p>With the changes recently implemented at StudioPress (revamping the ProPlus package, and including a smaller number of third party themes in that package), I think we’ll see more theme development from third parties, and maybe changes in pricing models &#8211; for example, lifetime theme support has typically been included in the purchase of a theme; I think that model will change, and that theme support will be on an annual basis (much like licencing for premium plugins; you can continue to use the product, but support is only provided for as long as you have paid the annual fee.)</p>
+<p><strong>Are there any other WordPress businesses you particularly look up to, either inside or outside of the Genesis community to copy get inspiration from (and why)?</strong></p>
+<p>I want to be Lindsey when I grow up. She is so creative, and has her fingers on the pulse when it comes to what’s happening in design.</p>
+<p>In terms of other businesses &#8211; I get to see a lot of designers work because people provide me with sites they like for design inspiration, so I’m always discovering something new.</p>
+<p>I also like Designer Blogs, not necessarily for the design, but for their business model &#8211; they specialize in theme setup of their own themes; they don’t sell the themes as templates.</p>
+<p>Theme setup has always worked for me in terms of my own business because I currently do this on a part-time basis.</p>
+<p><strong>What’s next for Susan Ramsey and One Happy Studio?</strong></p>
+<p>I’m working on some more of my own themes; one will be a photography theme (my husband is a photographer, so he has some specific ideas of what he would like in a website), and I’m working on a theme for fashion bloggers.</p>
+<p>I would eventually like to be able to transition from doing this on a part-time basis to a full time endeavor (and I’d love to become a recommended StudioPress developer!) &#8211; we’ll see what the future brings <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>I know you recently met up at the Circles conference with a load of other Genesis folk. As someone who didn’t make (what is for me) the long trip, what was that like? (It looked like you all had a blast!)</strong></p>
+<p>It was a blast! It was awesome to finally meet Brian in person &#8211; we’d talked on the phone and had a number of email conversations, but this was my first time meeting him. It was wonderful to meet so many other Genesis users from around the country, and catch up with others whom I have meet previously. And, it’s always great to spend time with Lindsey &#8211; we talk business, but also just have some fun at the same time.</p>
+<p><strong>What’s the best way for people to get in touch with you if they want to learn more about what you do?</strong></p>
+<p>I can be reached by email: susan@onehappystudio.com</p>
+<p><strong>And finally the most important question of all, Game of Thrones or Downton Abbey?</strong></p>
+<p>House of Cards <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>I haven’t watched either Game of Thrones or Downton Abbey, but if I was forced to watch one, it would probably be Downton Abbey &#8211; two of my favorite TV shows when I was growing up were British period dramas &#8211; Upstairs, Downstairs, and The Onedin Line, so Downton Abbey would probably be more up my alley.</p>
+<hr />
+<p>Thanks so much to Susan for taking the time to answer my questions and being so open with her answers. It was great to see her launch her first premium theme in 2015 and I&#8217;m excited to see what else she does in 2016!</p>
+<p>And, if you didn&#8217;t already, make sure you check out her <a href="http://prettydarncute.com/product/elise-free-ecommerce-genesis-feminine-wordpress-theme/" target="_blank">Elise theme</a>.</p>
+<p>I hope you all have a very Merry Christmas and a Happy New Year.</p>
+<p><strong>PS</strong> If you&#8217;re interested in other interviews I&#8217;ve done with fine folk from the Genesis community check out <a href="http://genesiswp.guide/makers/" target="_blank">all the interviews I&#8217;ve done so far</a> or subscribe below for future updates.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-susan-ramsey/">Meet Susan Ramsey</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://genesiswp.guide/meet-susan-ramsey/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet Dave Dean (and win a copy of Musket!)</title>
+		<link>https://genesiswp.guide/meet-dave-dean/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2015 11:10:06 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=233</guid>
+
+					<description><![CDATA[<p>Dave Dean on Musket (his new development framework for Genesis), getting into Genesis and tips for those just starting out in WordPress development.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-dave-dean/">Meet Dave Dean (and win a copy of Musket!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="alignnone size-full wp-image-234" src="http://genesiswp.guide/wp-content/uploads/2015/10/dave-dean.jpg" alt="Dave Dean" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2015/10/dave-dean.jpg 660w, https://genesiswp.guide/wp-content/uploads/2015/10/dave-dean-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><strong>Today I&#8217;m delighted to share an interview that will probably be of particular interest to the developers amongst you.</strong></p>
+<p>A chat with Dave Dean (who many of you may know on Twitter as <a href="https://twitter.com/wpmusketeer" target="_blank">@wpmusketeer</a>), a Genesis developer and consultant based out of Cornwall, UK.</p>
+<p>And &#8211; while I&#8217;d be excited to chat with Dave any time &#8211; I particularly wanted to do an interview with him at the moment because he&#8217;s just released <a href="https://www.musket-theme.com/" target="_blank">Musket</a>, a &#8216;modern workflow development framework built on Genesis and WordPress&#8217;.</p>
+<p>In the interview, Dave talks about:</p>
+<ul>
+<li>how he got into Genesis,</li>
+<li>why you might choose Musket over other development workflow choices out there,</li>
+<li>and his tips for getting into WordPress development if you&#8217;re just starting out.</li>
+</ul>
+<p>If you&#8217;re a Genesis developer (or curious to take the leap yourself) I&#8217;m sure you&#8217;ll find it useful.</p>
+<hr />
+<p><strong>NICK: For those that don’t know, tell us a little bit about yourself, where do you live, what do you do and what makes you tick?</strong></p>
+<p>DAVE: I’m a web developer and online consultant to small businesses, helping them integrate their offline and online business processes and marketing so they can compete against the big boys!</p>
+<p>I’m based in rural Cornwall in the UK and my partner is a full-time mum, so I’m pre-occupied with diversifying my income to help protect against the financial vagaries that are often associated with freelancing.</p>
+<p>To that end I have engineered a mixture of income streams &#8211; I take some salary, some retained consultancy and some ad hoc freelance income. I have also started to develop a “personal brand” in WP Musketeer as a platform for selling products, the first of which is Musket&#8230;</p>
+<p><strong>How did you first get into Genesis website development and how long have you been working with it?</strong></p>
+<p>I came to Genesis via <a href="http://www.copyblogger.com/" target="_blank">Copyblogger</a>. With a keen interest in online marketing I became a <a href="https://twitter.com/brianclark" target="_blank">Brian Clark</a> fanboy and stumbled across it by accident via that route.</p>
+<p><strong>What are the biggest reasons to work in Genesis for you?</strong></p>
+<p>Aside from it being a solid SEO foundation, I like that it’s hook oriented. Being able to manipulate the framework this way promotes a better separation of concerns between stylistic (front-end) code and structural and business logic (back-end) code. It’s closer to a modern MVC framework than most WordPress frameworks, whilst still being “WordPressy”.</p>
+<p><strong>Genesis 2.2 came out with a big focus on accessibility. What, if anything, would you like to see on the roadmap for future Genesis releases?</strong></p>
+<p>WordPress (and thereby Genesis) are primarily suited for client services. By that I mean they are a great platform for freelancers and agencies who are building new sites on a regular basis with access to a massive ecosystem of turn-key addons (plugins).</p>
+<p>The reason they are so well suited to client services? They are ardently backwards compatible and they don’t introduce revolutionary new features too often. This makes it safe and relatively easy for the freelancer or agency to maintain a large number of sites.</p>
+<p>So I don’t feel the need for Genesis to introduce revolutionary features. It just needs to keep up with WordPress and the broad evolution of web standards, such as responsive design in the past and accessibility more recently.</p>
+<p><strong>Any other hidden talents or passions you’d like to share?</strong></p>
+<p>My big passion is the outdoors. But I don’t get to spend nearly enough time in it any more!</p>
+<p><strong>Firstly, massive congrats on the launch of <a href="https://www.musket-theme.com/" target="_blank">Musket</a>. What’s the reaction been like so far? </strong></p>
+<p>The reaction has been positive. Some people are enjoying it for reasons that I expected and some are enjoying it for reasons that I didn’t!</p>
+<p>I expected people to dig how quickly you could get a site live, but I didn’t appreciate people would find it a useful tool for learning about the technologies it makes use of.</p>
+<p>It seems that if you’re not already familiar with, say, Sass or Gulp, that seeing how they are used in Musket is a useful way to understand them.</p>
+<p><strong>For people that don’t know, what’s the backstory to Musket, what made you decide to do it and why now?</strong></p>
+<p>I was asked to talk about Bourbon and Neat at Genesis Camp earlier in the year, because I had incorporated it into a Genesis starter theme.</p>
+<p>In the talk I explained Bourbon and Neat by demonstrating my starter theme, which I spun up with a DesktopServer Blueprint and proceeded to deploy to a live server via Git. People were far more interested in the workflow and how fast the site was spun up than they were Bourbon and Neat &#8211; and so the idea of Musket was born!</p>
+<p><strong>As someone who dabbles in web development myself, the choices out there for developers these days are mindblowing. Different frameworks, starter themes and other new tools. How do you see Musket fitting into a typical Genesis developer’s workflow and why should they use it over some of the options available to them?</strong></p>
+<p>If you’re a Genesis developer, then the fact that Musket is based on a Genesis child theme is an obvious benefit compared to those that aren’t. There are a couple of freely available Genesis starter themes that incorporate Bourbon and Neat but Musket is different in a number of ways.</p>
+<p>It is internationalised and right-to-left (RTL) language compatible. It is seriously accessible. It has a suite of automation tasks that take care of your Sass and JavaScript and recreate your language files on the fly. It includes a suite of common web design components (parallax sections, tabs, accordions, modals etc.) with equivalent admin metaboxes that let the end-user edit their content. It works with WooCommerce and Easy Digital Downloads straight out of the box. It comes with a DesktopServer Blueprint that sets all of this up in seconds.</p>
+<p>Musket isn’t designed to fit <i>into</i> a workflow, so much as it is designed to <i>be</i> a workflow. So it’s particularly useful for designers / developers that either don’t have a consistent workflow or know they could be using better tools in their workflow and just haven’t had the time to research and learn about them.</p>
+<p>On top of that, it is very much aimed at designers / developers working in client services (you know, that sweetspot I talked about earlier). It’s engineered for building sites quickly but whilst maintaining the higher-end features like internationalisation (i18n) and accessibility (a11y) that let you add value to your offering. Most of the time, i18n and a11y get ignored because they’re complicated and the client doesn’t have the budget. Musket makes them easy and lets you offer those features in-budget. Added value that helps you beat out your competitor&#8230;</p>
+<p><strong>Have you set goals for the project (financial or otherwise)?</strong></p>
+<p>There are two goals: To create an additional revenue stream of unspecified size and to learn what I can about selling digital products in the process!</p>
+<p><strong>I love the ‘Musket’ name, but apart from that have you given much thought about how you’ll distinguish what you’re doing from other Genesis / WordPress development frameworks? Any specific marketing ideas or plans you can share?</strong></p>
+<p>Hopefully the bevy of benefits mentioned above distinguish Musket from the alternatives out there.</p>
+<p>It’s certainly different to the likes of Bedrock or WP Starter. Musket doesn’t try and hack WordPress into a sub-directory and make it a dependency of a wider app. That’s a nice idea if you work day-in, day-out on the same large-scale app with no input from lay end-users but to be honest, if you’re doing that, why the heck are you using WordPress? Use a dedicated web app framework like Rails or Meteor.</p>
+<p>Musket is for freelancers or agencies working in client services. It’s great for freeing up their time which is better spent on adding value to their offering. The WP Musketeer site already helps those people via how-tos and tutorials so I’ll continue to get the word out that way. The rest of my marketing plan is in a folder marked “Top Secret”, so you’ll just have to watch this space&#8230;</p>
+<p><strong>When you came up with Musket, were there any other web development frameworks / starter themes etc, either inside or outside of the Genesis community you took inspiration from?</strong></p>
+<p>I came to WordPress from Rails. The idea of an “opinionated” framework and “convention over configuration” came from having worked in that arena. Whilst it’s not possible to completely mirror that style of development with WordPress it’s certainly where I drew most of my inspiration.</p>
+<p><strong>Away from Musket, do you have a typical type of client that you work with or specialise in any particular area of development / consulting?</strong></p>
+<p>I only work with a small number of clients, but offer them a wide range of services.</p>
+<p>The main industries I work in are drinks manufacture, printing and assistive technology.</p>
+<p>My development speciality would be custom print solutions (image editing API integration and WooCommerce solutions for bespoke products sold by area).</p>
+<p>My consulting speciality would be integrating business back-office systems (order management / inventory control / accounts etc.) with WordPress and WooCommerce and general online and content marketing.</p>
+<p><strong>You obviously give a lot of thought to your workflow, hence Musket, but of course there’s always room for improvement. What’s the one thing you’d like to improve in your own web development workflow as of today?</strong></p>
+<p>I want a terminal command (probably `musket start project-name`) that splits up my terminal into multiple panes, each within a certain directory of the project with a relevant command running (eg. `gulp` and `git status`). I reckon I can do it with something like itermocil.</p>
+<p><strong>Aside from recommending they use Genesis and Musket(!), what advice would you give to people out there who are maybe just getting started with developing with WordPress?</strong></p>
+<p>Make sure you’re using it for the right reasons. If you’re looking to make a web “app”, then WordPress may not be for you… go take a look at Rails or Meteor.</p>
+<p>If you want to make a one-off website to sell your own product or you want to freelance in client services then WordPress is perfect. However, there isn’t necessarily a “right” way to do things with WordPress, which can make it very hard to learn best practices when you’re starting out. Musket tries to address that to a certain extent and as I mentioned earlier, Genesis is a good framework for encouraging a separation of concerns.</p>
+<p>Read other people’s code and refer back to the codex!</p>
+<p><strong>What’s next for Musket?</strong></p>
+<p>I’m looking at offering a version that works with vvv.</p>
+<p><strong>What’s the best way for people to get in touch with you if they want to learn more about what you do?</strong></p>
+<p>Head over to <a href="http://www.wpmusketeer.com">www.wpmusketeer.com</a> and sign up to the email list or harass me on Twitter: <a href="https://twitter.com/wpmusketeer" target="_blank">@wpmusketeer</a>.</p>
+<p><strong>And finally the most important question of all, Game of Thrones or Downton Abbey?</strong></p>
+<p>With my facial hair? Game of Thrones. The real question is: books or TV series?</p>
+<hr />
+<p>Thanks to Dave for taking the time and giving some great answers.</p>
+<p>If you want to check out Musket for yourself be sure to head on over to <a href="https://www.musket-theme.com/" target="_blank">musket-theme.com</a> and don&#8217;t forget your chance to win a copy in Dave&#8217;s generous giveaway below!</p>
+<p>And if you have any other questions for Dave, feel free to leave a comment below and I&#8217;m sure he&#8217;d be happy to swing by and answer them.</p>
+<p><strong>PS</strong> If you&#8217;d like to hear more from Dave, <a href="http://ukgenesis.co.uk/podcasts/dave-dean-episode-18/" target="_blank">check out his recent chat on the UK Genesis podcast</a>.</p>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Win a copy of Musket!</h2>
+<p style="text-align: center;"><strong>For your chance of winning a <a href="https://www.musket-theme.com/" target="_blank">copy of Musket</a> &#8211; the new Genesis web development framework from Dave &#8211; just enter your name and email address below.</strong><br />
+<em>(Competition closes 11:59pm PST, Sunday 1 November 2015)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished *sad face*, but look out for new chances to win cool stuff in future articles *happy clap*.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-dave-dean/">Meet Dave Dean (and win a copy of Musket!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Lauren Gaige (and win a Genesis theme!)</title>
+		<link>https://genesiswp.guide/meet-lauren-gaige/</link>
+					<comments>https://genesiswp.guide/meet-lauren-gaige/#comments</comments>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2015 12:30:38 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=209</guid>
+
+					<description><![CDATA[<p>Lauren Gaige on her new WordPress theme marketplace, Pink & Press; how you can get involved; plus, win a Restored 316 Designs theme.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-lauren-gaige/">Meet Lauren Gaige (and win a Genesis theme!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="aligncenter size-full wp-image-213" src="http://genesiswp.guide/wp-content/uploads/2015/09/lauren.jpg" alt="Lauren Gaige" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2015/09/lauren.jpg 660w, https://genesiswp.guide/wp-content/uploads/2015/09/lauren-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><strong>Today I&#8217;m delighted to share an interview with one of the leading lights of the Genesis community, <a href="https://twitter.com/restored316" target="_blank">Lauren Gaige</a>.</strong></p>
+<p>Not only is Lauren the founder of successful theme shop, <a href="http://restored316designs.com/" target="_blank">Restored 316 Designs</a>, she&#8217;s also just launched <a href="http://pinkandpress.com/" target="_blank">Pink &amp; Press</a>, a new feminine themes marketplace for WordPress.</p>
+<p>Already featuring themes from well known Genesis names, <a href="https://twitter.com/OhHelloDesigns" target="_blank">Susan Nelson</a> and <a href="https://twitter.com/thepixelista" target="_blank">Jessica Barnard</a>, she&#8217;s also looking for other top feminine theme designer / developers to get on board (something she talks more about below).</p>
+<p>Plus as well as a surprise announcement (you&#8217;ll have to read the interview!), she&#8217;s also generously giving away a Restored 316 Designs WordPress theme in our competition at the end of the interview.</p>
+<p>Let&#8217;s meet Lauren Gaige!</p>
+<hr />
+<p><strong>NICK: You’re probably most well known, at least in the Genesis community, for being the creative force behind all the beautiful themes over at Restored 316 but for those that maybe don’t know, tell us a little bit about yourself, where you live, what you do and what makes you tick?</strong></p>
+<p>LAUREN: Well, my name is Lauren Gaige and I live in Austin, TX where I’ve been for nearly 11 years. Before that, I lived in Houston TX where I met my husband of almost 11 years. We have two beautiful children.. our daughter is 8 and our son is 3.</p>
+<p>I’ve always been a lover of anything creative. You would either find me drawing, playing music, or taking photographs growing up. Creativity is what fuels me and with it, it truly drives me to help others.</p>
+<p>But more than creativity, my heart and passion are to inspire others to make their big God-sized dreams happen. That’s what makes me tick! It’s why I work hard every day to “make the internet beautiful one website at a time<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />” and encourage women that they can make those dreams a reality, and the start of that is a beautiful website design!</p>
+<p><strong>How did you first get into Genesis and how long have you been working with it?</strong></p>
+<p>I first discovered <a href="http://www.studiopress.com/" target="_blank">StudioPress</a> with the launch of the original <a href="http://my.studiopress.com/themes/lifestyle/" target="_blank">Lifestyle theme</a> and began designing custom sites with that. When Genesis was released I immediately jumped on board, although with some hesitation since it was learning a whole new way of coding, but have never looked back! So I’ve been working with Genesis now for over 5 years!</p>
+<p><strong>What are the biggest reasons to work in Genesis for you?</strong></p>
+<p>Since I’m a theme developer now, my biggest reasons are security, SEO, and updates. Not having to worry about going back through each of my child themes I release to make sure they stay up to date with latest security measures, SEO tools, etc is huge for me in running a business, and also for the user to know they can trust the team at <a href="http://rainmakerdigital.com/" target="_blank">Rainmaker Digital</a> to keep their site all up to date while Restored 316 focuses on gorgeous designs!</p>
+<p><strong>Genesis 2.2 has just been released with a big focus on accessibility. What, if anything, would you like to see on the roadmap for future Genesis releases?</strong></p>
+<p>Because my market is predominantly women and do it yourselfers, most of them would really love to have more customization options such as font changes or widget flexibility. I would love to see these types of features added in the future to give the user a little more control of their own site.</p>
+<p><strong>I know that you enjoy photography, any other hidden talents or passions you’d like to share?</strong></p>
+<p>Hahaha! I’m obsessed with music and everyone around me says I can sing.. but I’m critical of myself in that department so I’ll stick to designing websites and taking pictures, and just sing in the shower! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Aside from that, I have a passion for inspiring women to fulfill their God-given dreams and helping them make it a reality! I was in their shoes when I started my business over 7 years ago and all I wanted was to have a business and be able to stay home with my children… I only want the same for other women like myself!</p>
+<p><strong>I could definitely ask you about 100 things about <a href="http://restored316designs.com/" target="_blank">Restored 316</a> (and I encourage people to check it out if they haven’t seen it!) but given the timing of this article it seems most appropriate to ask you about your new project, <a href="http://pinkandpress.com/" target="_blank">Pink &amp; Press</a> (‘a feminine WordPress theme marketplace’). For people that don’t know, what’s the backstory to it, what made you decide to do it and why now?</strong></p>
+<p>I have had this idea in my mind for well over a year and have even owned the domain for just as long. It’s something I’d talk about and dream about with my husband but would always second guess myself on whether or not it was all actually a good idea or that it was needed in the market. When creating something completely new and something that hasn’t been done before, it’s a little nerve wracking to put it all out there for everyone to see.</p>
+<p>Then a few months ago, I started seeing consistent emails from clients that had horrible experiences with other theme developers on places like Creative Market and Etsy and this idea immediately came up once again. With the influx in theme “developers” all over the internet now, I figured the time was probably right now to launch this project!</p>
+<p>Overall, Pink &amp; Press is there to bridge the gap for buyers AND developers to solve the issues that have been experienced in the market with the incredible growth of WordPress as a whole, and the developers wanting to be a part of it.</p>
+<p>From the feminine theme market standpoint, there is no universal place to buy trusted themes where you know the code is quality, the design is unique, and the support is there when you need it. Because there are no coding standards the seller has to adhere to, anyone can sell a theme on Etsy or Creative Market, and Pink &amp; Press is here to fill that void.</p>
+<p>So from a buyer standpoint, Pink &amp; Press is solving the problem of finding a trusted developer that has developed a well coded theme, and one that will provide the support to help get you up and going. I’ve heard way too many horror stories from people who have paid $50 for a theme only to discover they get no support, or the code is horrible, and then they have to start their search all over again having wasted $50 and countless hours of time. And coming from someone who only had $10 when I started my business, this type of business is absolutely unacceptable to me!</p>
+<p>From a developer standpoint, there are sooooo many talented Genesis theme developers out there that know their stuff, but have no time to dedicate to opening a theme shop because they don’t want to have to drive a ton of traffic to their own websites. Pink &amp; Press is that place they can create themes and put them for sale without having to spend a ton of time marketing and promoting their own themes. If you’re a Genesis developer and have a feminine style of design, we would love to have you!</p>
+<p><strong>I see that you already have two great developers (<a href="https://twitter.com/OhHelloDesigns" target="_blank">Susan</a> at <a href="http://ohhellodesigns.com/" target="_blank">Oh Hello Designs</a> and <a href="https://twitter.com/thepixelista" target="_blank">Jessica</a> at <a href="http://thepixelista.com/" target="_blank">The Pixelista</a>) on Pink &amp; Press and you’re looking to add more. Other than following the Pink &amp; Press Promise that you’ve published, do you have particular criteria in mind when deciding which developers you add next?</strong></p>
+<p>Sure! I’m looking for code that is well organized, someone who has been developing for quite a while, has some experience in the Genesis community, has a trusted background of taking care of their clients, and original theme designs&#8230; all with a feminine touch! I know that’s a mouth full, but these things are ALL so important to me!</p>
+<p><strong>How is your time split at the moment between Pink &amp; Press, <a href="http://www.cuptakes.com/" target="_blank">Cuptakes</a> (your iPhone app / case business) and Restored 316? Do you plan shift more of your time to Pink &amp; Press if things go well (in terms of maybe doing more marketing etc) or do you see it strictly as a side project?</strong></p>
+<p>This is a great question that I get asked a lot. Many people think I do it all, but what you don’t know is I have lots of help! My husband is the guy behind Cuptakes and he manages everything involving that business&#8230; cases sold through the site, case manufacturing, emails, social media, designing, and updates for the app. I did do monthly designs for Cuptakes up until recently when we realized I simply didn’t have the time to do all the designs anymore, so there are some changes going on behind the scenes with the app and we are looking into having some contributing designers to add designs along with designs from me from time to time!</p>
+<p>At Restored 316, I have two amazing employees that rock! <a href="http://www.courtneykirkland.net/" target="_blank">Courtney Kirkland</a> is my assistant and she handles all the nitty gritty stuff of my business so that I can actually work ON my business instead of always IN it. She’s my email rockstar answering the bajillion emails that come through every day. I also have <a href="http://ebizelephant.com/" target="_blank">Stephanie Hellwig</a> on our support desk answering all those questions and helping get the theme set up and beautiful like our demo sites!</p>
+<p>As for Pink &amp; Press, my husband is also handling all the behind the scenes task with this business! I’ve realized my gift is design and development and to let others take on the task they are good at. My husband is very analytical and is a great writer, so he’s great at answering emails and handling the legalities that come with the Pink &amp; Press business model! I’d say we are a great team <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Have you set goals for the project (financial or otherwise)?</strong></p>
+<p>Yes and no. At first I just launched this project apprehensively because I wasn’t sure how it would be received in the market. However, after it’s launch, I’m seeing more than ever that it is so needed and have gotten a lot of amazing feedback through email and social media. So I have a short term sales goal and we will see how it goes! I’ll say I’m a huge goal setter and am an absolutely determined person, so I have no doubts that we will get there way sooner than I even expect us to!</p>
+<p><strong>Have you given much thought about how you’ll distinguish what you’re doing from other Genesis / WordPress theme marketplaces? If so, how do you plan to do so?</strong></p>
+<p>The main differentiating factor between Pink &amp; Press and other marketplaces is that we will only offer Feminine style designs. The feminine theme market is absolutely there, as I’ve seen in the incredible success of Restored 316, so I think having a place specifically dedicated to that market is needed.</p>
+<p>It’s also a place that buyers can come and know they can TRUST the developer. This is backed up by the Pink &amp; Press Promise that assures each customer that their theme meets our quality standards.</p>
+<p><strong>What do you think of the current state of the Genesis theme market and where do you see it headed?</strong></p>
+<p>As for the current state, I see it as an incredible success. Again, I’ve been blown away by the amount of business we get at Restored 316, and it’s really opened my eyes to the Genesis theme market and how much it’s needed…. especially in the feminine style arena.</p>
+<p>As for the future, I see future designs starting to be geared firstly for mobile devices. With the increase in stats of people viewing sites strictly on their mobile device, I think theme design for mobile will just continue to get better and better so you can have a beautiful website from the computer screen all the way down to the smallest mobile device.</p>
+<p><strong>What are your thoughts at the moment on marketing Pink &amp; Press and who do you expect your typical customer to be (e.g. fellow developers, ‘regular’ website users, a particular niche etc.)?</strong></p>
+<p>Well, I think the market for Pink &amp; Press buyers is exactly the same people I attract over at Restored 316. Women who are wanting to start a business or blog, bloggers who want a new design, and developers designing these types of sites for their clients!</p>
+<p><strong>Are there any other WordPress businesses you particularly look up to, either inside or outside of the Genesis community to copy get inspiration from (and why)?</strong></p>
+<p><a href="http://www.emilyley.com/" target="_blank">Emily Ley</a>! I love her as a person and that she is real and authentic with her audience. I think her buyers connect with her story and therefore connect with her brand (which is gorgeous anyways!) and we can all learn a thing or two from that nowadays with the growth of social media. I want to personify an authentic brand and I want my passion for what I do to shine through the computer screen just as Emily has done with her business.</p>
+<p><strong>Finally, any other ‘never before revealed ‘information about Pink &amp; Press that you’d like to share with GenesisWP.guide readers? <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>We will be launching an affiliate program VERY soon, so be sure to come over and subscribe to the newsletter to be the first to know about that!!</p>
+<p><strong>What’s the best way for people to get in touch with you if they want to learn more about what you do?</strong></p>
+<p>I’m obsessed with <a href="https://instagram.com/restored316/" target="_blank">Instagram</a>, so you can always leave me a message there or shoot me an email directly at lauren@restored316.com</p>
+<p><strong>And finally the most important question of all, Game of Thrones or Downton Abbey?</strong></p>
+<p>Oh hands down… Downton Abbey!! So disappointed I can’t watch it with all the British people right now!</p>
+<hr />
+<p>Thanks so much to Lauren for taking the time to answer so many questions.</p>
+<p>If you haven&#8217;t already, make sure you check out <a href="http://restored316designs.com/" target="_blank">Restored 316 Designs</a> and of course her latest project <a href="http://pinkandpress.com/" target="_blank">Pink &amp; Press</a>.</p>
+<p>I&#8217;ll be back soon with another interview with another awesome Genesis creator.</p>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Win a theme from Restored 316 Designs!</h2>
+<p style="text-align: center;"><strong>For your chance of winning a <a href="http://restored316designs.com/themes/" target="_blank">your choice of theme of your choice from Restored 316 Designs</a> just enter your name and email address below.</strong><br />
+<em>(Competition closes 11:59pm PST, Sunday 27 September 2015)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished *sad face*, but look out for new chances to win cool stuff in future articles *happy clap*.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-lauren-gaige/">Meet Lauren Gaige (and win a Genesis theme!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://genesiswp.guide/meet-lauren-gaige/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet Lindsey Riel (and win awesome things!)</title>
+		<link>https://genesiswp.guide/meet-lindsey-riel/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2015 14:19:12 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=179</guid>
+
+					<description><![CDATA[<p>Pretty Darn Cute creator, Lindsey Riel, on switching from client work to pre-made themes, working with Susan Ramsey, and where she finds design inspiration.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-lindsey-riel/">Meet Lindsey Riel (and win awesome things!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="alignnone size-full wp-image-180" src="http://genesiswp.guide/wp-content/uploads/2015/07/lindsey-riel.jpg" alt="Lindsey Riel" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2015/07/lindsey-riel.jpg 660w, https://genesiswp.guide/wp-content/uploads/2015/07/lindsey-riel-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><strong>This week I&#8217;m really happy to be able to share an interview with <a href="https://twitter.com/lindseyriel" target="_blank">Lindsey Riel</a>, creator of <a href="http://prettydarncute.com/" target="_blank">Pretty Darn Cute</a>, one of the best and smartest people you&#8217;ll find when it comes to creating fantastic WordPress Genesis themes and services.</strong></p>
+<p>For many of you, Lindsey won&#8217;t need any introduction of course. But for those that do, as designer and founder of Pretty Darn Cute she&#8217;s been producing eye-catching Genesis themes for WordPress longer than most of her contemporaries.</p>
+<p>And that experience and commitment shows today in both the great business that&#8217;s she built and the seemingly endless number of passionate <a href="http://prettydarncute.com/pretty-darn-happy-customers/" target="_blank">testimonials</a> you&#8217;ll find describing her work.</p>
+<p>If you make and sell WordPress themes or are thinking of doing so I think you&#8217;ll find a tonne of value in this interview especially.</p>
+<p>Lindsey also works closely with Susan Ramsey &#8211; one of the most well known names in Genesis &#8211; and shares her experience working with her too.</p>
+<p>But whatever your place in the WordPress or Genesis communities I encourage you to read through Lindsey&#8217;s candid and honest answers because there&#8217;s a lot of value there for everyone.</p>
+<p>Finally, not only was Lindsey generous in sharing her time while still catching up with life after a recent move across the country, she also offered to do a competition too (more on that at the end of the interview).</p>
+<p>Without further ado, I&#8217;m delighted to share my Q&amp;A with Lindsey.</p>
+<p>I hope you enjoy.</p>
+<hr />
+<p><strong>NICK: When I first came across your site (probably a few years ago now!) at that point I think you were still ‘client projects’ first and ‘pre-made themes’ second. Now of course you’ve very much made the switch to pre-made themes first and have been that way for a while. I know <a href="http://officehours.fm/podcast/5-2/" target="_blank">when you spoke to Carrie Dils on Genesis Office Hours</a> (now OfficeHours.fm) last year, you said the change was a lot to do with the good problem of not having time for all the client projects. Now a little more time has passed can you tell me a bit more about what it’s been like for you and the business since making that decision? (Presumably a good one!)</strong></p>
+<p>LINDSEY: Transitioning to creating pre-made themes from client work has undoubtedly been the best decision I ever made.</p>
+<p>It was in my mind from the beginning but I had to wait until the time was right, which was after several years of working with high profile bloggers from all genres and connecting with the best in the business, <a href="http://www.studiopress.com/" target="_blank">StudioPress</a>.</p>
+<p>I didn’t want to just create a pretty theme, I aimed to provide function and ease of use. I think a lot of people jump on the pre-made wagon and assume it’s simply a matter of selling the visual aspect.</p>
+<p>While that is important, it is not what will keep your customers returning. Anyone can sell pre-made themes.</p>
+<p>The market is now flooded, however, my business continues to thrive.</p>
+<p>I attribute that continued success to a desire to help people take control of their website. I realised there are many small tasks that web owners see as huge hurdles, that I could completely eliminate for them through my design.</p>
+<p>Beyond design, and function, support has always been most important. I was fortunate enough to start out handling theme support through the <a href="http://www.studiopress.com/forums/" target="_blank">StudioPress forums</a> which allowed me to watch how some of the most intelligent people in our field handled support questions, and then model that behaviour for my customers.</p>
+<p>More on this later, but Susan Ramsey handling support for PDCD has been nothing short of amazing.</p>
+<p><strong>What’s been the biggest unexpected challenge (if you’ve had one!) in making the switch?</strong></p>
+<p>Initially it was handling the business end of things, support was taking most of my time every day because I had not yet learned how to anticipate the type of questions people would be asking.</p>
+<p>I would say it took me a good year to nail down exactly what should be covered on the theme setup instruction pages, but I continue to learn with each theme release and build upon that knowledge to help make our customer experience as simple, and enjoyable, as possible.</p>
+<p>When it comes to building, polishing, and perfecting I will never be satisfied. In the most positive way.</p>
+<p>Present day, I do not see anything as a hurdle, but more of a challenge, and I am always excited to divide and conquer.</p>
+<p><strong>I think one of the biggest concerns people have about opening a theme shop is that they might get swamped with support requests! How has that been for you? I know you also have Genesis community legend(!) <a href="https://twitter.com/graphdesigning" target="_blank">Susan Ramsey</a> helping you with that, that must be fantastic?</strong></p>
+<figure id="attachment_181" aria-describedby="caption-attachment-181" style="width: 300px" class="wp-caption alignright"><img loading="lazy" class="wp-image-181 size-medium" src="http://genesiswp.guide/wp-content/uploads/2015/07/lindsey-susan-300x300.jpg" alt="Susan &amp; Lindsey" width="300" height="300" srcset="https://genesiswp.guide/wp-content/uploads/2015/07/lindsey-susan-300x300.jpg 300w, https://genesiswp.guide/wp-content/uploads/2015/07/lindsey-susan-150x150.jpg 150w, https://genesiswp.guide/wp-content/uploads/2015/07/lindsey-susan.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-181" class="wp-caption-text">Susan &amp; Lindsey</figcaption></figure>
+<p>Absolutely. Susan is truly the best and words really do not do her justice.</p>
+<p>Beyond having the patience of a saint, she knows the answer to any question you throw at her. She has taken the stress, and even thought, of support completely off my plate. The PDCD support desk is hers, and she’s a rockstar at running that thing.</p>
+<p>The experience of creating pre-mades for as many years as I have when it comes to creating the setup tutorials, combined with Susan’s expertise, make for the ultimate in available knowledge for our customers.</p>
+<p>Susan keeps me updated on frequent questions people are asking, any errors in my instructions or plugins that have been deprecated etc. Together we are an amazing team, and I could not function without her.</p>
+<p><strong>A lot of Genesis developers (<a href="http://leanthemes.co" target="_blank">including myself!</a>) have experimented with selling pre-made themes either as side project or something they hope to grow into their main income. Now you’ve made that shift from client projects to pre-made themes what advice, if any, would you give to others who are thinking of maybe making the same transition?</strong></p>
+<p>I think it is important to make sure you are designing for your audience, to have a stellar support system in place, and be as available as possible to really tune into what it is you can improve upon constantly.</p>
+<p>The desire to get better, the passion to create, that’s what keeps me going.</p>
+<p>The business end of things is not going to succeed if the creative side does not drive you.</p>
+<p><strong>I know that you also offer some standard services alongside theme sales which seem really well thought out, like 24 hour setup, the <a href="http://prettydarncute.com/product/tada-online-wordpress-workshop/" target="_blank">TADA! Online Workshop</a> (which includes access to videos on setting up the sites etc), have these been popular for you?</strong></p>
+<p>TADA! has been a pleasant surprise.</p>
+<p>Going along with what I mentioned previously, I wanted to help others take control of their sites.</p>
+<p>Once I transitioned to pre-made development from client work, I kept a few clients/friends and I am always sending them tips and tutorials.</p>
+<p>Things to help them streamline their daily blog posts, placing ads, awesome plugins, the best way to resize images and so on. I want them to have the best of everything, so I would spend hours creating tutorials and emailing them.</p>
+<p>I realized there are so many who could benefit from knowing these things, and I was already investing the time and effort, so just like that TADA! was born.</p>
+<p>I’m very happy with the amount of sales, and positive feedback TADA! has generated.</p>
+<p>Our 24 hour setup package has also been successful and that is entirely Susan. She handles every single one, and she does so expertly.</p>
+<p><strong>Do you set yourself particular goals for PDCD as a business, for example, in six or twelve months from now? I know a lot of people that are happy to hit a certain size and then feel that’s OK for them. They don’t want to manage too many staff or end up outsourcing a load of stuff. Of course, these are good problems to have(!) but would you want to keep growing PDCD if you can or do you have in your mind a particular point that you’re happy with?</strong></p>
+<p>I actually ask myself this question often, but that is the extent of my goal planning. Thinking about expansion, what I can do to improve and so on.</p>
+<p>I know a lot of developers pump a new theme out weekly, create launch deadlines etc. and that works for them, but I am not a timeline kind of gal. Which is another reason premade development works so perfectly for me.</p>
+<p>I always tell my husband creativity can have no timeline. Especially when the dishes are overflowing, and the laundry is piled high.</p>
+<p>I will never allow myself to become complacent, and while I would love to be the Martha Stewart of web development, I do not feel the pressure to force that sort of expansion.</p>
+<p>If I’m launching a new theme, it’s because I’ve put my heart and soul into it and feel like it’s ready for consumption. Not because I felt like I had to, or like it was time.</p>
+<p><strong>Aside from your online work, I think one of the most interesting things you’ve done is the TADA! workshop where people come along and get their website completely set up in a single day. How did that go? I know that you also have the online TADA! Workshop package too but do you think you’ll do any other live events?</strong></p>
+<p>The one day workshop was a blast!</p>
+<p>Susan and I had a lot of fun, and are still in touch with most all of the attendees. We made lifelong friends, and helped people which we saw as a successful day.</p>
+<p>What we noticed was most of the attendees already had their sites up and were looking to tweak them, and better understand how things work.</p>
+<p>When I planned our second workshop it was more centered on what we now offer in the online version.</p>
+<p>Unfortunately, I had to cancel that event a few days after launching the signup due to my husband receiving (Military) orders with conflicting dates for our move to the North East.</p>
+<p>The live events are a lot of fun, and we are able to be more one on one with people after the presentations. I would love to have another one soon, it’s always in the back of my mind.</p>
+<p><strong>Since Copyblogger launched the Rainmaker Platform last year there’s been a lot of talk in the Genesis community about it. Is that something you’ve worked on with any clients? Do you have any plans for PDCD and Rainmaker, like developing Rainmaker specific themes, for example?</strong></p>
+<p>I have heard nothing but amazing things about Rainmaker, and I know the people behind it put 100% into everything they do. I personally have not had a chance to dig into it and “play”, but absolutely look forward to working with Rainmaker in the future.</p>
+<p><strong>I interviewed <a href="https://twitter.com/bgardner" target="_blank">Brian Gardner</a> last year and I don’t know if you know but he mentioned <a href="https://twitter.com/billerickson" target="_blank">Bill Erickson</a>, <a href="https://twitter.com/cdils/" target="_blank">Carrie Dils</a> and yourself as the three people to really watch and learn from if you want to develop a business in the Genesis space. In particular he highlighted things you guys are all doing well like well thought out business models, branding, content marketing, being active in the community etc. I know that a lot of designers and developers don’t always have a natural affinity for the business side of things, preferring to focus on the immediate work in front of them. Is that something you found hard to pick up or a big mindset shift to have to make? Are there any particular people or businesses, either inside WordPress or out, that you look up to or try to learn from in terms of marketing, business strategy etc?</strong></p>
+<p>Wow, that is a huge compliment coming from Brian and to be included with the likes of Bill Erickson and Carrie Dils.</p>
+<p>I would not have the business I have today if it weren’t for Brian Gardner.</p>
+<p>He is one of those rare, genuinely kind, insanely creative and helpful people you meet in life and I consider myself lucky to know him.</p>
+<p>As far as how I model my business, again, I had the advantage of learning from the best at StudioPress early on.</p>
+<p>I continue to watch and learn from them, as well as listen to my customers. Through Brian I found the genius of <a href="https://twitter.com/sugarrae" target="_blank">Rae Hoffman</a>, <a href="http://www.copyblogger.com/" target="_blank">Copyblogger</a>, and numerous others who are the best at business and provide resources for people like me to continue learning every day.</p>
+<p>Man this is beginning to sound like a StudioPress promo, but truly StudioPress and the Genesis Framework are the central point of success in my case.</p>
+<p><strong>Perhaps not surprisingly, given the name Pretty Darn Cute Design(!), one of the stand out things about PDCD is the designs you create. I know you’ve said that you’ve always had an inherent desire to be creative, but is design something you feel you’ve always been good at? Did you have any formal training?</strong></p>
+<p>Thank you!</p>
+<p>The funny thing about feeling like you are good at design is you will undoubtedly look back and think your past work is just awful, sometimes even only a week later. Ha!</p>
+<p>That said, I have always believed in my ability and been confident that what I did not know, or do well, I would learn and improve upon.</p>
+<p>I have not had any formal training, but I have had years of some pretty awesome trial and error. I would not trade those frustrating nights of learning on my own for a free ride to the best design school out there.</p>
+<p>I have always been good with computers. I started on my first Mac in kindergarten (lucky for me, a public school no less) and have never known life without them.</p>
+<p>I do not have the level of confidence I have when it comes to design in any other area of my life.</p>
+<p>In fact, I was once called “Mrs. Inferiority Complex” as a teenager and that is something I continue to struggle with today.</p>
+<p>When I found design, and more specifically web design, it just felt right. The perfect outlet for me.</p>
+<p><strong>Where and / or who do you look to for design inspiration?</strong></p>
+<p>Life, man.</p>
+<p>Billboards, magazines, furniture, shopping in general, connecting with other designers etc.</p>
+<p>The number one inspiration for my designs is usually found while browsing the internet.</p>
+<p>I’ve found fonts I love while researching recipes, techniques on makeup tutorial blogs, and so on.</p>
+<p><strong>For those of us that maybe aren’t designers but would like to get better at it would you recommend any particular way to learn or improve? Or should I us developer types just stick to the code and look to partner with awesome designers instead <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ?</strong></p>
+<p>I think anyone can become great at anything with practice.</p>
+<p>Design is one of those things that is ever changing, so what you may be good at today can go out of style tomorrow. Which pretty much almost levels the playing field <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Admittedly, one needs to know the basics and experience that amazing trial and error thing so you’re able to quickly adapt to new trends.</p>
+<p><strong>What’s the best way for people to get in touch with you if they want to learn more?</strong></p>
+<p>Email, and I would love to chat: <a href="mailto:Lindsey@PrettyDarnCute.com" target="_blank">Lindsey@PrettyDarnCute.com</a></p>
+<p><strong>Finally, the most important question! Game of Thrones or Downton Abbey?</strong></p>
+<p>GOT! My Dad read the books years ago and was always quoting various characters, now I’m able to understand most of what he’s been saying for so long <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>I have not found enough quiet time since our cross country move to dig into Downton Abbey, but it’s next on my list. I’ve heard wonderful things!</p>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Win a TADA! membership + any PDCD theme!</h2>
+<p style="text-align: center;"><strong>For your chance of winning both a <a href="https://prettydarncute.com/product/tada-online-wordpress-workshop/" target="_blank">TADA! membership</a> and <a href="https://prettydarncute.com/genesis-themes/" target="_blank">your choice of theme from Pretty Darn Cute</a> (a combined value of over $100) from Lindsey just enter your email address below.</strong><br />
+<em>(Competition closes 11:59pm PST, Sunday 2 August 2015)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished *sad face*, but look out for new chances to win cool stuff in future articles *happy clap*.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-lindsey-riel/">Meet Lindsey Riel (and win awesome things!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Davinder Singh (and win a copy of his Flex Pro theme)</title>
+		<link>https://genesiswp.guide/meet-davinder-singh/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Tue, 26 May 2015 12:00:59 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=140</guid>
+
+					<description><![CDATA[<p>This week's 'Meet the Maker' interview is with Davinder Singh, Genesis community stalwart and co-founder of Simple PRO Themes, a new Genesis theme shop (plus, your chance to win a copy of their first theme, Flex Pro).</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-davinder-singh/">Meet Davinder Singh (and win a copy of his Flex Pro theme)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="alignnone size-full wp-image-142" src="http://genesiswp.guide/wp-content/uploads/2015/05/davinder-singh.jpg" alt="Davinder Singh" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2015/05/davinder-singh.jpg 660w, https://genesiswp.guide/wp-content/uploads/2015/05/davinder-singh-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><strong>If you&#8217;re into Genesis (and unless you&#8217;ve been living under a rock) you won&#8217;t have failed to notice a flurry of third party Genesis themes and theme shops launching recently.</strong></p>
+<p><a href="http://minimalgenesis.com" target="_blank">Minimal Genesis</a>, <a href="http://themes.calvinmakes.com" target="_blank">new themes from Calvin Makes</a>, plus other planned launches (<a href="http://timberbit.io" target="_blank">TimberBit</a> and <a href="http://www.genesisthe.me" target="_blank">Genesis The.me</a>), means it&#8217;s been a busy time and I&#8217;ve been doing my best to speak to everyone involved (see: <a href="http://genesiswp.guide/calvin-makes-interview/">An interview with Calvin Makes</a>, <a href="http://genesiswp.guide/meet-ryan-townley/">Meet Ryan Townley</a>).</p>
+<p>One name missing from the above list though is <strong><a href="http://www.simpleprothemes.com" target="_blank">Simple PRO Themes</a></strong>, a new theme shop founded by Davinder Singh and Chinmoy Kumar Paul.</p>
+<p>And I&#8217;m delighted to say that Davinder Singh, one half of the dynamic duo and frequent participant in both the Facebook and Slack Genesis WordPress groups, recently popped up to answer a few questions about the business, Genesis and the bigger question of Game of Thrones, Downton Abbey (or maybe even something else?!).</p>
+<hr />
+<h2><i></i>For those that don’t know, tell us a little bit about yourself, where do you live, what do you do and what makes you tick?</h2>
+<blockquote><p>I was born and brought up in Chandigarh (India). I did graduation in Computers and then did MBA in Finance. I worked at a bank for few months and got bored. Then joined DELL as technical expert (loved working there).</p>
+<p>From my school days, I was actively blogging and made lot of sense of out Google Adsense (Understand? You bet!). My main tech blog is still there (<a href="http://www.tothepc.com">tothepc.com</a>) and here&#8217;s a link to my interview during those days: <a href="http://www.speakbindas.com/interview-of-davinder-singh-admin-of-tothepccom/">speakbindas.com/interview-of-davinder-singh-admin-of-tothepccom/</a></p>
+<p>Later I transitioned into web development, SEO and affiliate marketing in search of ‘the’ next creative ‘thing’. During the course of this journey I started a WordPress tips blog (<a href="http://www.basicwp.com">basicwp.com</a>)  and my official design / development portfolio site (<a href="http://www.iguiding.com">iguiding.com</a>). My latest venture is a Genesis theme shop “Simple PRO Themes” (<a href="http://www.simpleprothemes.com">simpleprothemes.com</a>).</p></blockquote>
+<h2>How did you first get into Genesis website development and how long have you been working with it?</h2>
+<blockquote><p>I was using Revolution themes and got hooked to Genesis ever since the Genesis Framework was born. So, it’s been quite a long journey with Genesis so far. All my current web development work (personal and clients) are based on the Genesis Framework.</p></blockquote>
+<h2>What are the biggest reasons to work in Genesis for you?</h2>
+<blockquote><p>Stability, lean code, developer friendly are few reasons in favour of the Genesis Framework. I still remember, lot of people recommended use of Thesis over the Genesis Framework. However, those very people took the ‘U’ turn when Thesis-1 to Thesis-2 disaster happened. In contrast, the Genesis Framework made smooth transition from XHTML to HTML5. This made my belief stronger in the Genesis Framework and now it features in all my projects.</p></blockquote>
+<h2>Away from Genesis and web development, tell us something interesting about yourself that maybe a lot of the people in the Genesis community might not know, like a hidden talent, something crazy that you’ve done or a (previously secret) superhuman ability maybe?</h2>
+<blockquote><p>I wish I had some super human abilities. As boring it may sound, I haven&#8217;t done any crazy stuff (yet!).</p></blockquote>
+<h2>What’s it like working with Chinmoy [Davinder&#8217;s partner in Simple Pro Themes]? <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>
+<blockquote><p>Awesome! He has a calm personality and is real good at the code play.</p></blockquote>
+<h2><b>Firstly, huge congrats on the launch of Simple Pro Themes. I know how stressful it can be launching something new. How did it all go? Any last minute freak outs, surprises (good or bad) or stories you can share?</b></h2>
+<blockquote><p>Thanks Nick. Launch went real smooth, though we did jump the launch date by two weeks! There were last minute website fixes but nothing serious. I guess our previous client work experience came handy in launching Simple PRO Themes website without too many surprises.</p></blockquote>
+<h2>For people that don’t know, what’s the backstory to Simple Pro Themes, what made you decide to do it and why now?</h2>
+<blockquote><p>Simple Pro Themes plan started almost an year ago, but it did not materialize as I was looking for the right partner. I knew Chinmoy from his work profile but never interacted with him. One fine day I shared my plans with him on genesiswp slack group. He was more excited that me and Simple PRO Themes became reality in about 3 months time.</p></blockquote>
+<h2>How is your time split at the moment between Simple Pro Themes and other work? Do you plan shift more of your time to Simple Pro Themes if things go well or do you see it strictly as a side project?</h2>
+<blockquote><p>I don’t consider Simple PRO Themes as a side project. Infact, it is a seamless extension of what I already do: designing themes, coding Genesis themes, answering client questions and helping new users on Studiopress Forums.</p>
+<p>Considering the blockbuster debut of Simple PRO Themes, it for sure will get more attention in the near future.</p></blockquote>
+<h2>Have you set targets for the project (financial or otherwise)? (Will you still speak to me when it makes you rich and (Internet) famous?)</h2>
+<blockquote><p>Richness is all in the mind and not in the bank balance. As such, “If you have little more than what you need” &#8211; you are “rich”. I am already rich in that sense and talking to you &#8211; Happy Joe?</p>
+<p>It has been just one month since the launch of Simple PRO Themes, all our projected targets are already broken by a long way. So, now we are not focussing on that part. Our main focus is on providing the best theme support and developing even better Genesis themes.</p></blockquote>
+<h2>Have you given much thought about how you’ll distinguish what you’re doing from other offerings? If so, how do you plan to do so?</h2>
+<blockquote><p>Yes, that’s the main reason of starting Simple PRO Themes &#8211; to fill the gap for certain type of themes in the Genesis ecosystem.</p>
+<p>With Flex Pro we tried to offer users more than what a standard Genesis theme would offer without any code bloat. Like: custom widgets to easily display content, smart widget positioning to allow setup of different homepage layout without touching the theme code.</p></blockquote>
+<h2>What do you think of the current state of the Genesis theme market?</h2>
+<blockquote><p>It’s great.</p></blockquote>
+<h2>What are your thoughts on marketing Simple Pro Themes and who do you expect your typical customer to be (e.g. fellow developers, ‘regular’ website users, etc.)?</h2>
+<blockquote><p>As of now marketing efforts have been mild and only restricted to connecting with potential users on the GenesisWP Slack and Facebook Groups.</p>
+<p>Although, Flex Pro theme was built for end users but to our surprise we have sold lot more developer licenses. This probably can be anticipated with the flexible homepage layout of the theme. Many developers could be using Flex as their base theme for custom development because in Flex theme you only need to remove or not use specific features as against adding them.</p></blockquote>
+<h2>We all *heart* Genesis, but did you give any consideration to releasing non-Genesis versions of your themes? What made up your mind for you (if it is made up)?</h2>
+<blockquote><p>As of now my heart and mind is with Genesis. So, only Genesis themes unless Studiopress does something ridiculous like Thesis did few years ago.</p></blockquote>
+<h2>Are there any other WordPress businesses you particularly look up to, either inside or outside of the Genesis community to copy get inspiration from (and why)?</h2>
+<blockquote><p>Yes, a theme shop &#8211; which I already started. I also have an eye on ‘learning and training’ space, there is a huge opportunity for quality Genesis training from the ground up.</p></blockquote>
+<h2>Having launched, what’s the one piece of advice you’d give to other creators in the Genesis space that are thinking of launching their own projects?</h2>
+<blockquote><p>Have a proper mix of: creativity, inspiration and usability. If you are launching something on a bigger scale, look for a partner. With another set of eyes, building and refining product(s) is so much easier.</p></blockquote>
+<h2>What’s next for Simple Pro Themes?</h2>
+<blockquote><p>Lot of awesome Genesis themes. At present, two themes are in works: one is at the mock-up stage while the other theme has hit the development stage.</p></blockquote>
+<h2>What’s the best way for people to get in touch with you if they want to learn more?</h2>
+<blockquote><p>I&#8217;m on Twitter @idavinder or my contact page at <a href="http://www.iguiding.com">iguiding.com</a> I&#8217;m also on GenesisWP Facebook and Slack groups.</p></blockquote>
+<h2>Game of Thrones or Downton Abbey?</h2>
+<blockquote><p>Neither. Anything on National Geographic Channel!</p></blockquote>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Giveaway: Win a copy of Flex Pro!</h2>
+<p style="text-align: center;"><strong>For your chance of winning a personal license (worth $79) for Davinder&#8217;s <a href="http://www.simpleprothemes.com" target="_blank">Flex Pro</a> Genesis theme just enter your email address below.</strong><br />
+<em>(Competition closes 11:59pm CET, 01 June 2015)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished *sad face*, but look out for new chances to win cool stuff in future articles *happy clap*.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-davinder-singh/">Meet Davinder Singh (and win a copy of his Flex Pro theme)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet Ryan Townley (plus win three of his themes!)</title>
+		<link>https://genesiswp.guide/meet-ryan-townley/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Tue, 19 May 2015 17:44:08 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=134</guid>
+
+					<description><![CDATA[<p>Mr Minimal Genesis, Ryan Townley talks about who inspires him, his new theme shop &#038; his advice for others thinking of launching their own Genesis projects.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-ryan-townley/">Meet Ryan Townley (plus win three of his themes!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="alignnone size-full wp-image-135" src="http://genesiswp.guide/wp-content/uploads/2015/05/ryan-townley.jpg" alt="Ryan Townley" width="640" height="400" srcset="https://genesiswp.guide/wp-content/uploads/2015/05/ryan-townley.jpg 640w, https://genesiswp.guide/wp-content/uploads/2015/05/ryan-townley-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p><strong>For a lot of people a focus on Genesis and minimal design (even minimal living) go hand in hand. Whether it&#8217;s one of Brian Gardner&#8217;s theme designs, his No Sidebar side project or the Genesis Framework itself, there&#8217;s a thread of minimalism in a lot of the work directly and indirectly related to Genesis.</strong></p>
+<p>But Ryan Townley has possibly outdone the minimalism of all of them with his new and appropriately titled theme shop <a href="http://minimalgenesis.com">Minimal Genesis</a>. Launching in April 2015, Minimal Genesis is already home to three beautifully designed and, you guessed it, minimal themes (<a href="http://minimalgenesis.com/themes/leif-erikson/" target="_blank">Leif Erikson</a>, <a href="http://minimalgenesis.com/themes/constance/" target="_blank">Constance</a>, and <a href="http://minimalgenesis.com/themes/ludwig/" target="_blank">Ludwig</a>).</p>
+<p>And I&#8217;m delighted to say that he&#8217;s taken a little time out to tell me more about his work, his love for Genesis and who inspires him in the community.</p>
+<p>Plus, if that wasn&#8217;t enough, he&#8217;s also kindly giving away all three of his current themes from Minimal Genesis (more details below).</p>
+<hr />
+<h2>For those that don’t know, tell us a little bit about yourself, where do you live, what do you do and what makes you tick?</h2>
+<blockquote><p>Ah, writing about yourself is hard, isn’t it?</p>
+<p>Well, I’ve lived in Orange County, CA for the majority of my life.</p>
+<p>I design and develop custom websites for various clients &#8211; from solopreneurs to corporations. I also maintain and support some of those sites on an ongoing basis.</p>
+<p>I feel extremely fortunate to do what I love for a living and things have been really starting to click and come together for me as of late. It’s a great feeling.</p>
+<p>I have a long way to go still to reach my goals but I think I’m heading in the right direction.</p></blockquote>
+<h2>How did you first get into Genesis website development and how long have you been working with it?</h2>
+<blockquote><p>I discovered Genesis in late 2012.</p>
+<p>I was getting nauseous at the bloated themes out there such as those from ThemeForest. I was looking for something I could use as a solid foundation for primarily creating custom themes.</p>
+<p>I believe at the time I was researching Genesis, Thesis, and Headway.</p>
+<p>Obviously, we had a winner.</p></blockquote>
+<h2>What are the biggest reasons to work in Genesis for you?</h2>
+<blockquote><p>Efficiency has got to be one of the main reasons I love Genesis.</p>
+<p>Learning the ins and outs has allowed me to scope out projects accurately and build sites rapidly. Not to mention that it gives me a clean, non-bloated, and lightning fast foundation.</p>
+<p>I like to keep things clean and simple so Genesis is just the perfect solution for me.</p></blockquote>
+<h2>Away from Genesis and web development, tell us something interesting about yourself that maybe a lot of the people in the Genesis community might not know, like a hidden talent, something crazy that you’ve done or a (previously secret) superhuman ability maybe?</h2>
+<blockquote><p>Music is a huge part of my life.</p>
+<p>I play drums, guitar, bass, and teaching myself some piano at the moment. I’m not super great at any of them, but it’s an important outlet for me. I try to jam regularly and I go to concerts whenever I can.</p>
+<p>I’m into bands like Pink Floyd, Interpol, Arctic Monkeys, Failure (points if you know who they are), stuff like that.</p></blockquote>
+<h2>Firstly, huge congrats on the launch of Minimal Genesis Themes. I know how stressful it can be launching something new. How did it all go? Any last minute freak outs, surprises (good or bad) or stories you can share?</h2>
+<blockquote><p>Thank you! I have to say, it went fairly smooth.</p>
+<p>I think I was pleasantly surprised at the reception of it. Several people telling me it was a great idea, even something they wanted to do themselves. That felt good, like it was something worthwhile and I was maybe on to something.</p></blockquote>
+<h2>For people that don’t know, what’s the backstory to Minimal Genesis Themes, what made you decide to do it and why now?</h2>
+<blockquote><p>Minimal Genesis was created from my desire to have a creative outlet outside of my normal client work. It allows me to do things exactly how I would want to do it. If others dig it, great!</p>
+<p>I felt like this was the perfect type of side project for me, keeping things simple, and not requiring a huge amount of time that would take me away from other things.</p>
+<p>Something like this has been a long time coming. I’ve played with releasing some freebie themes, which was good practice, but I felt now was the time to take it to another level.</p></blockquote>
+<h2>How is your time split at the moment between Minimal Genesis Themes and other work? Do you plan shift more of your time to Minimal Genesis if things go well or do you see it strictly as a side project?</h2>
+<blockquote><p>My client work pays the bills for the most part at the moment so that is going to get the majority of my time. If things go really well with Minimal Genesis, absolutely, I would love to devote more time to it, but right now it’s a really fun and rewarding side project.</p></blockquote>
+<h2>Have you set targets for the project (financial or otherwise)?</h2>
+<blockquote><p>I have some modest financial goals for Minimal Genesis, but because it’s a small niche I don’t have any major expectations. So far it’s exceeded my expectations so it’s a win for me and I plan to keep releasing themes as often as I can, quality being the priority.</p></blockquote>
+<h2>Have you given much thought about how you’ll distinguish what you’re doing from other offerings? If so, how do you plan to do so?</h2>
+<blockquote><p>The nice thing is that my freelance web design business clients are a completely different type of market than those who would be interested in my themes. I keep each site’s message targeted at that market so I think that keeps things clear enough.</p></blockquote>
+<h2>What do you think of the current state of the Genesis theme market?</h2>
+<blockquote><p>I think it’s pretty exciting to see new theme shops launching and existing ones continuing to push the envelope. It’s great for the community. Nothing wrong with options.</p></blockquote>
+<h2>What are your thoughts on marketing Minimal Genesis Themes and who do you expect your typical customer to be (e.g. fellow developers, ‘regular’ website users, etc.)?</h2>
+<blockquote><p>This is a great question. I’m not sure I have a clear sense just yet on who my typical customer is, seems to be across the board.</p>
+<p>I want my themes to be flexible enough for a developer or designer who wants a good starting point for a project and simple enough for a general user who wants to be up and running within minutes.</p>
+<p>So far, my themes are a bit more geared towards those who want a personal site for their writing or photography. I may start creating some different niche themes but all in all, I feel like any theme can work for just about any purpose with enough creativity.</p></blockquote>
+<h2>We all *heart* Genesis, but did you give any consideration to releasing non-Genesis versions of your theme? What made up your mind for you (if it is made up)?</h2>
+<blockquote><p>Nope, wasn’t even a consideration. The Genesis community gives me a built in niche and market so it just makes the most sense.</p></blockquote>
+<h2>Are there any other WordPress businesses you particularly look up to, either inside or outside of the Genesis community to <del>copy</del> get inspiration from (and why)?</h2>
+<blockquote><p>I am constantly inspired by Brian Gardner, both with his designs and his passion projects such as No Sidebar and his podcast. Rafal Tomal always blows me away with his designs.</p>
+<p>I’m inspired by so many others in and outside of the Genesis community launching theme shops, creating great sites for their clients, teaching others, etc.</p>
+<p>These are good times. It’s all happening.</p></blockquote>
+<h2>Having launched, what’s the one piece of advice you’d give to other creators in the Genesis space that are thinking of launching their own projects?</h2>
+<blockquote><p>I would say don’t worry about complete perfection and just launch. It’s easy to lose momentum, burn out, and let a project die because you want to wait until it’s perfect to get it out into the world.</p>
+<p>Quality is important, absolutely, but sometimes you need to get something out there to get the feedback that helps you get it closer to a version of perfection.</p>
+<p>It’s ok to fail. It’s actually a really really good thing to fail, learn from it, and try something different.</p></blockquote>
+<h2>What’s next for Minimal Genesis Themes?</h2>
+<blockquote><p>More themes!</p>
+<p>I have so many ideas, it’s just a matter of finding the time to bring the good ones to life.</p>
+<p>My goal is to release a new theme each month or close to it. I’m figuring out what elements people seem to like more than others and I want to bring a unique element to each theme I release.</p></blockquote>
+<h2>What’s the best way for people to get in touch with you if they want to learn more?</h2>
+<blockquote><p>They can visit <a href="http://minimalgenesis.com" target="_blank">minimalgenesis.com</a>, my other site <a href="http://ryantownley.com" target="_blank">ryantownley.com</a>, or follow me on Twitter (<a href="http://twitter.com/ryantownley" target="_blank">@ryantownley</a>).</p></blockquote>
+<h2>Finally, Game of Thrones or Downton Abbey?</h2>
+<blockquote><p>Game of Thrones all the way!</p></blockquote>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Giveaway: Win three of Ryan&#8217;s themes!</h2>
+<p style="text-align: center;"><strong>For your chance of winning all three of Ryan&#8217;s themes (Leif Erikson, Constance, and Ludwig) from his awesome <a href="http://minimalgenesis.com" target="_blank">Minimal Genesis</a> project just enter your email address below.</strong><br />
+<em>(Competition closes 11:59pm CET, 25 May 2015)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished, but look out for new chances to win cool stuff in future articles.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/meet-ryan-townley/">Meet Ryan Townley (plus win three of his themes!)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>An interview with Sridhar Katakam</title>
+		<link>https://genesiswp.guide/srikat-interview/</link>
+					<comments>https://genesiswp.guide/srikat-interview/#comments</comments>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Tue, 12 May 2015 11:50:03 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=112</guid>
+
+					<description><![CDATA[<p>Sridhar Katakam (aka @srikat) talks membership site success, how you can succeed in your own WordPress business and how he got into Genesis.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/srikat-interview/">An interview with Sridhar Katakam</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="alignnone size-full wp-image-114" src="http://genesiswp.guide/wp-content/uploads/2015/05/srikat.jpg" alt="Sridhar Katakam and family!" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2015/05/srikat.jpg 660w, https://genesiswp.guide/wp-content/uploads/2015/05/srikat-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><strong>If you&#8217;ve spent any time in the Genesis community in the last couple of years, there&#8217;s probably one name you&#8217;ll see more often than most: <a href="http://twitter.com/srikat" target="_blank">Sridhar Katakam</a>.</strong></p>
+<p>Also known as <a href="http://twitter.com/srikat" target="_blank">@srikat</a> on Twitter, Sridhar has been a one man code tutorial posting, support forum helping, social media whirlwind since he first started posting Genesis tutorials on his website back in July 2013.</p>
+<p>Sharing tutorials on an almost daily basis, he quickly established authority and credibility in the community with the breadth and depth of what he was sharing.</p>
+<p>Then, in February 2015, he decided to create a paid membership site out of those tutorials. Less than three months later, he shared the good news on Twitter that <a href="https://twitter.com/srikat/status/594036426850729984" target="_blank">things were going so well he was no longer looking for forum/help desk support jobs</a>.</p>
+<p>With his genuine love of helping people clearly apparent, it&#8217;s difficult not to root for this self taught coder now helping hundreds of other people get better at coding every month.</p>
+<p>That&#8217;s why I couldn&#8217;t be happier that he agreed to tell me more about how he got into Genesis (including hating it at first!), the success of his membership site and his plans for the future.</p>
+<p>I hope you enjoy it.</p>
+<hr />
+<h2>I think a lot of people reading this will know who you are(!), but for those that maybe don’t, can you tell people a little bit about yourself, where you live, what you do and what you do for fun (outside of playing with code :)?</h2>
+<blockquote><p>First of all, thank you Nick for giving me an opportunity to voice my opinions and thoughts.</p>
+<p>After my Bachelor’s in Industrial Production Engineering in India, I studied Master’s in Mechanical Engineering at USF, Tampa. I used to work as a helper in university bookstore and as a Teaching Assistant in Dynamics of Machinery lab during that time.</p>
+<p>We had to build a HTML page to show the results in Heat Transfer class and I learnt HTML from <a href="http://www.htmlgoodies.com/primers/html/article.php/3478131" target="_blank">HTMLGoodies</a> site and CSS from <a href="http://www.brainjar.com/css/using/" target="_blank">BrainJar</a>. After that I started researching on various CMSs and scripts like PHPNuke, PostNuke, Drupal, Mambo, Typo 3, Menalto Gallery, Movable Type, WordPress out of interest.</p>
+<p>Trying out various CMS at opensourcemcms.com was my hobby. I started taking up projects in freelancing websites like RentACoder and GetAFreelancer. Eventually dropped out of Master’s as I had no interest whatsoever in doing the Thesis and moved back to India.</p>
+<p>In India I worked as a recruiter during nights for a couple of months, then as a webmaster at SumTotal, then as a UI Designer at SAP Labs India, then as a support moderator at iThemes taking care of Builder theme support and finally switched to Genesis.</p>
+<p>I am 37 and currently live in Melbourne, Australia with my wife and a 7 year old daughter.</p>
+<p>I do PSD to WP conversions, primarily for <a href="http://thedma.com.au" target="_blank">the DMA</a>, take up Genesis customizations via <a href="http://genesiscustomizations.com/" target="_blank">GenesisCustomizations.com</a> and write tutorials on Genesis and WordPress at <a href="https://sridharkatakam.com/" target="_blank">sridharkatakam.com</a>.</p>
+<p>During my free time which is usually, during lunch and dinner, I watch movies (mostly Indian). I follow the happenings in mobile industry (Apple, Android etc.). I also like playing table tennis and chess.</p></blockquote>
+<h2>For me, and probably a lot of people, you’re most well known for the sheer volume and quality of great code tutorials that you share. Using them as the foundation you launched a paid membership site in February 2015, for those that don’t know about the project can you tell people a little bit more about that?</h2>
+<blockquote><p>Like with two or three of my earlier sites, <a href="https://sridharkatakam.com/" target="_blank">sridharkatakam.com</a> also started as a place where I document and share my findings and code experiments with the rest of the world.</p>
+<p>I do not have a formal coding knowledge or background and hence every time I figure out something new I have this irresistible urge to share it with others who might tread that path and save themselves a lot of time and frustration.</p>
+<p>One of the main reasons I converted my site into a membership site is to reduce the amount of requests for coding help in the comments. I did not like the idea of turning comments off or ignoring the people that were asking for help. There are only so many hours in a day to help everyone. Introducing a small amount of monthly fee to access my tutorials, I felt, is a good way to let only those in that are genuinely interested.</p>
+<p>I think my site’s target audience is primarily web designers and developers that build websites for others.</p></blockquote>
+<h2>After launching the membership site I think the reaction from pretty much everybody has been incredible (and deservedly so). I don’t want to focus on it too much but, as it’s kind of part of the journey of where you got to today, how did you feel when you got that one (ridiculous) initial bit of negative feedback on Twitter when you first suggested the idea? And then later so many people came out to support you (including Brian Gardner, Lauren Mancke and Carrie Dils on Genesis Office Hours), that must’ve helped?</h2>
+<blockquote><p>Frankly I did not understand why that guy had a problem with me removing free access to the content I wrote in my site. It’s not like I am forcing anybody to join. As a matter of fact, I do not even have an ‘About’ Page or a formal launch/announcement post in my site or social media. All the 600+ members that have joined did because they knew the value of what I write and via word of mouth.</p>
+<p>I did not feel discouraged by that incident though. There are better things to worry about in this world. Yes, the support offered by Genesis community has been tremendous!</p></blockquote>
+<h2>You recently came out and shared the fantastic news you’re no longer taking on support work due to the membership site’s success with over $6,000 of revenue in April. That must feel incredible. Now you’ve got in this position do you have further goals (financial or otherwise) for the site?</h2>
+<blockquote><p>When I wrote I am no longer looking for support jobs, I meant I am not going to actively seek work in the role of a support person in WordPress companies like Automattic. I still undertake Genesis customizations work if my time permits.</p>
+<p>I do not have a monetary goal for my site. I only strive to publish at least 1 useful tutorial every day. Looking into the future, if the revenue grows to a consistent $10,000 a month I may stop taking up client work + theme customizations work and concentrate fully on the membership by adding step-by-step videos, more content, learning paths etc.</p></blockquote>
+<h2>You’re clearly providing a lot of value to people with what you share, Brian Gardner called it out as a clear “return on investment” and I think that’s very true. Given the value that people are clearly getting out of your site, do you have any plans to raise the price for new members in future? What are you thoughts on pricing in general?</h2>
+<blockquote><p>I help people in StudioPress forums, over Twitter, in Facebook and Google+ Genesis groups and in Slack because I genuinely want to and like it. I have never planned or worked towards converting the site into a membership site. I do not consider my website as a business and my help to others via tutorials, an investment. It just happened to go in that direction.</p>
+<p>Regarding plans for increasing the price, not in the near future.</p>
+<p>I always want my writing to be helpful to as many people as possible. No amount of money will give me as much satisfaction and make me as much happier than to know that one of my tutorials has helped someone while I am asleep.</p>
+<p>1000 users paying $10 each or 200 paying $50 each would get me the same net amount. But I will be helping 800 people more by keeping the price $10 per month. Support will not be a problem because this is the price for only accessing the tutorials.</p>
+<p>The first day I added the membership, I set the price to $47 a month which is what I thought as a fair price for what I offer. Maybe after six months, I may raise the price from the current $10 a month to $27 and then eventually to $47 after a couple of years. We will see&#8230; Basic membership will remain the same $10 for those who subscribed at that price.</p></blockquote>
+<h2>When you were coming up with idea for the membership site were you inspired by any other businesses in particular, either inside or outside of WordPress?</h2>
+<blockquote><p>No. I am not a paying member of any membership site at the moment.</p>
+<p>The hardest part of a membership site is the content and I had lots of it &#8211; content that is useful, clear and practical. All I had to do was install a plugin and configure it.</p></blockquote>
+<h2>For those reading this that might be thinking of launching their own Genesis or WordPress focussed business, what advice would you give them?</h2>
+<blockquote><p>As someone said, passion without profit is a hobby. So congratulate yourself now that you have decided to monetize your expertise. Genuinely help others by offering value and rest falls in place automatically.</p>
+<p>There is a huge market for services and training businesses specializing in Genesis. Go for it.</p></blockquote>
+<h2>For the techies amongst us, what plugins / solutions are you using to deliver your membership site and forums at the moment? Any plans to change solutions? Anything you wished you’d done differently in hindsight?</h2>
+<blockquote><p>I started with Paid Memberships Pro but after realizing how limited it is (features and documentation wise), switched to the more powerful MemberPress.</p>
+<p>Many of the features that MemberPress has out of the box (like members belonging to multiple products/levels) are yet to be implemented in PMP.</p>
+<p>For the forums, am using bbPress. I am quite happy with the way these are working at the moment.</p>
+<p>Adding PayPal Premier account with Digital Goods support gave me the hardest time and caused me a loss of at least $5000 due to PayPal’s inability to fix a problem with recurring payments on their end.</p>
+<p>After a frustrating wait of 1.5 months or so, I switched to the simpler and more importantly, working PayPal Standard.</p></blockquote>
+<h2>Moving back to Genesis, you’ve been posting code tutorials for it since 2013. What was the initial appeal of working with Genesis and what is the appeal today?</h2>
+<blockquote><p>At first I hated it. See <a href="http://pixelyzed.com/2013/05/16/the-state-of-my-2013-wordpress-toolset-themes/#comment-5049" target="_blank">http://pixelyzed.com/2013/05/16/the-state-of-my-2013-wordpress-toolset-themes/#comment-5049</a>.</p>
+<p>In July 2013 when Catalyst (earlier Frugal) became Dynamik and embraced Genesis, I tried Genesis again via Dynamik and thought it was ok.</p>
+<p>This period also happened to be the time when I parted ways with iThemes and I was looking to move away from Builder.</p>
+<p>By August I was actively going through StudioPress forums, trying to re-create the user’s issues and come up with answers. My first tutorial on Genesis was in August 2013. Seeing close to 60 comments for it encouraged me and after that there was no turning back.</p>
+<p>The biggest appeal today to me, is the clean HTML output that Genesis produces. Thanks to actions and filters, we can create a custom WordPress website in Genesis with minimal amount of code changes &#8211; easily and quickly.</p>
+<p>Genesis probably does not appear easy or intuitive at first, but if one sticks to it, there is a tremendous potential in it.</p>
+<p>Is it perfect? No. Please ask Gary Jones for further details on that <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></blockquote>
+<h2>You’ve clearly know a lot about Genesis and web development in general, but when you’re stuck with something who do you typically reach out to for help?</h2>
+<blockquote><p>Google, Slack, Twitter, StackExchange, Forums &#8211; in that order.</p></blockquote>
+<h2>What’s the best way for people to follow what you’re doing if they want to learn more?</h2>
+<blockquote><p>I am all over the internet in Genesis communities on <a href="http://twitter.com/srikat" target="_blank">Twitter</a>, <a href="https://www.facebook.com/groups/genesiswp/" target="_blank">Facebook</a>, <a href="https://plus.google.com/u/1/communities/113206330486200023679" target="_blank">Google+</a>, <a href="https://sridharkatakam.com/how-to-join-genesis-live-chat-in-slack/" target="_blank">Slack</a> and Skype. I am most active on Slack though.</p>
+<p>The best way for people to get notified about new tutorials I publish is by subscribing using the form in my site’s sidebar.</p></blockquote>
+<h2>Finally, the most important question of all: Game of Thrones or Downton Abbey?</h2>
+<blockquote><p>What are those? I am guessing TV shows?</p></blockquote>
+<hr />
+<p>If you&#8217;re in the Genesis community and thinking of starting a new business (or side project), I hope that Sridhar&#8217;s story inspires you.</p>
+<p>I also just want to take a moment to thank Sridhar for taking the time and being very generous with his answers and in sharing his story.</p>
+<p>If you have any questions or comments about the interview please feel free to leave a comment below (and I&#8217;ll try to pester him to come and answer any questions) or get in touch with him on Twitter <a href="http://twitter.com/srikat" target="_blank">@srikat</a>.</p>
+<p>Or better yet, if you haven&#8217;t already, <a href="https://sridharkatakam.com/membership/" target="_blank">join his membership site</a> (before he puts the price up!). If you&#8217;re working regularly with Genesis, I am sure you&#8217;ll find it a tonne of value.</p>
+<p><em><strong>PS</strong> If you&#8217;d like to read more interviews with some of the most awesome people in Genesis just subscribe below and get all the awesomeness straight in your inbox twice a week.</em></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/srikat-interview/">An interview with Sridhar Katakam</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://genesiswp.guide/srikat-interview/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>An interview with Calvin Makes (plus win Genesis themes)</title>
+		<link>https://genesiswp.guide/calvin-makes-interview/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Wed, 06 May 2015 12:55:45 +0000</pubDate>
+				<category><![CDATA[Maker Interviews]]></category>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=98</guid>
+
+					<description><![CDATA[<p>Genesis community rockstar Calvin Makes talks Community Pro theme, who he looks up to in WordPress and working with Adam Clark.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/calvin-makes-interview/">An interview with Calvin Makes (plus win Genesis themes)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p><img loading="lazy" class="alignnone size-full wp-image-100" src="http://genesiswp.guide/wp-content/uploads/2015/05/calvin-makes.jpg" alt="Calvin Makes" width="660" height="440" srcset="https://genesiswp.guide/wp-content/uploads/2015/05/calvin-makes.jpg 660w, https://genesiswp.guide/wp-content/uploads/2015/05/calvin-makes-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p><em>This is the first in a new, weekly series of interviews on GenesisWP.guide, I&#8217;ve creatively called <strong>&#8216;Meet the Makers&#8217;</strong>. Featuring some of the finest creators in the Genesis community, it aims to help them reach a wider audience and give a little inspiration to those of us making stuff with Genesis too. I hope you enjoy it. &#8211; Nick</em></p>
+<hr />
+<p><strong>His real name is <a href="http://twitter.com/calvin_makes" target="_blank">Calvin Koepke</a>, but you might know him as <a href="http://twitter.com/calvin_makes" target="_blank">Calvin Makes</a>. Whatever you call him though Calvin is pulling up trees in the Genesis community right now.</strong></p>
+<p>Not only has he just launched <a href="http://my.studiopress.com/themes/community/" target="_blank">Community Pro</a> with <a href="https://twitter.com/avclark" target="_blank">Adam Clark</a>, a gorgeous new Genesis theme currently featured on StudioPress&#8217; website, but he&#8217;s also got a bunch of excellent <a href="http://www.calvinmakes.com/free-themes" target="_blank">free Genesis themes</a> on his website, frequently <a href="http://www.calvinmakes.com/learn/" target="_blank">shares his expertise on his blog</a>, and he&#8217;s planning the launch of another Genesis based project called <a href="http://timberbit.io/" target="_blank">TimberBit.</a></p>
+<p>(Oh and if that wasn&#8217;t enough, he&#8217;s just released a beautiful new Genesis theme, <a href="http://www.calvinmakes.com/introducing-concise-premium-genesis-child-theme/" target="_blank">Concise</a>, too).</p>
+<p>In-between doing all of the above, Calvin took a little time out to tell me about the business lessons learned with Community Pro, who he looks up to in the Genesis community (and beyond), and what it&#8217;s like working with Adam Clark.</p>
+<p>Plus he&#8217;s generously offered to give away, not one, but two Genesis themes, <a href="http://my.studiopress.com/themes/community/" target="_blank">Community Pro</a> and <a href="http://www.calvinmakes.com/introducing-concise-premium-genesis-child-theme/" target="_blank">Concise</a>, to GenesisWP.guide readers too (more details at the end of the interview).</p>
+<hr />
+<h2>For those that don’t know, tell us a little bit about yourself, where do you live, what do you do and what makes you tick?</h2>
+<blockquote><p>I’m just a guy who thinks way too much, doesn’t know which ideas to keep and which to throw away, and who doesn’t like to settle for a typical routine.</p>
+<p>I’ve grown up in Montana all my life and don’t plan on leaving anytime soon—I think it’s largely because I need the contrast of nature and tech. When I’m done with work, I want to listen to the world as it has always been, and without all the digital noise.</p></blockquote>
+<h2>How did you first get into Genesis web development and how long have you been working with it?</h2>
+<blockquote><p>I was introduced to Genesis back in 2013 when I used to work for Sundog Media, a design and development firm located in Alaska. It was a brand-new framework for me at the time, but I quickly saw the speed and flexibility that it offered.</p>
+<p>I started building themes for my personal blog (about one theme a month, probably to the annoyance of my readers), messing around with varying levels of complexity and design.</p>
+<p>Since then, I’ve worked exclusively with the framework, and don’t plan on going back to basic WordPress ever again.</p></blockquote>
+<h2>What are the biggest reasons to work with Genesis for you?</h2>
+<blockquote><p>In my opinion, it’s largely due to the community. It’s small enough that you can know just about everyone working with it, but it’s big enough that there is room for growth and continued discovery.</p>
+<p>That’s something that you just can’t find in the WordPress community—it’s just too big, and it’s hard to find a niche.</p>
+<p>Of course, it’s also obviously a no-brainer if you’re looking for crazy good stability and speed for your themes. You don’t have to worry about updating core WordPress standards (most of the time), and you can be a beginner developer or an advanced one, and it suits both levels of skill equally well.</p></blockquote>
+<h2>Away from Genesis and web development, tell us something about yourself that maybe a lot of the people in the Genesis community might not know?</h2>
+<blockquote><p>Besides having superhuman ninja skills, the only thing I can think of is that most people might not know is that I have played the piano all my life. I’ve played guitar, and bass guitar as well, but nothing ever has come close to the piano.</p>
+<p>I remember time when I would just sit down in front of the grand piano at my church and play non-stop for literally an hour, without any sheet music or anything in front of me.</p>
+<p>It was one of the few things that allowed me to pour out everything in my heart without needing to describe it through words, and I often felt like it was the most accurate.</p></blockquote>
+<h2>What’s it like working with Adam Clark <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ?</h2>
+<blockquote><p>Working with Adam is a blast. He’s an extremely down-to-earth guy with a good sense of forethought and intuition. Community Pro was actually his idea and design—I just came along and helped him out with building it.</p>
+<p>Also, <a href="http://avclark.com/tgm/" target="_blank">his podcast</a> is the bomb.</p></blockquote>
+<h2>Big congrats on the launch of Community Pro. How did it all go? Any last minute freak outs, surprises (good or bad) or stories you can share?</h2>
+<blockquote><p><a href="http://my.studiopress.com/themes/community/" target="_blank">Community Pro</a> was as stressful as any new theme launch is, I guess. But it wasn’t all that bad. The only last-minute freakout was when we decided to change the name (it was Church Pro at the beginning).</p>
+<p>I had to go through the entire theme and change all the functions and terminology. I think I sent Brian about 5 different versions with updates as I found them, and this was even before the launch—thankfully, he didn’t get fed-up with me and still decided to put it on StudioPress. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></blockquote>
+<h2>For people that don’t know, what’s the backstory to Community Pro, what made you decide to do it and why now?</h2>
+<blockquote><p>Like I said earlier, Community Pro was originally Adam’s idea and design. He simply approached me one day and asked if I’d like to help build it—he was swamped with work at the time, and so it had been sitting on the back-burner, waiting to be built.</p>
+<p>I decided it was definitely worth the experience, not to mention the chance to work with a guy who’s design I so admired.</p></blockquote>
+<h2>How is your time split at the moment between Community Pro and other work? Do you plan shift more of your time to Community Pro if things go well or do you see it strictly as a side project?</h2>
+<blockquote><p>This is a tough one. Community Pro has the potential to become something more than it is&#8230;but, like I mentioned earlier, I usually have so many ideas going through my mind, it’s hard to decide which ones to pursue and which ones to table.</p>
+<p>At the moment, Community Pro is a little more than a side-project, but definitely not a full-time one. I actually have several other things going on right now as well, one of them being <a href="http://timberbit.io/" target="_blank">TimberBit</a>, so it’s hard to say what Community Pro will become in the future.</p>
+<p>One thing I know for sure though is the positive response to it, and that’s always something to pay attention to.</p></blockquote>
+<h2>Have you set targets for Community Pro (financial or otherwise)? (Will you still speak to us when it makes you rich and (Internet) famous?)</h2>
+<blockquote><p>There aren’t really any targets for Community Pro right now. It’s more of an experiment at the moment, since this is both Adam’s and my first premium theme.</p>
+<p>And I don’t see myself getting famous anytime soon, but yes, I’d definitely speak to everyone I’ve ever met. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></blockquote>
+<h2>Have you given much thought about how you’ll distinguish what you’re doing from other offerings? If so, how do you plan to do so?</h2>
+<blockquote><p>This is probably where my website, <a href="http://www.calvinmakes.com/" target="_blank">Calvin Makes</a>, comes in. It’s funny because “Makes” has sort of turned into a pseudo last-name for me, but it was never intended as such—my last name is actually “Koepke” (good luck with pronouncing that).</p>
+<p>The Calvin Makes website was meant to be the hub for everything I “make”, whether that be Community Pro, TimberBit, tutorials, or just <a href="http://www.calvinmakes.com/free-themes/" target="_blank">free themes</a> in general.</p>
+<p>So it’s pretty safe to say that this is where you’ll find out about anything new or current that I’m working on.</p></blockquote>
+<h2>What do you think of the current state of the Genesis theme market?</h2>
+<blockquote><p>I think it’s alive and well. I’ve always thought that the Genesis theme market is different than your average WordPress market in that what people are really buying is the design of the child theme.</p>
+<p>Since most child themes offer the same functionality, the design ends up being what sets them apart. Being first a designer at heart, this is extremely enticing to me and is part of what makes the community so fun to be a part of.</p>
+<p>Although, I think there is a niche that has yet to be filled, and that’s probably “made for everyone” Genesis child themes that are very flexible and versatile.</p></blockquote>
+<h2>What are your thoughts on marketing Community Pro and who do you expect your typical customer to be?</h2>
+<blockquote><p>So far, our typical customer has been developers who use it for their client’s site. However, I’ve also seen people purchase it for use on their personal blogs and portfolios.</p>
+<p>Marketing the theme right now is not something that we have the bandwidth for, so it’s purely rolling on referrals and StudioPress exposure. There might be plans in the near future though for upping the marketing—we’ll just have to see. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></blockquote>
+<h2>Are there any other WordPress businesses you particularly look up to, either inside or outside of the Genesis community to <del>copy</del> get inspiration from (and why)?</h2>
+<blockquote><p>One of the top WordPress theme shops that I admire is <a href="https://array.is/" target="_blank">Array</a>. I can’t get over the beautiful design, amazing integration of support and services like TypeKit, and that fact that it’s run by a very small team.</p>
+<p>Beyond that, <a href="https://twitter.com/bgardner" target="_blank">Brian Gardner&#8217;s</a> designs are always something to be admired, along with <a href="https://twitter.com/laurenmancke" target="_blank">Lauren Mancke</a>, <a href="https://twitter.com/seesaw_design" target="_blank">Brook Semple</a>, and of course (outside of Genesis) <a href="https://twitter.com/brian_lovin" target="_blank">Brian Lovin</a> at Buffer.</p></blockquote>
+<h2>Having launched, what’s the one piece of advice you’d give to other creators in the Genesis space that are thinking of launching their own projects?</h2>
+<blockquote><p>Put in the extra work for the future benefit. There were many times when I just wanted to be done with Community Pro, but if I had stopped early the theme wouldn’t have been nearly as good.</p>
+<p>In fact, there were probably still some things that I could’ve addressed before launch that would’ve saved me from having to push updates after the release.</p>
+<p>Safe yourself the stress of fixing problems when everyone is watching and do it beforehand. Give the theme to a few trusted friend and have them offer feedback.</p>
+<p>At the end of the day though, make sure you launch. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></blockquote>
+<h2>What’s next for Community Pro?</h2>
+<blockquote><p>At this point, that is yet to be decided. It depends heavily on what people want it to be—so far, the response has been overwhelmingly positive, so it’s hard to say what it might evolve into.</p>
+<p>We’ve talked about adding support for premium plugin add-ons, additional stylesheets for purchase, and a lot of other extendable features that we are still working through.</p>
+<p>In the end, it’ll all depend on whether or not the Genesis community wants it, and that’s determined by how it performs over the next few months—which so far as been quite good!</p></blockquote>
+<h2>Tell me a bit more about TimberBit?</h2>
+<blockquote><p><a href="http://timberbit.io/" target="_blank">TimberBit</a> is actually a fun project that I started, with the intention of finding beautifully designed WordPress themes on the market, and making those available for Genesis users.</p>
+<p>I’m actually about 70% done with the first theme that I will release, but I’m not quite ready yet to announce which theme it is. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>It’s also a sort of experiment—in order to convert these themes I have to get extended licenses from the original theme authors, not to mention their permission. Because of this, they have a higher up-front cost, and therefore a longer time-period before I start making that initial investment back.</p>
+<p>I’m still trying to figure out a good payment model for this, because I really want it to be worth it. There are so many beautiful themes out there on marketplaces like ThemeForest, but often times their code is bloated and they are packed with an overwhelming amount of options.</p>
+<p>TimberBit is my attempt to make these themes simpler and Genesis supported, yet with all the great design as the original.</p></blockquote>
+<h2>Finally, and most importantly, Downton Abbey or Game of Thrones?</h2>
+<blockquote><p>I’ve never watched either so it’s hard to say. Call me sheltered <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></blockquote>
+<h2>What’s the best way for people to get in touch with you if they want to learn more?</h2>
+<blockquote><p>They can follow me on Twitter (<a href="http://twitter.com/calvin_makes" target="_blank">@calvin_makes</a>), or they can email me directly at hello [at] calvinmakes [dot] com. I always love connecting with new people, even if that’s just to get to know them or help them with a problem they might be having.</p></blockquote>
+<hr />
+<h2 id="giveaway" style="text-align: center;">Giveaway: Win two of Calvin&#8217;s themes!</h2>
+<p style="text-align: center;"><strong>For your chance of winning a copy of the <a href="http://my.studiopress.com/themes/community/" target="_blank">Community Pro theme</a> and Calvin&#8217;s new <a href="http://www.calvinmakes.com/introducing-concise-premium-genesis-child-theme/" target="_blank">Concise theme</a> just enter your email address below.</strong><br />
+<em>(Competition closes 11:59pm PST, 11 May 2015)</em></p>
+<p style="text-align: center;"><p>This giveaway has now finished, but look out for new chances to win cool stuff in future articles.</p></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/calvin-makes-interview/">An interview with Calvin Makes (plus win Genesis themes)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

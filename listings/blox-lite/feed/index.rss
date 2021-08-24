@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Blox Lite	</title>
+	<atom:link href="https://genesiswp.guide/listings/blox-lite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/blox-lite/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Wed, 25 May 2016 15:01:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Diego		</title>
+		<link>https://genesiswp.guide/listings/blox-lite/#comment-479</link>
+
+		<dc:creator><![CDATA[Nick Diego]]></dc:creator>
+		<pubDate>Fri, 20 May 2016 12:48:05 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=480#comment-479</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/blox-lite/#comment-470&quot;&gt;Fran Eleazer&lt;/a&gt;.
+
+Thanks for the shoutout Fran, I sincerely appreciate the kind words!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/blox-lite/#comment-470">Fran Eleazer</a>.</p>
+<p>Thanks for the shoutout Fran, I sincerely appreciate the kind words!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/blox-lite/#comment-471</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Wed, 18 May 2016 20:02:37 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=480#comment-471</guid>
+
+					<description><![CDATA[Hey Fran, thanks for the add.
+
+I&#039;ve not been able to try Blox yet, so it&#039;s great to hear someone else&#039;s experience with it!]]></description>
+			<content:encoded><![CDATA[<p>Hey Fran, thanks for the add.</p>
+<p>I&#8217;ve not been able to try Blox yet, so it&#8217;s great to hear someone else&#8217;s experience with it!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Fran Eleazer		</title>
+		<link>https://genesiswp.guide/listings/blox-lite/#comment-470</link>
+
+		<dc:creator><![CDATA[Fran Eleazer]]></dc:creator>
+		<pubDate>Tue, 17 May 2016 23:30:23 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=480#comment-470</guid>
+
+					<description><![CDATA[I have tried so many different plugins to add custom headers to the top of the page, and none of them did exactly what I wanted, but THIS. And it does so much more than that, I haven&#039;t even scratched the surface. Great support from Nick Diego. This is an update from a previous plugin, Genesis Custom Headers.]]></description>
+			<content:encoded><![CDATA[<p>I have tried so many different plugins to add custom headers to the top of the page, and none of them did exactly what I wanted, but THIS. And it does so much more than that, I haven&#8217;t even scratched the surface. Great support from Nick Diego. This is an update from a previous plugin, Genesis Custom Headers.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

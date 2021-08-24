@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (28 August 2015)	</title>
+	<atom:link href="https://genesiswp.guide/2015-08-28/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2015-08-28/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 31 Aug 2015 23:01:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/2015-08-28/#comment-88</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2015 23:00:37 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=196#comment-88</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/2015-08-28/#comment-86&quot;&gt;M. Maria&lt;/a&gt;.
+
+Apologies, I should&#039;ve made it clearer. It&#039;s not a StudioPress theme, it&#039;s a free theme by Bradley Potter and can be downloaded via the following link:
+
+https://github.com/bradpotter/amazing-times]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/2015-08-28/#comment-86">M. Maria</a>.</p>
+<p>Apologies, I should&#8217;ve made it clearer. It&#8217;s not a StudioPress theme, it&#8217;s a free theme by Bradley Potter and can be downloaded via the following link:</p>
+<p><a href="https://github.com/bradpotter/amazing-times" rel="nofollow ugc">https://github.com/bradpotter/amazing-times</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: M. Maria		</title>
+		<link>https://genesiswp.guide/2015-08-28/#comment-86</link>
+
+		<dc:creator><![CDATA[M. Maria]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2015 23:27:25 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=196#comment-86</guid>
+
+					<description><![CDATA[The Amazing Times is not at the Studiopress site. So is it available or still in development?
+thanks]]></description>
+			<content:encoded><![CDATA[<p>The Amazing Times is not at the Studiopress site. So is it available or still in development?<br />
+thanks</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

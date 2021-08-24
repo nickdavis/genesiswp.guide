@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Add Google Fonts with Kirki to any Genesis Theme	</title>
+	<atom:link href="https://genesiswp.guide/listings/add-google-fonts-with-kirki-to-any-genesis-theme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/add-google-fonts-with-kirki-to-any-genesis-theme/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Fri, 17 Jun 2016 05:20:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/add-google-fonts-with-kirki-to-any-genesis-theme/#comment-521</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 12:19:30 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=516#comment-521</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/add-google-fonts-with-kirki-to-any-genesis-theme/#comment-520&quot;&gt;nick duell&lt;/a&gt;.
+
+Thanks for sharing, Nick! Have mentioned in this week&#039;s round-up:
+
+http://genesiswp.guide/2016-06-10/]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/add-google-fonts-with-kirki-to-any-genesis-theme/#comment-520">nick duell</a>.</p>
+<p>Thanks for sharing, Nick! Have mentioned in this week&#8217;s round-up:</p>
+<p><a href="http://genesiswp.guide/2016-06-10/" rel="nofollow ugc">http://genesiswp.guide/2016-06-10/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: nick duell		</title>
+		<link>https://genesiswp.guide/listings/add-google-fonts-with-kirki-to-any-genesis-theme/#comment-520</link>
+
+		<dc:creator><![CDATA[nick duell]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 07:05:49 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=516#comment-520</guid>
+
+					<description><![CDATA[In this blog post I run through how to add ALL the Google fonts as an option in the customiser for the Site Header, Headings and body fonts in your theme using the Kirki plugin and few code snippets.]]></description>
+			<content:encoded><![CDATA[<p>In this blog post I run through how to add ALL the Google fonts as an option in the customiser for the Site Header, Headings and body fonts in your theme using the Kirki plugin and few code snippets.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

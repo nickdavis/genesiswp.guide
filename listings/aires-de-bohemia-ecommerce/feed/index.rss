@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Aires de Bohemia Ecommerce	</title>
+	<atom:link href="https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Tue, 29 Aug 2017 08:21:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Norman Höhne		</title>
+		<link>https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/#comment-735</link>
+
+		<dc:creator><![CDATA[Norman Höhne]]></dc:creator>
+		<pubDate>Tue, 29 Aug 2017 08:21:23 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=946#comment-735</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/#comment-732&quot;&gt;Maira Gallardo&lt;/a&gt;.
+
+Looks very clean and neat. I like it Maira!
+
+I also like the concept of your client. Looks like a pretty nice pleace and it seems like I need to visiti Buenos Aires someday. :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/#comment-732">Maira Gallardo</a>.</p>
+<p>Looks very clean and neat. I like it Maira!</p>
+<p>I also like the concept of your client. Looks like a pretty nice pleace and it seems like I need to visiti Buenos Aires someday. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/#comment-733</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 20 Aug 2017 06:50:33 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=946#comment-733</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/#comment-732&quot;&gt;Maira Gallardo&lt;/a&gt;.
+
+Cute! Thanks for sharing.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/#comment-732">Maira Gallardo</a>.</p>
+<p>Cute! Thanks for sharing.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Maira Gallardo		</title>
+		<link>https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/#comment-732</link>
+
+		<dc:creator><![CDATA[Maira Gallardo]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2017 16:56:29 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=946#comment-732</guid>
+
+					<description><![CDATA[I worked with this client previously and she needed to add an e-commerce solution to her current site (also built with Genesis) but separated from it, so I created this new site and I&#039;m very happy with the end result + I learned so much working on it.]]></description>
+			<content:encoded><![CDATA[<p>I worked with this client previously and she needed to add an e-commerce solution to her current site (also built with Genesis) but separated from it, so I created this new site and I&#8217;m very happy with the end result + I learned so much working on it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

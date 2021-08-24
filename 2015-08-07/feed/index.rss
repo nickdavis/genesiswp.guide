@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (7 August 2015)	</title>
+	<atom:link href="https://genesiswp.guide/2015-08-07/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2015-08-07/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Sun, 09 Aug 2015 03:41:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Carlo		</title>
+		<link>https://genesiswp.guide/2015-08-07/#comment-80</link>
+
+		<dc:creator><![CDATA[Carlo]]></dc:creator>
+		<pubDate>Sun, 09 Aug 2015 03:41:00 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=187#comment-80</guid>
+
+					<description><![CDATA[On the release of 2.2 on Monday 10 August... I&#039;ll believe that when I see it. :D]]></description>
+			<content:encoded><![CDATA[<p>On the release of 2.2 on Monday 10 August&#8230; I&#8217;ll believe that when I see it. 😀</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

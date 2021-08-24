@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (15 May 2015)	</title>
+	<atom:link href="https://genesiswp.guide/2015-05-15/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2015-05-15/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 18 May 2015 15:41:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Carlo		</title>
+		<link>https://genesiswp.guide/2015-05-15/#comment-54</link>
+
+		<dc:creator><![CDATA[Carlo]]></dc:creator>
+		<pubDate>Sat, 16 May 2015 12:48:10 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=130#comment-54</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/2015-05-15/#comment-51&quot;&gt;Nick Davis&lt;/a&gt;.
+
+Actually it&#039;s best to get the plugin from wordpress.org because the github version is incompatible with Genesis versions less than 2.2
+
+https://wordpress.org/plugins/genesis-advanced-edits/]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/2015-05-15/#comment-51">Nick Davis</a>.</p>
+<p>Actually it&#8217;s best to get the plugin from wordpress.org because the github version is incompatible with Genesis versions less than 2.2</p>
+<p><a href="https://wordpress.org/plugins/genesis-advanced-edits/" rel="nofollow ugc">https://wordpress.org/plugins/genesis-advanced-edits/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/2015-05-15/#comment-51</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Fri, 15 May 2015 20:36:45 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=130#comment-51</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/2015-05-15/#comment-50&quot;&gt;Carlo&lt;/a&gt;.
+
+Hey Carlo, yeah I&#039;ve seen some of the changes (I follow the GH discussions when I can) I guess I was giving him the benefit of the doubt that he will update but you make a fair point :)
+
+For those following the discussion, you can download Carlo&#039;s plugin at the following link, bear in mind that it is built with Genesis 2.2 in mind which is yet to be released at the time of writing (Carlo - if this is not the correct link or you&#039;d prefer a different one, just let me know!).
+
+https://github.com/carlomanf/genesis-advanced-edits]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/2015-05-15/#comment-50">Carlo</a>.</p>
+<p>Hey Carlo, yeah I&#8217;ve seen some of the changes (I follow the GH discussions when I can) I guess I was giving him the benefit of the doubt that he will update but you make a fair point 🙂</p>
+<p>For those following the discussion, you can download Carlo&#8217;s plugin at the following link, bear in mind that it is built with Genesis 2.2 in mind which is yet to be released at the time of writing (Carlo &#8211; if this is not the correct link or you&#8217;d prefer a different one, just let me know!).</p>
+<p><a href="https://github.com/carlomanf/genesis-advanced-edits" rel="nofollow ugc">https://github.com/carlomanf/genesis-advanced-edits</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Carlo		</title>
+		<link>https://genesiswp.guide/2015-05-15/#comment-50</link>
+
+		<dc:creator><![CDATA[Carlo]]></dc:creator>
+		<pubDate>Fri, 15 May 2015 20:29:33 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=130#comment-50</guid>
+
+					<description><![CDATA[I&#039;m not sure how useful that Genesis Post Info &#038; Meta plugin will be, because there are going to be some &lt;em&gt;major&lt;/em&gt; changes to the way post info and post meta are handled in Genesis 2.2. (I&#039;m not sure when it will be released)
+
+I have a plugin that does the same thing but I&#039;m a contributor to Genesis so I&#039;ve made sure my plugin will be compatible with the changes.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m not sure how useful that Genesis Post Info &amp; Meta plugin will be, because there are going to be some <em>major</em> changes to the way post info and post meta are handled in Genesis 2.2. (I&#8217;m not sure when it will be released)</p>
+<p>I have a plugin that does the same thing but I&#8217;m a contributor to Genesis so I&#8217;ve made sure my plugin will be compatible with the changes.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

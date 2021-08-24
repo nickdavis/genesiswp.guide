@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: FreelancePro Genesis Child Theme	</title>
+	<atom:link href="https://genesiswp.guide/listings/freelancepro-genesis-child-theme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/freelancepro-genesis-child-theme/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 26 Jun 2017 17:42:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Matt Whiteley		</title>
+		<link>https://genesiswp.guide/listings/freelancepro-genesis-child-theme/#comment-723</link>
+
+		<dc:creator><![CDATA[Matt Whiteley]]></dc:creator>
+		<pubDate>Mon, 26 Jun 2017 17:42:23 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=926#comment-723</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/freelancepro-genesis-child-theme/#comment-721&quot;&gt;Nick Davis&lt;/a&gt;.
+
+Thanks for the continued support! Very much appreciated!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/freelancepro-genesis-child-theme/#comment-721">Nick Davis</a>.</p>
+<p>Thanks for the continued support! Very much appreciated!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/freelancepro-genesis-child-theme/#comment-721</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2017 13:44:57 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=926#comment-721</guid>
+
+					<description><![CDATA[Awesome, Matt, thank you for sharing!]]></description>
+			<content:encoded><![CDATA[<p>Awesome, Matt, thank you for sharing!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Matt Whiteley		</title>
+		<link>https://genesiswp.guide/listings/freelancepro-genesis-child-theme/#comment-720</link>
+
+		<dc:creator><![CDATA[Matt Whiteley]]></dc:creator>
+		<pubDate>Tue, 20 Jun 2017 12:18:41 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=926#comment-720</guid>
+
+					<description><![CDATA[My 2nd &quot;official&quot; Genesis Child Theme FreelancePro is built for the creative freelancer.  Perfect for web designers, web developers, photographers, graphic designers and more...but flexible enough to use for any industry. It comes packaged with Advanced Custom Fields PRO and has a ready-to-use page builder to create dynamic layouts in minutes.]]></description>
+			<content:encoded><![CDATA[<p>My 2nd &#8220;official&#8221; Genesis Child Theme FreelancePro is built for the creative freelancer.  Perfect for web designers, web developers, photographers, graphic designers and more&#8230;but flexible enough to use for any industry. It comes packaged with Advanced Custom Fields PRO and has a ready-to-use page builder to create dynamic layouts in minutes.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

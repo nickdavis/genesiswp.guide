@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Netfreelance	</title>
+	<atom:link href="https://genesiswp.guide/listings/netfreelance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/netfreelance/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 25 Sep 2017 04:47:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Fernando Mariano		</title>
+		<link>https://genesiswp.guide/listings/netfreelance/#comment-743</link>
+
+		<dc:creator><![CDATA[Fernando Mariano]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 04:47:11 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=965#comment-743</guid>
+
+					<description><![CDATA[Starting with the theme &quot;aspire pro&quot; I created this website for my study of DIseño. The landing pages and portfolio were created with beaver builder ...]]></description>
+			<content:encoded><![CDATA[<p>Starting with the theme &#8220;aspire pro&#8221; I created this website for my study of DIseño. The landing pages and portfolio were created with beaver builder &#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

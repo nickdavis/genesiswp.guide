@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (6 May 2016)	</title>
+	<atom:link href="https://genesiswp.guide/2016-05-06/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2016-05-06/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Fri, 06 May 2016 13:34:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/2016-05-06/#comment-455</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Fri, 06 May 2016 13:34:42 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=462#comment-455</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/2016-05-06/#comment-454&quot;&gt;Leland Fiegel&lt;/a&gt;.
+
+My pleasure, Leland. Always looking to shout about great Genesis stuff.
+
+If you&#039;re interested you can now register on this site to directly post up any new Genesis themes, articles etc you produce in future: http://genesiswp.guide/register
+
+Look forward to keeping up with what you&#039;re doing!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/2016-05-06/#comment-454">Leland Fiegel</a>.</p>
+<p>My pleasure, Leland. Always looking to shout about great Genesis stuff.</p>
+<p>If you&#8217;re interested you can now register on this site to directly post up any new Genesis themes, articles etc you produce in future: <a href="http://genesiswp.guide/register" rel="nofollow ugc">http://genesiswp.guide/register</a></p>
+<p>Look forward to keeping up with what you&#8217;re doing!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Leland Fiegel		</title>
+		<link>https://genesiswp.guide/2016-05-06/#comment-454</link>
+
+		<dc:creator><![CDATA[Leland Fiegel]]></dc:creator>
+		<pubDate>Fri, 06 May 2016 13:26:12 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=462#comment-454</guid>
+
+					<description><![CDATA[Thanks once again for spreading the word about the Milan Pro theme! We&#039;re pretty excited about the response thus far.]]></description>
+			<content:encoded><![CDATA[<p>Thanks once again for spreading the word about the Milan Pro theme! We&#8217;re pretty excited about the response thus far.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Social Sharing Of Your Content &#038; Social Proof	</title>
+	<atom:link href="https://genesiswp.guide/listings/social-sharing-of-your-content-social-proof/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/social-sharing-of-your-content-social-proof/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Thu, 16 Jun 2016 20:06:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/social-sharing-of-your-content-social-proof/#comment-523</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Thu, 16 Jun 2016 20:06:10 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=521#comment-523</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/social-sharing-of-your-content-social-proof/#comment-522&quot;&gt;Scott Wyden Kivowitz&lt;/a&gt;.
+
+Hey Scott, thanks for sharing this.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/social-sharing-of-your-content-social-proof/#comment-522">Scott Wyden Kivowitz</a>.</p>
+<p>Hey Scott, thanks for sharing this.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Scott Wyden Kivowitz		</title>
+		<link>https://genesiswp.guide/listings/social-sharing-of-your-content-social-proof/#comment-522</link>
+
+		<dc:creator><![CDATA[Scott Wyden Kivowitz]]></dc:creator>
+		<pubDate>Thu, 16 Jun 2016 12:50:15 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=521#comment-522</guid>
+
+					<description><![CDATA[As WordPress users there are endless options for social sharing features on our websites. As Genesis users, we want speed and efficiency. That&#039;s why I&#039;m sharing these 3 awesome social sharing plugins for WordPress &#038; Genesis users alike.]]></description>
+			<content:encoded><![CDATA[<p>As WordPress users there are endless options for social sharing features on our websites. As Genesis users, we want speed and efficiency. That&#8217;s why I&#8217;m sharing these 3 awesome social sharing plugins for WordPress &amp; Genesis users alike.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

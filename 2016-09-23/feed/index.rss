@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (23 Sep 2016)	</title>
+	<atom:link href="https://genesiswp.guide/2016-09-23/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2016-09-23/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 26 Dec 2016 12:34:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Looking Backwards: 2016 in Review &#124; All The Things...		</title>
+		<link>https://genesiswp.guide/2016-09-23/#comment-661</link>
+
+		<dc:creator><![CDATA[Looking Backwards: 2016 in Review &#124; All The Things...]]></dc:creator>
+		<pubDate>Mon, 26 Dec 2016 12:34:32 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=621#comment-661</guid>
+
+					<description><![CDATA[[&#8230;] During this time, I also began to experiment with Angular on Genesis, and wrote a three part series which got picked up by Genesis Weekly. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] During this time, I also began to experiment with Angular on Genesis, and wrote a three part series which got picked up by Genesis Weekly. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

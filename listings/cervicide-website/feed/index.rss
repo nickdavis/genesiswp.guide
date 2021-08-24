@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Cervicide Website	</title>
+	<atom:link href="https://genesiswp.guide/listings/cervicide-website/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/cervicide-website/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 25 Sep 2017 18:19:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Matt Whiteley		</title>
+		<link>https://genesiswp.guide/listings/cervicide-website/#comment-744</link>
+
+		<dc:creator><![CDATA[Matt Whiteley]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 18:19:52 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=966#comment-744</guid>
+
+					<description><![CDATA[An eye-catching, image-heavy theme for a hunting company that includes customized Stripe subscription integration, WooCommerce, a Flickity touch slideshow, tons of ACF options for simple site management and an elegant mobile experience.]]></description>
+			<content:encoded><![CDATA[<p>An eye-catching, image-heavy theme for a hunting company that includes customized Stripe subscription integration, WooCommerce, a Flickity touch slideshow, tons of ACF options for simple site management and an elegant mobile experience.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

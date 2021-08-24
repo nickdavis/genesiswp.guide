@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (27 Nov 2015)	</title>
+	<atom:link href="https://genesiswp.guide/2015-11-27/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2015-11-27/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 30 Nov 2015 18:03:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Jamaluddin Rahmat		</title>
+		<link>https://genesiswp.guide/2015-11-27/#comment-252</link>
+
+		<dc:creator><![CDATA[Jamaluddin Rahmat]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2015 18:03:53 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=259#comment-252</guid>
+
+					<description><![CDATA[Looking forward to fade in scroll tutorial like Digital Pro theme did it.
+Sadly, the expedition theme was not coming -_-]]></description>
+			<content:encoded><![CDATA[<p>Looking forward to fade in scroll tutorial like Digital Pro theme did it.<br />
+Sadly, the expedition theme was not coming -_-</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Raj		</title>
+		<link>https://genesiswp.guide/2015-11-27/#comment-251</link>
+
+		<dc:creator><![CDATA[Raj]]></dc:creator>
+		<pubDate>Sat, 28 Nov 2015 18:43:55 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=259#comment-251</guid>
+
+					<description><![CDATA[Looking forward for a health theme based on Genesis, any pointers please??]]></description>
+			<content:encoded><![CDATA[<p>Looking forward for a health theme based on Genesis, any pointers please??</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

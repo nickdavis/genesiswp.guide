@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Local Helper	</title>
+	<atom:link href="https://genesiswp.guide/listings/local-helper/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/local-helper/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Thu, 07 Jul 2016 15:47:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/local-helper/#comment-556</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Thu, 07 Jul 2016 15:47:58 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=555#comment-556</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/local-helper/#comment-553&quot;&gt;Shaan Nicol&lt;/a&gt;.
+
+Sweet!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/local-helper/#comment-553">Shaan Nicol</a>.</p>
+<p>Sweet!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Shaan Nicol		</title>
+		<link>https://genesiswp.guide/listings/local-helper/#comment-553</link>
+
+		<dc:creator><![CDATA[Shaan Nicol]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 09:29:49 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=555#comment-553</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/local-helper/#comment-552&quot;&gt;Nick Davis&lt;/a&gt;.
+
+Thanks Nick. 
+
+It&#039;s essentially a form which the data is used to populate a post type called profile and then assign the user as the author of that post, they can then login and manage their information. 
+
+Once logged in, they can also post a job and send private messages between the community. Will be interesting to see how it goes.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/local-helper/#comment-552">Nick Davis</a>.</p>
+<p>Thanks Nick. </p>
+<p>It&#8217;s essentially a form which the data is used to populate a post type called profile and then assign the user as the author of that post, they can then login and manage their information. </p>
+<p>Once logged in, they can also post a job and send private messages between the community. Will be interesting to see how it goes.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/local-helper/#comment-552</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 06:45:05 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=555#comment-552</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/local-helper/#comment-551&quot;&gt;Shaan Nicol&lt;/a&gt;.
+
+Nice :)
+
+I&#039;m a big fan of &#039;playing&#039; with Gravity Forms and ACF and I can imagine a lot of work must&#039;ve gone into this.
+
+Looks really well put together.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/local-helper/#comment-551">Shaan Nicol</a>.</p>
+<p>Nice 🙂</p>
+<p>I&#8217;m a big fan of &#8216;playing&#8217; with Gravity Forms and ACF and I can imagine a lot of work must&#8217;ve gone into this.</p>
+<p>Looks really well put together.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Shaan Nicol		</title>
+		<link>https://genesiswp.guide/listings/local-helper/#comment-551</link>
+
+		<dc:creator><![CDATA[Shaan Nicol]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 06:09:40 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=555#comment-551</guid>
+
+					<description><![CDATA[After a fairly long development phase we&#039;ve pushed this one out the door today. It&#039;s a custom Genesis site built on the Bones for Genesis starter theme and utilises some Gravity Forms and Advanced Custom Fields trickery.]]></description>
+			<content:encoded><![CDATA[<p>After a fairly long development phase we&#8217;ve pushed this one out the door today. It&#8217;s a custom Genesis site built on the Bones for Genesis starter theme and utilises some Gravity Forms and Advanced Custom Fields trickery.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

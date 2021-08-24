@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Actionable Tips To Optimize Your WordPress Site For Page Speed	</title>
+	<atom:link href="https://genesiswp.guide/listings/actionable-tips-to-optimize-your-wordpress-site-for-page-speed/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/actionable-tips-to-optimize-your-wordpress-site-for-page-speed/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Fri, 08 Jul 2016 11:28:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Vishal Sharma		</title>
+		<link>https://genesiswp.guide/listings/actionable-tips-to-optimize-your-wordpress-site-for-page-speed/#comment-560</link>
+
+		<dc:creator><![CDATA[Vishal Sharma]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2016 11:28:55 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=563#comment-560</guid>
+
+					<description><![CDATA[How long your blog takes to load is an important parameter that most bloggers overlook. Google takes page loading times pretty seriously; it ranks fast loading pages over slower ones. Fixing your page speed time can be a hassle. You are required to get your hands dirty with code and tweak various factors that influence your loading time. Guess what? My techniques can decrease your page loading times enormously. I take into consideration ever little variable that can actually reduce your load time. :)]]></description>
+			<content:encoded><![CDATA[<p>How long your blog takes to load is an important parameter that most bloggers overlook. Google takes page loading times pretty seriously; it ranks fast loading pages over slower ones. Fixing your page speed time can be a hassle. You are required to get your hands dirty with code and tweak various factors that influence your loading time. Guess what? My techniques can decrease your page loading times enormously. I take into consideration ever little variable that can actually reduce your load time. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (9 Oct 2015)	</title>
+	<atom:link href="https://genesiswp.guide/2015-10-09/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2015-10-09/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Sat, 10 Oct 2015 06:44:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Boris Lifanovsky		</title>
+		<link>https://genesiswp.guide/2015-10-09/#comment-143</link>
+
+		<dc:creator><![CDATA[Boris Lifanovsky]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2015 00:35:30 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=221#comment-143</guid>
+
+					<description><![CDATA[Despite the fact that probably the best overall solution for the related posts problem is the one that Zemanta offers, Sridhar Katakam has a great set of posts that offers slightly more elegant solution than in the mentioned tutorial: https://sridharkatakam.com/?s=Related
+With all respect to the mentioned tutorial, indeed. On the other hand it&#039;s free, and Sridhar blocked  his posts with the paywall.]]></description>
+			<content:encoded><![CDATA[<p>Despite the fact that probably the best overall solution for the related posts problem is the one that Zemanta offers, Sridhar Katakam has a great set of posts that offers slightly more elegant solution than in the mentioned tutorial: <a href="https://sridharkatakam.com/?s=Related" rel="nofollow ugc">https://sridharkatakam.com/?s=Related</a><br />
+With all respect to the mentioned tutorial, indeed. On the other hand it&#8217;s free, and Sridhar blocked  his posts with the paywall.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

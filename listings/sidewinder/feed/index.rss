@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sidewinder	</title>
+	<atom:link href="https://genesiswp.guide/listings/sidewinder/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/sidewinder/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Wed, 04 Jan 2017 14:19:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/sidewinder/#comment-666</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Wed, 04 Jan 2017 14:19:38 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=806#comment-666</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/sidewinder/#comment-663&quot;&gt;Scott Wyden Kivowitz&lt;/a&gt;.
+
+Thanks for sharing Scott. Another fine edition to the Genesis photography scene :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/sidewinder/#comment-663">Scott Wyden Kivowitz</a>.</p>
+<p>Thanks for sharing Scott. Another fine edition to the Genesis photography scene 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Scott Wyden Kivowitz		</title>
+		<link>https://genesiswp.guide/listings/sidewinder/#comment-663</link>
+
+		<dc:creator><![CDATA[Scott Wyden Kivowitz]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2017 20:59:48 +0000</pubDate>
+		<guid isPermaLink="false">https://genesiswp.guide/?post_type=listing&#038;p=806#comment-663</guid>
+
+					<description><![CDATA[We just released our 13th theme and the first for 2017. It&#039;s a photography and/or photo blogging theme.  It puts your blog content in the forefront.]]></description>
+			<content:encoded><![CDATA[<p>We just released our 13th theme and the first for 2017. It&#8217;s a photography and/or photo blogging theme.  It puts your blog content in the forefront.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

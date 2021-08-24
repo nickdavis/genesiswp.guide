@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Episode 3 Mastering Client Communications	</title>
+	<atom:link href="https://genesiswp.guide/listings/episode-3-mastering-client-communications/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/episode-3-mastering-client-communications/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Thu, 08 Sep 2016 11:28:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/episode-3-mastering-client-communications/#comment-611</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2016 11:28:36 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=613#comment-611</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/episode-3-mastering-client-communications/#comment-610&quot;&gt;Jackie D&#039;Elia&lt;/a&gt;.
+
+Thanks for sharing, Jackie. Something we can probably all improve on!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/episode-3-mastering-client-communications/#comment-610">Jackie D&#8217;Elia</a>.</p>
+<p>Thanks for sharing, Jackie. Something we can probably all improve on!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jackie D'Elia		</title>
+		<link>https://genesiswp.guide/listings/episode-3-mastering-client-communications/#comment-610</link>
+
+		<dc:creator><![CDATA[Jackie D'Elia]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2016 11:11:40 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=613#comment-610</guid>
+
+					<description><![CDATA[To be successful in your freelance business it is crucial that you develop solid communication skills for managing clients and projects. Erin shares tips on how to avoid nightmare clients, and become efficient and effective with your client communications.
+
+It is a skill that everyone will benefit from.]]></description>
+			<content:encoded><![CDATA[<p>To be successful in your freelance business it is crucial that you develop solid communication skills for managing clients and projects. Erin shares tips on how to avoid nightmare clients, and become efficient and effective with your client communications.</p>
+<p>It is a skill that everyone will benefit from.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

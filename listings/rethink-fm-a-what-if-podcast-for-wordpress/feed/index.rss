@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Rethink.fm &#8211; a &#8220;what if podcast&#8221; for WordPress.	</title>
+	<atom:link href="https://genesiswp.guide/listings/rethink-fm-a-what-if-podcast-for-wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/listings/rethink-fm-a-what-if-podcast-for-wordpress/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Wed, 22 Jun 2016 14:47:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/listings/rethink-fm-a-what-if-podcast-for-wordpress/#comment-526</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2016 14:47:22 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=530#comment-526</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/listings/rethink-fm-a-what-if-podcast-for-wordpress/#comment-525&quot;&gt;Jackie D&#039;Elia&lt;/a&gt;.
+
+Hey Jackie, sounds good, intrigued to hear more.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/listings/rethink-fm-a-what-if-podcast-for-wordpress/#comment-525">Jackie D&#8217;Elia</a>.</p>
+<p>Hey Jackie, sounds good, intrigued to hear more.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jackie D'Elia		</title>
+		<link>https://genesiswp.guide/listings/rethink-fm-a-what-if-podcast-for-wordpress/#comment-525</link>
+
+		<dc:creator><![CDATA[Jackie D'Elia]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2016 19:59:14 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?post_type=listing&#038;p=530#comment-525</guid>
+
+					<description><![CDATA[Coming soon. There will lots of discussions on Genesis for sure. My favorite framework.  In addition, conversations with forward thinkers about how they&#039;re rethinking their design and front-end development processes. Moving forward.]]></description>
+			<content:encoded><![CDATA[<p>Coming soon. There will lots of discussions on Genesis for sure. My favorite framework.  In addition, conversations with forward thinkers about how they&#8217;re rethinking their design and front-end development processes. Moving forward.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

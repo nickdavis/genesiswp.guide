@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (4 September 2015)	</title>
+	<atom:link href="https://genesiswp.guide/2015-09-04/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2015-09-04/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Sun, 06 Sep 2015 01:44:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Carlo		</title>
+		<link>https://genesiswp.guide/2015-09-04/#comment-91</link>
+
+		<dc:creator><![CDATA[Carlo]]></dc:creator>
+		<pubDate>Sun, 06 Sep 2015 01:44:42 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=200#comment-91</guid>
+
+					<description><![CDATA[Well done to all the contributors to version 2.2. It would have to be a record number of us for this release. I think the random order of credits isn&#039;t really fair because some contributed more than others (Rian). Now the big job is documenting all the new features!]]></description>
+			<content:encoded><![CDATA[<p>Well done to all the contributors to version 2.2. It would have to be a record number of us for this release. I think the random order of credits isn&#8217;t really fair because some contributed more than others (Rian). Now the big job is documenting all the new features!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

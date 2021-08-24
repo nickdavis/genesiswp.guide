@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: This Week in Genesis (5 Feb 2016)	</title>
+	<atom:link href="https://genesiswp.guide/2016-02-05/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide/2016-02-05/</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Mon, 28 Nov 2016 16:16:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: How to (easily) embed a Facebook post in WordPress		</title>
+		<link>https://genesiswp.guide/2016-02-05/#comment-650</link>
+
+		<dc:creator><![CDATA[How to (easily) embed a Facebook post in WordPress]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2016 16:16:27 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=291#comment-650</guid>
+
+					<description><![CDATA[[&#8230;] http://genesiswp.guide/2016-02-05/#showcase [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] <a href="http://genesiswp.guide/2016-02-05/#showcase" rel="nofollow ugc">http://genesiswp.guide/2016-02-05/#showcase</a> [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jon Barratt		</title>
+		<link>https://genesiswp.guide/2016-02-05/#comment-310</link>
+
+		<dc:creator><![CDATA[Jon Barratt]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2016 21:10:00 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=291#comment-310</guid>
+
+					<description><![CDATA[Thanks for the mention, Sandee and Nick! Loving these weekly guides )]]></description>
+			<content:encoded><![CDATA[<p>Thanks for the mention, Sandee and Nick! Loving these weekly guides )</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Clayton		</title>
+		<link>https://genesiswp.guide/2016-02-05/#comment-308</link>
+
+		<dc:creator><![CDATA[Clayton]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2016 16:50:33 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=291#comment-308</guid>
+
+					<description><![CDATA[Thanks for the shout out on Benson Siebenhausen!]]></description>
+			<content:encoded><![CDATA[<p>Thanks for the shout out on Benson Siebenhausen!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sandee Jackson		</title>
+		<link>https://genesiswp.guide/2016-02-05/#comment-305</link>
+
+		<dc:creator><![CDATA[Sandee Jackson]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2016 13:18:09 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=291#comment-305</guid>
+
+					<description><![CDATA[Thanks so much for the opportunity, Nick! I had great fun putting it together. Cheers!]]></description>
+			<content:encoded><![CDATA[<p>Thanks so much for the opportunity, Nick! I had great fun putting it together. Cheers!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nick Davis		</title>
+		<link>https://genesiswp.guide/2016-02-05/#comment-304</link>
+
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2016 11:33:44 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=291#comment-304</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://genesiswp.guide/2016-02-05/#comment-303&quot;&gt;Shaan&lt;/a&gt;.
+
+Haha, please do! ;)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://genesiswp.guide/2016-02-05/#comment-303">Shaan</a>.</p>
+<p>Haha, please do! 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Shaan		</title>
+		<link>https://genesiswp.guide/2016-02-05/#comment-303</link>
+
+		<dc:creator><![CDATA[Shaan]]></dc:creator>
+		<pubDate>Fri, 05 Feb 2016 11:24:12 +0000</pubDate>
+		<guid isPermaLink="false">http://genesiswp.guide/?p=291#comment-303</guid>
+
+					<description><![CDATA[I need to get my Twitter sorted out and post screenshots of launches!]]></description>
+			<content:encoded><![CDATA[<p>I need to get my Twitter sorted out and post screenshots of launches!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>GenesisWP.guide</title>
+	<atom:link href="https://genesiswp.guide/feed/" rel="self" type="application/rss+xml" />
+	<link>https://genesiswp.guide</link>
+	<description>The best new WordPress Genesis things</description>
+	<lastBuildDate>Sun, 15 Oct 2017 08:20:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Retiring This Week in Genesis</title>
+		<link>https://genesiswp.guide/so-long/</link>
+					<comments>https://genesiswp.guide/so-long/#comments</comments>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 15 Oct 2017 09:45:23 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=973</guid>
+
+					<description><![CDATA[<p>After 116 editions and two and a half years, I’m retiring This Week in Genesis.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/so-long/">Retiring This Week in Genesis</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-974" src="https://genesiswp.guide/wp-content/uploads/2017/10/its-gonna-be-ok.jpg" alt="Tearful woman leans against rain covered window" width="1320" height="1390" srcset="https://genesiswp.guide/wp-content/uploads/2017/10/its-gonna-be-ok.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/10/its-gonna-be-ok-285x300.jpg 285w, https://genesiswp.guide/wp-content/uploads/2017/10/its-gonna-be-ok-768x809.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/10/its-gonna-be-ok-972x1024.jpg 972w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>It&#8217;ll be alright</em></p>
+<p><strong>After 116 editions and two and a half years, I’m retiring This Week in Genesis.</strong></p>
+<p>When I first started GenesisWP.guide in April 2015 I did it because I wanted a way to give back something to a community of people that had always helped me so much but I never felt I was able to pay back adequately.</p>
+<p>At that time I didn’t feel confident enough to contribute with code (at least at the level of teaching other people or contributing to the development of the Genesis Framework itself).</p>
+<p>I also felt that as a community we weren’t promoting ourselves well enough (something that has improved now) so I saw GenesisWP.guide as a way to do that.</p>
+<p>During that time I’m proud to say this small commuity newsletter has sent over 75,000 (affiliate free, ad free!) visits to other Genesis related sites and businesses.</p>
+<p>I’ve also been honoured to have had amazing support from people across the community (I won’t name names as I’m afraid I will forget somebody, but you know how you are) every week without fail.</p>
+<p>And <a href="https://twitter.com/GenesisWPguide/lists/twig-editors/members">amazing guest editors</a> who stepped in and gave a different angle. Plus <a href="https://genesiswp.guide/makers/">great interview guests</a> who bared their souls on the challenges they face with growing their businesses.</p>
+<p>As enjoyable as all that has been though I’ve now reached the point where I feel I’d like to focus on fewer things.</p>
+<p>It’s true that as well as the weekly updates, I had always hoped to develop the site into more of an ongoing resource, perhaps into a ‘Product Hunt’ style community for Genesis, but I never made the time to do so.</p>
+<p>However I’m very glad I did make the time to email you (almost) every week and connect with so many of you I might never have otherwise.</p>
+<p>Will This Week in Genesis ever come back? Never say never &#8211; you can always come out of retirement &#8211; but for now I have no plans to. As for the rest of the site, I will keep it up at least for the near future.</p>
+<p>It only remains for me to say thank you so much for your time, attention and contributions. Without all the great work you’ve been doing none of the last two and a half years would have been possible.</p>
+<p>Let’s keep Genesis awesome,</p>
+<p>Nick</p>
+<p><strong>PS</strong> You won’t hear from me again on the GenesisWP.guide mailing list (unless GenesisWP.guide does ever make a comeback), but if you’d like to stay in touch with what I’m doing you can <a href="http://eepurl.com/bhFWdv">subscribe to my personal list</a>, <a href="https://twitter.com/iamnickdavis">stalk me on Twitter </a> and generally stay BFF.</p>
+<p><strong>PPS</strong> Thank you Dave Barr <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/so-long/">Retiring This Week in Genesis</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://genesiswp.guide/so-long/feed/</wfw:commentRss>
+			<slash:comments>53</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (1 Oct 2017)</title>
+		<link>https://genesiswp.guide/2017-10-01/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 01 Oct 2017 11:06:53 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=967</guid>
+
+					<description><![CDATA[<p>Genesis update, a promising new Genesis theme, and how to optimise your Genesis website for iPhone X.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-10-01/">This Week in Genesis (1 Oct 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-968" src="https://genesiswp.guide/wp-content/uploads/2017/10/bed.jpg" alt="bed" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/10/bed.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/10/bed-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/10/bed-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/10/bed-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/10/bed-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>Photo by <a href="https://unsplash.com/photos/I8kTKM17Ktc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ty Carlson</a> on </em><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash</em></a></p>
+<p><strong>A minor Genesis update, a promising new Genesis theme, and how to optimise your Genesis website for iPhone X.</strong></p>
+<h2>Genesis minor update</h2>
+<p>Genesis v2.5.3 was released which ‘fixes a small bug with saving settings’.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">FYI <a href="https://twitter.com/hashtag/GenesisWP?src=hash&amp;ref_src=twsrc%5Etfw">#GenesisWP</a> 2.5.3 was released last night. Fixes a small bug when saving settings.<a href="https://twitter.com/studiopress?ref_src=twsrc%5Etfw">@StudioPress</a> Sites have been automatically upgraded!</p>
+<p>&mdash; <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f506.png" alt="🔆" class="wp-smiley" style="height: 1em; max-height: 1em;" />Nathan Rice <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4ac.png" alt="💬" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@nathanrice) <a href="https://twitter.com/nathanrice/status/913413197801119744?ref_src=twsrc%5Etfw">September 28, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Themes</h2>
+<p>Rafal Tomal and Calvin Koepke are working on a new theme.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/genesiswp?src=hash&amp;ref_src=twsrc%5Etfw">#genesiswp</a>, here&#39;s a new theme that <a href="https://twitter.com/cjkoepke?ref_src=twsrc%5Etfw">@cjkoepke</a> and I are working on: <a href="https://t.co/Lqmhhm7nzo">https://t.co/Lqmhhm7nzo</a> – I&#39;m very excited about this one!</p>
+<p>&mdash; Rafal Tomal (@RafalTomal) <a href="https://twitter.com/RafalTomal/status/913419504134295552?ref_src=twsrc%5Etfw">September 28, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Showcase</h2>
+<p>Matt Whiteley for <a href="https://cervicide.com">cervicide.com</a></p>
+<blockquote class="wp-embedded-content" data-secret="PzQCONRRNc"><p><a href="https://genesiswp.guide/listings/cervicide-website/">Cervicide Website</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://genesiswp.guide/listings/cervicide-website/embed/#?secret=PzQCONRRNc" data-secret="PzQCONRRNc" width="600" height="338" title="&#8220;Cervicide Website&#8221; &#8212; GenesisWP.guide" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Fernando Mariano with an adapation of the Aspire Pro theme for <a href="https://www.netfreelance.es">netfreelance.es</a></p>
+<blockquote class="wp-embedded-content" data-secret="qvnHFKEDZq"><p><a href="https://genesiswp.guide/listings/netfreelance/">Netfreelance</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://genesiswp.guide/listings/netfreelance/embed/#?secret=qvnHFKEDZq" data-secret="qvnHFKEDZq" width="600" height="338" title="&#8220;Netfreelance&#8221; &#8212; GenesisWP.guide" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Sridhar Katakam for <a href="https://blog.storyblocks.com">blog.storyblocks.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Happy to see Storyblocks blog being launched.<a href="https://t.co/va1IsayAqL">https://t.co/va1IsayAqL</a></p>
+<p>One of my largest <a href="https://twitter.com/hashtag/GenesisWP?src=hash&amp;ref_src=twsrc%5Etfw">#GenesisWP</a> projects.</p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/912414328418058240?ref_src=twsrc%5Etfw">September 25, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Best of the rest</h2>
+<p>Ginger Coolidge shows you <a href="https://gingercoolidge.com/add-featured-posts-widgets-genesis/">how to add featured posts to the Utility Pro theme</a>.</p>
+<blockquote class="wp-embedded-content" data-secret="317KlgiaAR"><p><a href="https://genesiswp.guide/listings/add-featured-post-widgets-to-utility-pro/">Add Featured Post Widgets to Utility Pro</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://genesiswp.guide/listings/add-featured-post-widgets-to-utility-pro/embed/#?secret=317KlgiaAR" data-secret="317KlgiaAR" width="600" height="338" title="&#8220;Add Featured Post Widgets to Utility Pro&#8221; &#8212; GenesisWP.guide" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Sridhar Katakam teaches you <a href="https://sridharkatakam.com/add-links-previous-post-next-post-single-posts-genesis/">how to add previous post and next post links to single posts in Genesis</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">How to add links to Previous Post and Next Post on single Posts in Genesis:<a href="https://t.co/CRkoqnkfIK">https://t.co/CRkoqnkfIK</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash&amp;ref_src=twsrc%5Etfw">#GenesisWP</a> <a href="https://t.co/rCYFf1Vktf">pic.twitter.com/rCYFf1Vktf</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/912960353671168001?ref_src=twsrc%5Etfw">September 27, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Anita demonstrates <a href="https://cre8tivediva.com/create-a-custom-instagram-landing-page-in-genesis/">how to create a custom Instagram landing page in Genesis</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Create a Custom Instagram Landing Page in Genesis <a href="https://t.co/WiSuKJoqCw">https://t.co/WiSuKJoqCw</a> via <a href="https://twitter.com/TheCre8tiveDiva?ref_src=twsrc%5Etfw">@thecre8tivediva</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash&amp;ref_src=twsrc%5Etfw">#genesiswp</a> <a href="https://twitter.com/hashtag/wordpress?src=hash&amp;ref_src=twsrc%5Etfw">#wordpress</a> <a href="https://twitter.com/hashtag/socialmedia?src=hash&amp;ref_src=twsrc%5Etfw">#socialmedia</a></p>
+<p>&mdash; Anita C. (@TheCre8tiveDiva) <a href="https://twitter.com/TheCre8tiveDiva/status/913480782475390977?ref_src=twsrc%5Etfw">September 28, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Victor Font on <a href="https://victorfont.com/preparing-genesis-sites-iphone-x/">how to optimise your Genesis website for the forthcoming iPhone X</a> (h/t Susan Ramsey).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Preparing Genesis Sites for the iPhone X <a href="https://t.co/p60qregOEM">https://t.co/p60qregOEM</a> <a href="https://twitter.com/hashtag/GenesisWP?src=hash&amp;ref_src=twsrc%5Etfw">#GenesisWP</a></p>
+<p>&mdash; Susan Ramsey (@onehappystudio) <a href="https://twitter.com/onehappystudio/status/912879654524063746?ref_src=twsrc%5Etfw">September 27, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>And finally…</h2>
+<p>Look out for the new ebook on improving your WordPress support from Susan Ramsey (who certainly knows a thing or two about the subject).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">If I announce it on <a href="https://twitter.com/hashtag/Twitter?src=hash&amp;ref_src=twsrc%5Etfw">#Twitter</a> I&#39;m committed, right? </p>
+<p>Look for my new ebook &#8211; A guide to <a href="https://twitter.com/hashtag/WordPress?src=hash&amp;ref_src=twsrc%5Etfw">#WordPress</a> support success. <a href="https://twitter.com/hashtag/GenesisWP?src=hash&amp;ref_src=twsrc%5Etfw">#GenesisWP</a></p>
+<p>&mdash; Susan Ramsey (@onehappystudio) <a href="https://twitter.com/onehappystudio/status/913769573698154501?ref_src=twsrc%5Etfw">September 29, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>—</p>
+<p>That’s all for this week, except for my usual reminders that, if you don’t want to miss these updates in future, you can <a href="https://genesiswp.guide/subscribe/">subscribe</a> below. And, if you’d like to add something for consideration in next week’s update you can <a href="https://genesiswp.guide/listings/add/">add your submission</a> right on this very website. Have a great week.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-10-01/">This Week in Genesis (1 Oct 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (24 Sep 2017)</title>
+		<link>https://genesiswp.guide/2017-09-24/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 24 Sep 2017 09:30:39 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=962</guid>
+
+					<description><![CDATA[<p>New themes, everyone’s doing CSS Grid and tutorials galore.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-09-24/">This Week in Genesis (24 Sep 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-963" src="https://genesiswp.guide/wp-content/uploads/2017/09/wave.jpg" alt="Wave" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/09/wave.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/09/wave-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/09/wave-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/09/wave-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/09/wave-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>Photo by <a href="https://unsplash.com/photos/Euh5mILCoAI?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ruth Troughton</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></p>
+<p><strong>New themes, everyone’s doing CSS Grid and tutorials galore.</strong></p>
+<h2>Themes</h2>
+<p>StudioPress release the perfect theme for your next product or service idea, <a href="https://my.studiopress.com/themes/business/">Business Pro</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Introducing the Business Pro theme — <a href="https://t.co/JHUiwpDGbI">https://t.co/JHUiwpDGbI</a> (via <a href="https://twitter.com/seothemeswp">@seothemeswp</a>) <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/guqbdLGy3X">pic.twitter.com/guqbdLGy3X</a></p>
+<p>&mdash; StudioPress (@studiopress) <a href="https://twitter.com/studiopress/status/910537329550532608">September 20, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>And Calvin Koepke is already teasing their next one.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Brewing up something a little new and fun for you in our newest <a href="https://twitter.com/studiopress">@studiopress</a> theme. You&#39;ll just have to wait and see. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a></p>
+<p>&mdash; Calvin Koepke (@cjkoepke) <a href="https://twitter.com/cjkoepke/status/910173033486106624">September 19, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>ZigZagPress announce their 38th theme, <a href="https://zigzagpress.com/downloads/interiorr/">interiorr</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Announcing our 38th <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> theme: interiorr!<br />It’s perfect for flexible, minimalist branding, includes ecommerce<a href="https://t.co/k5gu8KKCpg">https://t.co/k5gu8KKCpg</a></p>
+<p>&mdash; zigzagpress.com (@zigzagpress) <a href="https://twitter.com/zigzagpress/status/911222048210526209">September 22, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Showcase</h2>
+<p>Gordon Seirup for <a href="https://viader.com">vlader.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Just launched today&#8230;! <a href="https://t.co/lbjhAdfCOd">https://t.co/lbjhAdfCOd</a> Mobile-first theme on the <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> Framework. <a href="https://twitter.com/studiopress">@studiopress</a> <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a> <a href="https://twitter.com/hashtag/wine?src=hash">#wine</a> <a href="https://twitter.com/hashtag/napavalley?src=hash">#napavalley</a></p>
+<p>&mdash; Gordon Seirup (@CopperGordon) <a href="https://twitter.com/CopperGordon/status/910268465818214400">September 19, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Podcasts</h2>
+<p>Tonya Mork explains <a href="https://knowthecode.io/ask-tonya/change-creativework-microdata-genesis">how to change the CreativeWork microdata in Genesis to book, music, or recipe</a> in her Ask Tonya podcast.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Here&#39;s how to change the &quot;CreativeWork&quot; microdata to book, music, or recipe in your <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> theme <a href="https://t.co/aAtxEf3LYD">https://t.co/aAtxEf3LYD</a></p>
+<p>&mdash; Know The Code (@KnowTheCodePro) <a href="https://twitter.com/KnowTheCodePro/status/910769326843719681">September 21, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Best of the rest</h2>
+<p>Sridhar Katakam launches a new <a href="https://github.com/srikat/custom-genesis-featured-page-widget">skeleton plugin for amending the output of the Genesis &#8211; Featured Page widget</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Custom Genesis &#8211; Featured Page Widget plugin:<a href="https://t.co/mC0syh6FHm">https://t.co/mC0syh6FHm</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/910663684891983872">September 21, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Matt Whiteley officially kicks off his GenesisWP CSS Grid project, <a href="http://gengrid.whiteleydesigns.com">GenGrid</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/cssgrid?src=hash">#cssgrid</a> project is fully underway. Hoping to have 1st version done this week and on Github! <a href="https://t.co/TBgdbjm9B9">https://t.co/TBgdbjm9B9</a></p>
+<p>&mdash; Matt Whiteley (@whiteleydesigns) <a href="https://twitter.com/whiteleydesigns/status/909796683235635200">September 18, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">The initials <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/cssgrid?src=hash">#cssgrid</a> starter theme is up &#8211; <a href="https://t.co/jgEfIBjVVA">https://t.co/jgEfIBjVVA</a> &#8211; No responsive work on it yet&#8230;getting there!</p>
+<p>&mdash; Matt Whiteley (@whiteleydesigns) <a href="https://twitter.com/whiteleydesigns/status/910211026024574977">September 19, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>I’m a big fan of this approach and so I’m delighted to see Craig Simpson explaining <a href="https://craigsimpson.scot/add-theme-support">how to extend your Genesis theme with add_theme_support</a> (h/t Sal).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Extending your Genesis theme with add_theme_support() <a href="https://t.co/UV4opSGjNX">https://t.co/UV4opSGjNX</a> <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> via <a href="https://twitter.com/craigsimps">@craigsimps</a></p>
+<p>&mdash; Sal Ferrarello (@salcode) <a href="https://twitter.com/salcode/status/910802292860997632">September 21, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The latest tutorial from the StudioPress blog shows you <a href="https://studiopress.blog/photo-grid/">how to showcase a grid of photos on your homepage</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Showcase a Grid of Photos on Your Homepage —&gt; <a href="https://t.co/Zgx9IGBIsB">https://t.co/Zgx9IGBIsB</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/CzYp2vP7lB">pic.twitter.com/CzYp2vP7lB</a></p>
+<p>&mdash; StudioPress (@studiopress) <a href="https://twitter.com/studiopress/status/911222986191056896">September 22, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>LeagueWP walks you through <a href="https://genesiswp.net/related-posts-css-grid-genesis/">how to display related posts with CSS Grid in Genesis</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">How to Display Related Posts with CSS Grid in <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/cssgrid?src=hash">#cssgrid</a> <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a></p>
+<p> <a href="https://t.co/G4wAmLUM10">https://t.co/G4wAmLUM10</a></p>
+<p>&mdash; League WP (@league_wp) <a href="https://twitter.com/league_wp/status/910444313468854272">September 20, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Anita shows you <a href="https://cre8tivediva.com/add-color-selector-maker-pro-child-theme/">how to add a colour selector to the Maker Pro theme</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TipsyTuesday?src=hash">#TipsyTuesday</a> is back! Add Color Selector to Maker Pro Child Theme <a href="https://t.co/bKqT4h7mi0">https://t.co/bKqT4h7mi0</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/photographers?src=hash">#photographers</a> <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a> <a href="https://twitter.com/hashtag/tips?src=hash">#tips</a></p>
+<p>&mdash; Anita C. (@TheCre8tiveDiva) <a href="https://twitter.com/TheCre8tiveDiva/status/910239240868581380">September 19, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>And finally…</h2>
+<p>Don’t drive yourself crazy, ask.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">The act of asking someone else the question kicks in those brain cells, and you can figure out the solution yourself.<a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://twitter.com/hashtag/Coding?src=hash">#Coding</a></p>
+<p>&mdash; Susan Ramsey (@onehappystudio) <a href="https://twitter.com/onehappystudio/status/908855193424367617">September 16, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<hr />
+<p>That’s all for this week. <strong>Got something awesome to share?</strong> <a href="https://genesiswp.guide/add">Add it to the site</a>. <strong>Enjoy these weekly updates?</strong> <a href="https://genesiswp.guide/subscribe">Subscribe</a> below (and never miss another edition).</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-09-24/">This Week in Genesis (24 Sep 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (10 Sep 2017)</title>
+		<link>https://genesiswp.guide/2017-09-10/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 10 Sep 2017 10:02:00 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=958</guid>
+
+					<description><![CDATA[<p>Plenty of inspiration in the showcase, a new podcast episode chatting Genesis and more, and new tutorials to try</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-09-10/">This Week in Genesis (10 Sep 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-959" src="https://genesiswp.guide/wp-content/uploads/2017/09/canvas.jpg" alt="Canvas" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/09/canvas.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/09/canvas-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/09/canvas-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/09/canvas-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/09/canvas-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>Photo by <a href="https://unsplash.com/photos/xz1uvLYhb5o?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Squared.one</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></p>
+<p><strong>Plenty of inspiration in the showcase, a new podcast episode chatting Genesis and more, and new tutorials to try.</strong></p>
+<h2>Showcase</h2>
+<p>Chris Hufnagel for <a href="https://www.culer.com/">culer.com</a> (h/t Brian Gardner)</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">What a gorgeous Genesis website —&gt; <a href="https://t.co/LbKnnY8hvd">https://t.co/LbKnnY8hvd</a> (props <a href="https://twitter.com/ChrisHufnagel">@ChrisHufnagel</a>) <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a></p>
+<p>&mdash; Brian Gardner (@bgardner) <a href="https://twitter.com/bgardner/status/905443476455788544">September 6, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Soulheart with some improvements, to the already smart looking, <a href="https://gospeladvancing.org/">gospeladvancing.org</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Made some improvements that we’re really stoked about to the Mobilize Stories at &#8211; &#8211; &gt; <a href="https://t.co/0Vu0ChKPnK">https://t.co/0Vu0ChKPnK</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a></p>
+<p>&mdash; Soulheart (@soulheartco) <a href="https://twitter.com/soulheartco/status/905453783479496704">September 6, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Tony Eppright for <a href="https://www.realityhomesinc.com/">realityhomesinc.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Launched our latest <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> responsive custom website <a href="https://t.co/R4ZhaysMhm">https://t.co/R4ZhaysMhm</a>  <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a> <a href="https://twitter.com/hashtag/website?src=hash">#website</a> <a href="https://twitter.com/studiopress">@studiopress</a> <a href="https://t.co/Ot75DfHXRb">pic.twitter.com/Ot75DfHXRb</a></p>
+<p>&mdash; Tony Eppright (@_AlphaBlossom) <a href="https://twitter.com/_AlphaBlossom/status/905492233993854976">September 6, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Dom Wint for <a href="http://robertwhetham.co.uk/">robertwhetham.co.uk</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Still a favourite from my portfolio &#8211; <a href="https://t.co/dBhUe3cxOk">https://t.co/dBhUe3cxOk</a> <a href="https://twitter.com/hashtag/humblebrag?src=hash">#humblebrag</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a> <a href="https://t.co/3yMtkg2b4M">pic.twitter.com/3yMtkg2b4M</a></p>
+<p>&mdash; Dom Wint (@CleanPageDesign) <a href="https://twitter.com/CleanPageDesign/status/905832068562735104">September 7, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Podcasts</h2>
+<p>Jackie D’Elia chats Genesis and more with Cathi Bosco and Joe Dooley on <a href="https://rethink.fm/podcast/episode-22-collaboration-svg-animation/">episode 22 of Rethink.fm</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">[New] Episode 22 on Collaboration and SVG animation w/ <a href="https://twitter.com/BeTheBreeze">@BeTheBreeze</a> <a href="https://twitter.com/devdesignstampa">@devdesignstampa</a> <a href="https://t.co/uNh0PXsP3f">https://t.co/uNh0PXsP3f</a></p>
+<p>&mdash; Rethink.FM (@rethinkfm) <a href="https://twitter.com/rethinkfm/status/906169084047437825">September 8, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Tutorials</h2>
+<p>Brian Gardner teaches you <a href="https://studiopress.blog/instagram-feed-footer/">how to add an Instagram feed to your site footer</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">How to Add an Instagram Feed to Your Site Footer —&gt; <a href="https://t.co/i9yV8xI93w">https://t.co/i9yV8xI93w</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/dyTpKG6YZv">pic.twitter.com/dyTpKG6YZv</a></p>
+<p>&mdash; StudioPress (@studiopress) <a href="https://twitter.com/studiopress/status/906156738008756230">September 8, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Elizabeth Jamieson shows you <a href="https://genesisclubbers.com/10213/cute-underline-menu-on-genesis-aspire/">how to restyle the Genesis menus in Aspire Pro</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Restyle Genesis menus on Aspire Pro <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/8iYz13prgG">https://t.co/8iYz13prgG</a></p>
+<p>&mdash; Elizabeth Jamieson (@genesisclubliz) <a href="https://twitter.com/genesisclubliz/status/905853232269987843">September 7, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>—</p>
+<p>That’s all for this week. <strong>Got something awesome to share?</strong> <a href="https://genesiswp.guide/add">Add it to the site</a>. <strong>Enjoy these weekly updates?</strong> <a href="https://genesiswp.guide/subscribe">Subscribe</a> below (and never miss another edition).</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-09-10/">This Week in Genesis (10 Sep 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (3 Sep 2017)</title>
+		<link>https://genesiswp.guide/2017-09-03/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 03 Sep 2017 09:45:02 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=955</guid>
+
+					<description><![CDATA[<p>A new storefront theme from StudioPress, 13 StudioPress themes get updates, plus how to make an animated hamburger menu in Genesis.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-09-03/">This Week in Genesis (3 Sep 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-956" src="https://genesiswp.guide/wp-content/uploads/2017/09/storefront.jpg" alt="Storefront" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/09/storefront.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/09/storefront-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/09/storefront-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/09/storefront-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/09/storefront-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>Storefrontin&#8217; (Photo by <a href="https://unsplash.com/photos/tpj285IkI94?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lance Anderson</a> on </em><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash)</em></a></p>
+<p><strong>A new storefront theme from StudioPress to sell all your things, 13 StudioPress themes get updates, plus how to make an animated hamburger menu in Genesis.</strong></p>
+<h2>Themes</h2>
+<p>StudioPress launch a sharp new storefront theme, <a href="https://my.studiopress.com/themes/outfitter/">Outfitter Pro</a> (<a href="https://demo.studiopress.com/outfitter/">demo</a>). Designed by Lauren Mancke, it’s built to work with WooCommerce right out of the gate.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Introducing Outfitter Pro—a striking new storefront theme for Genesis —&gt; <a href="https://t.co/YW0ulWP1J8">https://t.co/YW0ulWP1J8</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/YGgeBbIUdA">pic.twitter.com/YGgeBbIUdA</a></p>
+<p>&mdash; StudioPress (@studiopress) <a href="https://twitter.com/studiopress/status/903335250901835778">August 31, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Plus, Jodi Stammer and Sridhar Katakam report that 13 StudioPress child themes were updated this week.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">13 <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> child themes were updated yesterday/today.<a href="https://t.co/0Jbhu8wC2i">https://t.co/0Jbhu8wC2i</a></p>
+<p>via <a href="https://twitter.com/jstammer">@jstammer</a></p>
+<p>Changes can be seen in README.txt inside.</p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/903034069474197504">August 30, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>I only checked two themes quickly but it looks like mainly WooCommerce related improvements.</p>
+<h2>Showcase</h2>
+<p>Nice clean site from Kevin Donnigan for <a href="https://firehawkskids.com">firehawkskids.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">New <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> website-  <a href="https://twitter.com/hashtag/CrossFit?src=hash">#CrossFit</a> Kids &amp; Teens at CrossFit Hellbox from <a href="https://twitter.com/anythinggraphic">@anythinggraphic</a> with <a href="https://twitter.com/luckytamm">@luckytamm</a> <a href="https://t.co/z8PPCnaTRb">https://t.co/z8PPCnaTRb</a> <a href="https://t.co/i7Sj9vpuoA">pic.twitter.com/i7Sj9vpuoA</a></p>
+<p>&mdash; Kevin Donnigan (@anythinggraphic) <a href="https://twitter.com/anythinggraphic/status/902939144619425792">August 30, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Solid site on the Aspire theme by Ruby Slipper Designs for <a href="http://www.womensleadershipconference.net/">womensleadershipconference.net</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Wow! Check out this amazing site <a href="https://twitter.com/rubyslipperweb">@rubyslipperweb</a> built with the Aspire Theme! <a href="https://t.co/yTAMrut1Ak">https://t.co/yTAMrut1Ak</a><a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a> <a href="https://t.co/vYlfoWjs0R">pic.twitter.com/vYlfoWjs0R</a></p>
+<p>&mdash; appfinite (@appfinite) <a href="https://twitter.com/appfinite/status/902973979618619392">August 30, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Tutorials</h2>
+<p>Jackie D’Elia demonstrates <a href="https://jackiedelia.com/adding-svg-icons-graphics-wordpress-theme/">how to add SVG icons and graphics to your WordPress theme</a>.</p>
+<blockquote data-secret="sOuUOOH0NE" class="wp-embedded-content"><p><a href="https://genesiswp.guide/listings/adding-svg-icons-and-graphics-to-your-theme/">Adding SVG icons and graphics to your theme</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://genesiswp.guide/listings/adding-svg-icons-and-graphics-to-your-theme/embed/#?secret=sOuUOOH0NE" data-secret="sOuUOOH0NE" width="600" height="338" title="&#8220;Adding SVG icons and graphics to your theme&#8221; &#8212; GenesisWP.guide" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Susan Ramsey shows you <a href="https://onehappystudio.com/style-simple-social-icons-plugin/">how to style the Simple Social Icons plugin</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">On the blog today in my  <a href="https://twitter.com/hashtag/Genesis4Beginners?src=hash">#Genesis4Beginners</a> series. How to Style the Simple Social Icons. <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a><a href="https://t.co/hJ29Ib4NL1">https://t.co/hJ29Ib4NL1</a> <a href="https://t.co/xbBbSgFzla">pic.twitter.com/xbBbSgFzla</a></p>
+<p>&mdash; Susan Ramsey (@onehappystudio) <a href="https://twitter.com/onehappystudio/status/903348791272722433">August 31, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Sridhar Katakam tells you <a href="https://sridharkatakam.com/animated-hamburger-menu-icon-genesis/">how to make an animated hamburger menu in Genesis</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="in" dir="ltr">Animated Hamburger Menu Icon in Genesis:<a href="https://t.co/XiWUnbhzdk">https://t.co/XiWUnbhzdk</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://t.co/LUlyTMtUJB">pic.twitter.com/LUlyTMtUJB</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/902067529387974657">August 28, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Brian Gardner on <a href="https://studiopress.blog/add-typekit-fonts/">how to add TypeKit fonts to your Genesis site</a>. (Plus, he also shares the news that you can now apparently <a href="https://blog.typekit.com/2017/08/30/css-font-loading/">do this with CSS only, no JavaScript</a>).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Quick Tip: How to Add Typekit Fonts to Your Genesis Website —&gt; <a href="https://t.co/HjA7fR5qmm">https://t.co/HjA7fR5qmm</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/eeXWHyBUcm">pic.twitter.com/eeXWHyBUcm</a></p>
+<p>&mdash; StudioPress (@studiopress) <a href="https://twitter.com/studiopress/status/903656603857117185">September 1, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>—</p>
+<p>That’s all for this week. <strong>Got something awesome to share?</strong> <a href="https://genesiswp.guide/add">Add it to the site</a>. <strong>Enjoy these weekly updates?</strong> <a href="https://genesiswp.guide/subscribe">Subscribe</a> below (and never miss another edition again).</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-09-03/">This Week in Genesis (3 Sep 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (27 Aug 2017)</title>
+		<link>https://genesiswp.guide/2017-08-27/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 27 Aug 2017 09:45:36 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=952</guid>
+
+					<description><![CDATA[<p>Genesis starter theme with CSS Grid support, updates to the Genesis Simple Share plugin, and your opportunity to guest edit This Week in Genesis.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-27/">This Week in Genesis (27 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-953" src="https://genesiswp.guide/wp-content/uploads/2017/08/on-the-start-line.jpg" alt="Man on the start line, ready to sprint" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/08/on-the-start-line.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/08/on-the-start-line-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/08/on-the-start-line-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/08/on-the-start-line-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/08/on-the-start-line-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>Photo by <a href="https://unsplash.com/photos/9HI8UJMSdZA?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Braden Collum</a> on </em><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash</em></a></p>
+<p><strong>This Week in Genesis, a Genesis starter theme with CSS Grid support, updates to the Genesis Simple Share plugin, and your opportunity to guest edit This Week in Genesis.</strong></p>
+<h2>Themes</h2>
+<p>One for the devs amongst you, <a href="https://github.com/srikat/genesis-starter">Sridhar Katakam launches v2.3.0 of his Genesis Starter theme</a> (based on v2.3.0 of the popular Genesis Sample theme).</p>
+<p>It features Theme Logo support, inline navigation menu, CSS Grid support for structural elements, mobile first CSS and more.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Genesis Starter 2.3.0:<a href="https://t.co/9kw7vsKOWd">https://t.co/9kw7vsKOWd</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/900343529972539396">August 23, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Plus, <a href="https://genesis.community/slack/">if you’re interested in discussing future improvements to the Genesis Sample theme, there’s a new channel (#sample) in Slack</a> just for you.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">We have a new channel in GenesisWP Slack named <a href="https://twitter.com/hashtag/sample?src=hash">#sample</a> for those interested in improving Genesis Sample w/ CSS Grid/Flexbox etc.</p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/900130880772907008">August 22, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Showcase</h2>
+<p>Great site from Kraig Mathias for <a href="http://erinpalinski.com">erinpalinski.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Hot off the press! Brand new, custom <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> website for <a href="https://twitter.com/hashtag/nutrition?src=hash">#nutrition</a> expert <a href="https://twitter.com/ErinPalinski">@erinpalinski</a>! Check it out here: <a href="https://t.co/mp4pQQvOUU">https://t.co/mp4pQQvOUU</a> <a href="https://t.co/5eBTSFBk2h">pic.twitter.com/5eBTSFBk2h</a></p>
+<p>&mdash; Kraig Mathias (@KraigMathias) <a href="https://twitter.com/KraigMathias/status/899486888020631553">August 21, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Joelle Cottle with a redesign for <a href="http://craigchoffe.com/">craigchoffe.com</a></p>
+<blockquote data-secret="6n4zdEpu0W" class="wp-embedded-content"><p><a href="https://genesiswp.guide/listings/website-redesign/">Website Redesign</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://genesiswp.guide/listings/website-redesign/embed/#?secret=6n4zdEpu0W" data-secret="6n4zdEpu0W" width="600" height="338" title="&#8220;Website Redesign&#8221; &#8212; GenesisWP.guide" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<h2>Best of the rest</h2>
+<p>Nick Croft is <a href="https://github.com/copyblogger/genesis-simple-share/milestone/10">looking for feedback on the latest version of the Genesis Simple Share plugin</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Got a RC for <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> Simple Share. Adds some long awaited features and I&#39;d love feedback. <a href="https://t.co/LNF8czWEf0">https://t.co/LNF8czWEf0</a></p>
+<p>&mdash; Nick Croft (@Nick_theGeek) <a href="https://twitter.com/Nick_theGeek/status/900353961177174016">August 23, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Susan Ramsey shows you <a href="https://onehappystudio.com/add-front-page-pretty-happy-theme/">how to add a front page to the Pretty Happy theme</a> from Pretty Darn Cute.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Another tutorial in my <a href="https://twitter.com/hashtag/Genesis4Beginners?src=hash">#Genesis4Beginners</a> series: Customizing the Pretty Happy <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a> theme: <a href="https://t.co/ThocyZ2cFn">https://t.co/ThocyZ2cFn</a> <a href="https://t.co/QJMNrWIsFF">pic.twitter.com/QJMNrWIsFF</a></p>
+<p>&mdash; Susan Ramsey (@onehappystudio) <a href="https://twitter.com/onehappystudio/status/900161953078927360">August 23, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>When he’s not launching a new Genesis starter theme, Sridhar Katakam is also taking the time to show you <a href="https://sridharkatakam.com/add-slider-minimum-pros-front-page/">how to add a slider in Minimum Pro’s front page</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">How to add a slider in Minimum Pro&#39;s front page:<a href="https://t.co/wgJerx7GyG">https://t.co/wgJerx7GyG</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://t.co/u387oRCL9A">pic.twitter.com/u387oRCL9A</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/899820545004322818">August 22, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>And finally…</h2>
+<p>I’m thinking of opening up This Week in Genesis to guest editors again. <a href="https://genesiswp.guide/edit/">If you’d like to put yourself forward to write an edition just fill out this form</a>.</p>
+<blockquote data-secret="QkplOOEvcO" class="wp-embedded-content"><p><a href="https://genesiswp.guide/edit/">Guest Edit</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://genesiswp.guide/edit/embed/#?secret=QkplOOEvcO" data-secret="QkplOOEvcO" width="600" height="338" title="&#8220;Guest Edit&#8221; &#8212; GenesisWP.guide" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>If you’ve previously guest edited and you’d like to do it again, either fill out the form (if you really like filling out forms) or drop me an email.</p>
+<p>—</p>
+<p>That’s all for this week.</p>
+<p>Got something awesome to share? <a href="https://genesiswp.guide/add/">Add it to the site</a>.</p>
+<p>Enjoy these weekly updates? <a href="https://genesiswp.guide">Subscribe</a> below (and never miss another edition again).</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-27/">This Week in Genesis (27 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (20 Aug 2017)</title>
+		<link>https://genesiswp.guide/2017-08-20/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 20 Aug 2017 09:45:03 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=947</guid>
+
+					<description><![CDATA[<p>Sridhar Katakam tackles CSS Grid, new themes (including a discount), plus a new plugin from Calvin Koepke.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-20/">This Week in Genesis (20 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><em><img loading="lazy" class="alignnone size-full wp-image-948" src="https://genesiswp.guide/wp-content/uploads/2017/08/the-grid.jpg" alt="The grid" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/08/the-grid.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/08/the-grid-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/08/the-grid-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/08/the-grid-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/08/the-grid-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+Photo by <a href="https://unsplash.com/photos/M6_AwSjWTLE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Pete Wright</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></p>
+<p><strong>This week in Genesis, Sridhar Katakam tackles CSS Grid, new themes (including a discount), plus a new plugin from Calvin Koepke.</strong></p>
+<h1>Themes</h1>
+<p>Lee Anthony over at SEO Themes launches <a href="https://seothemes.com/themes/business-pro/">Business Pro</a>, a stylish new Genesis child theme.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Introducing Business Pro &#8211; A clean and modern <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> theme designed for businesses of any kind <a href="https://t.co/0YUS2By2rQ">https://t.co/0YUS2By2rQ</a> <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a> <a href="https://t.co/XOpsKw1Cx1">pic.twitter.com/XOpsKw1Cx1</a></p>
+<p>&mdash; SEO Themes (@seothemeswp) <a href="https://twitter.com/seothemeswp/status/897822108658450432">August 16, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>There’s also a discount of 20% off for a (presumably) limited time, using code BIZPRO20OFF.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">SAVE 20% on our brand new <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> theme Business Pro with the discount code BIZPRO20OFF <a href="https://t.co/0YUS2By2rQ">https://t.co/0YUS2By2rQ</a></p>
+<p>&mdash; SEO Themes (@seothemeswp) <a href="https://twitter.com/seothemeswp/status/898002073026838528">August 17, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Maira Gallardo shares a new theme, <a href="https://demos.mairagstudio.com/georgia/">Georgia</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Check out Georgia, a <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> theme for virtual assistants, personal stylists, business coaches &amp; more. <a href="https://t.co/0JrGo4vohl">https://t.co/0JrGo4vohl</a> <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a> <a href="https://t.co/BDFsxHj5tu">pic.twitter.com/BDFsxHj5tu</a></p>
+<p>&mdash; Maira Gallardo (@immairagall) <a href="https://twitter.com/immairagall/status/898950016043282433">August 19, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Showcase</h2>
+<p>Cute new e-commerce site from Maira Gallardo for <a href="https://tienda.airesdebohemia.com.ar/" target="_blank" rel="noopener">tienda.airesdebohemia.com.ar</a></p>
+<blockquote data-secret="Ub6LZBARlh" class="wp-embedded-content"><p><a href="https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/">Aires de Bohemia Ecommerce</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://genesiswp.guide/listings/aires-de-bohemia-ecommerce/embed/#?secret=Ub6LZBARlh" data-secret="Ub6LZBARlh" width="600" height="338" title="&#8220;Aires de Bohemia Ecommerce&#8221; &#8212; GenesisWP.guide" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<h1>Best of the rest</h1>
+<p>Calvin Koepke (with help from a few other people) <a href="https://wordpress.org/plugins/genesis-simple-faq/">launches a new Genesis Simple FAQ plugin</a> with a focus on accessibility and performance.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Need an accessible, performant tabs plugin? We just released a beta version for the Genesis Framework &#8211;&gt; <a href="https://t.co/ySSW2JGMiV">https://t.co/ySSW2JGMiV</a> <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a></p>
+<p>&mdash; Calvin Koepke (@cjkoepke) <a href="https://twitter.com/cjkoepke/status/898603706723192832">August 18, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Props to <a href="https://twitter.com/dreamwhisper">@dreamwhisper</a> and <a href="https://twitter.com/nathanrice">@nathanrice</a> for helping, and <a href="https://twitter.com/10up">@10up</a> for providing excellent documentation on accessibility standards. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&mdash; Calvin Koepke (@cjkoepke) <a href="https://twitter.com/cjkoepke/status/898603873455046658">August 18, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>(And if you were a member of the <a href="https://www.facebook.com/groups/genesiswp/permalink/1604470062937518/">Facebook group</a> you might’ve heard about it first).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">We just dropped a treat in the <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> Facebook group. Join now for access —&gt; <a href="https://t.co/GCyvTey3Ta">https://t.co/GCyvTey3Ta</a></p>
+<p>&mdash; Brian Gardner (@bgardner) <a href="https://twitter.com/bgardner/status/898173621939646465">August 17, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Sridhar Katakam with some helpful new tutorials, <a href="https://sridharkatakam.com/posts-grid-genesis-using-css-grid/">Posts Grid in Genesis using Grid CSS</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Posts Grid in Genesis using CSS Grid:<a href="https://t.co/usPgGJS4Qg">https://t.co/usPgGJS4Qg</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://t.co/3dnZaNiN5e">pic.twitter.com/3dnZaNiN5e</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/898090087178575872">August 17, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>And, <a href="https://sridharkatakam.com/show-featured-image-latest-post-unique-posts-published-year-wordpressgenesis/">how to show featured image of latest post for each unique posts published year in WordPress/Genesis</a> (and, yes, I had to read that twice):</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">How to show featured image of latest post for each unique posts published year in WordPress/Genesis:<a href="https://t.co/WWMw8h36vX">https://t.co/WWMw8h36vX</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://t.co/WpSaHEm5wx">pic.twitter.com/WpSaHEm5wx</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/898455192844124161">August 18, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>And finally…</h2>
+<p>The only thing (possibly) more exciting that the release of a new Genesis plugin, a new addition to the family. Congrats Calvin!</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Welcomed my third boy today: Eidan (eye-den) Clay Koepke. Love these first moments. Also, his name means “fire”. How uncanny is that?! <a href="https://t.co/twf5FGvakA">pic.twitter.com/twf5FGvakA</a></p>
+<p>&mdash; Calvin Koepke (@cjkoepke) <a href="https://twitter.com/cjkoepke/status/899085458516213760">August 20, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>—</p>
+<p>That’s all for this week. Done something awesome? <a href="https://genesiswp.guide/">Share it via the homepage</a>.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-20/">This Week in Genesis (20 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (13 Aug 2017)</title>
+		<link>https://genesiswp.guide/2017-08-13/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 13 Aug 2017 09:45:03 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=944</guid>
+
+					<description><![CDATA[<p>New theme release from Restored 316 and a new theme sneak peek from StudioPress.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-13/">This Week in Genesis (13 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-945" src="https://genesiswp.guide/wp-content/uploads/2017/08/all-the-lights.jpg" alt="Lights" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/08/all-the-lights.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/08/all-the-lights-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/08/all-the-lights-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/08/all-the-lights-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/08/all-the-lights-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>Photo by <a href="https://unsplash.com/photos/9fBL04zfjW4?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Gerrie van der Walt</a> on </em><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash</em></a></p>
+<p><strong>New theme release from Restored 316 and a new theme sneak peek from StudioPress.</strong></p>
+<h2>Themes</h2>
+<p>Lauren Gaige at Restored 316 launches a new theme for bloggers, <a href="https://restored316designs.com/product/captivating-feminine-wordpress-theme/">Captivating</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">We are so excited to introduce our new theme Captivating, A WordPress theme built for bloggers. <a href="https://t.co/rfQxIP7WWn">https://t.co/rfQxIP7WWn</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/1Ci9PeZSCH">pic.twitter.com/1Ci9PeZSCH</a></p>
+<p>&mdash; Lauren Gaige (@restored316) <a href="https://twitter.com/restored316/status/895342775918632961">August 9, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Rafal Tomal gives a <a href="https://dribbble.com/shots/3729095-Products">sneak peek at the latest theme in works from StudioPress</a> (design by Lauren Mancke).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Here&#39;s a sneak preview at the new <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> theme we&#39;re working on at <a href="https://twitter.com/studiopress">@StudioPress</a>: <a href="https://t.co/LghLlkqkbX">https://t.co/LghLlkqkbX</a></p>
+<p>&mdash; Rafal Tomal (@RafalTomal) <a href="https://twitter.com/RafalTomal/status/896045793756446721">August 11, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>And finally…</h2>
+<p>If you want to learn CSS Grid but don’t know where to start you might want to try <a href="http://cssgridgarden.com/">Grid Garden</a> (h/t Sridhar).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">I just beat Grid Garden, a game for learning CSS grid layout! <a href="https://t.co/1MljxTcWMF">https://t.co/1MljxTcWMF</a> via <a href="https://twitter.com/playcodepip">@playcodepip</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/894913021226528768">August 8, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-13/">This Week in Genesis (13 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>This Week in Genesis (6 Aug 2017)</title>
+		<link>https://genesiswp.guide/2017-08-06/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2017 09:46:28 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=942</guid>
+
+					<description><![CDATA[<p>New themes to fire your creativity on StudioPress and WP Studio.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-06/">This Week in Genesis (6 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-943" src="https://genesiswp.guide/wp-content/uploads/2017/08/fire.jpg" alt="fire" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/08/fire.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/08/fire-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/08/fire-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/08/fire-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/08/fire-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+<em>Photo by <a href="https://unsplash.com/@narrowedge">Jacob Kiesow</a></em></p>
+<p><strong>New themes to fire your creativity on StudioPress and WP Studio. Plus, details of a Genesis Meetup planned for WordCamp Manchester (UK).</strong></p>
+<h2>Themes</h2>
+<p>StudioPress release their latest theme, <a href="https://my.studiopress.com/themes/boss/">Boss Pro</a> (<a href="https://boss.designbybloom.co/">demo</a>), a third party theme made by the folk at <a href="http://designbybloom.co/">Bloom</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Introducing Boss Pro: Turn Your Dreams Into Plans</p>
+<p>See it here: <a href="https://t.co/PNoFGfzP6s">https://t.co/PNoFGfzP6s</a><a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a></p>
+<p>&mdash; StudioPress (@studiopress) <a href="https://twitter.com/studiopress/status/892821005827223554">August 2, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The latest theme from Frank at WP Studio is out and, as usual, it doesn’t disappoint. <a href="https://www.wpstud.io/themes/havana/">Havana</a> (<a href="https://wpstud.io/demo/havana/">demo</a>) is a portfolio theme for ‘photographers and creative minds’.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Say hello to Havana A <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> Portfolio Theme for Photographers and Creative Minds  <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a> <a href="https://twitter.com/hashtag/wordpressthemes?src=hash">#wordpressthemes</a> <a href="https://t.co/NIpD3cbmUu">https://t.co/NIpD3cbmUu</a> <a href="https://t.co/2hgOjkJoUk">pic.twitter.com/2hgOjkJoUk</a></p>
+<p>&mdash; WPStudio (@wpstudiowp) <a href="https://twitter.com/wpstudiowp/status/892025655231205376">July 31, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Showcase</h2>
+<p>Bill Erickson for <a href="https://www.solutionsiq.com/">solutionsiq.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Excited to launch <a href="https://twitter.com/SolutionsIQ">@SolutionsIQ</a> new website! Check it out: <a href="https://t.co/jaw752vU23">https://t.co/jaw752vU23</a></p>
+<p>&mdash; Bill Erickson (@BillErickson) <a href="https://twitter.com/BillErickson/status/893187479343443970">August 3, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Spinifex Media for <a href="https://soulsurftravel.com/">soulsurftravel.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Our biggest project to date, we&#39;re stoked to launch this rebuild of <a href="https://t.co/vco8GpqlCZ">https://t.co/vco8GpqlCZ</a> Lots of love, ACF, and of course <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a>! <a href="https://t.co/DzU1hb6z3l">pic.twitter.com/DzU1hb6z3l</a></p>
+<p>&mdash; Spinifex Media (@spnfxmedia) <a href="https://twitter.com/spnfxmedia/status/892174092366888960">August 1, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Claire Cheyne with a new site for <a href="https://www.swmummy.co.uk/">swmummy.co.uk</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">New project launch for SW Mummy this week. Using the amazing combo of <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> and <a href="https://twitter.com/BeaverBuilder">@BeaverBuilder</a> <a href="https://t.co/M2Tz512GpS">https://t.co/M2Tz512GpS</a> <a href="https://t.co/XDRtpK2fXT">pic.twitter.com/XDRtpK2fXT</a></p>
+<p>&mdash; Claire Cheyne (@wildflowerspix) <a href="https://twitter.com/wildflowerspix/status/893837589836435457">August 5, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Matt Whiteley, who many of you will know for his Genesis themes, has redesigned his site, <a href="http://whiteleydesigns.com/">whiteleydesigns.com</a></p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">The facelift for my <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> site is complete and the deployment is done! Easier navigation and more white space. <a href="https://t.co/kFKpzJZBNb">https://t.co/kFKpzJZBNb</a> <a href="https://t.co/kbqMTe3XU3">pic.twitter.com/kbqMTe3XU3</a></p>
+<p>&mdash; Matt Whiteley (@whiteleydesigns) <a href="https://twitter.com/whiteleydesigns/status/892075493847117824">July 31, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Best of the rest</h2>
+<p>Srihar Katakam shows you <a href="https://sridharkatakam.com/facetwp-woocommerce-genesis/">how to use FacetWP (one of my favorite plugins) and WooCommerce together</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="und" dir="ltr"><a href="https://twitter.com/FacetWP">@FacetWP</a> + <a href="https://twitter.com/hashtag/WooCommerce?src=hash">#WooCommerce</a> in <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a>:<a href="https://t.co/M2rT9NHEKS">https://t.co/M2rT9NHEKS</a> <a href="https://t.co/66Oa2NbdDd">pic.twitter.com/66Oa2NbdDd</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/893726174731423745">August 5, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Bill Erickson spoke at Post Status’ Publish conference on making your freelancing business more profitable.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Great interview w/ Bill Erickson <a href="https://twitter.com/BillErickson">@BillErickson</a>  by <a href="https://twitter.com/Krogsgard">@Krogsgard</a> at <a href="https://twitter.com/hashtag/publishconf?src=hash">#publishconf</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://t.co/EpcBINHPV3">pic.twitter.com/EpcBINHPV3</a></p>
+<p>&mdash; Birgit Pauli-Haack (@bph) <a href="https://twitter.com/bph/status/893170320395448320">August 3, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>And finally…</h2>
+<p>If you’re going to WordCamp Manchester be sure to go to the <a href="https://ukgenesis.co.uk/meetups">UK Genesis meetup on 27 October</a> (and make sure you book in advance).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Going to WordCamp Manchester?</p>
+<p>Use the Genesis Framework?</p>
+<p>Come to our <a href="https://twitter.com/hashtag/UKGenesis?src=hash">#UKGenesis</a> meetup!<a href="https://t.co/pVQjj2eaH8">https://t.co/pVQjj2eaH8</a><a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/wcmcr?src=hash">#wcmcr</a></p>
+<p>&mdash; UK Genesis (@UKGenesis) <a href="https://twitter.com/UKGenesis/status/892163745308446722">July 31, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<hr />
+<p>That&#8217;s all for this week.</p>
+<p>Got something to share? <a href="https://genesiswp.guide">Post it via the homepage</a>.</p>
+<p>Want to join the cool kids? I can&#8217;t help you with that, but you can <a href="https://genesiswp.guide/subscribe">subscribe.</a></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-08-06/">This Week in Genesis (6 Aug 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>These Weeks in Genesis (30 Jul 2017)</title>
+		<link>https://genesiswp.guide/2017-07-30/</link>
+		
+		<dc:creator><![CDATA[Nick Davis]]></dc:creator>
+		<pubDate>Sun, 30 Jul 2017 09:45:19 +0000</pubDate>
+				<category><![CDATA[This Week in Genesis]]></category>
+		<guid isPermaLink="false">https://genesiswp.guide/?p=937</guid>
+
+					<description><![CDATA[<p>After an unexpected summer 'break', we're back with a splash with a new theme and a new podcast from the community.</p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-07-30/">These Weeks in Genesis (30 Jul 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="fb-root"></div>
+<p style="text-align: center;"><em><img loading="lazy" class="alignnone size-full wp-image-938" src="https://genesiswp.guide/wp-content/uploads/2017/07/splash.jpg" alt="Man jumps in lake" width="1320" height="880" srcset="https://genesiswp.guide/wp-content/uploads/2017/07/splash.jpg 1320w, https://genesiswp.guide/wp-content/uploads/2017/07/splash-300x200.jpg 300w, https://genesiswp.guide/wp-content/uploads/2017/07/splash-768x512.jpg 768w, https://genesiswp.guide/wp-content/uploads/2017/07/splash-1024x683.jpg 1024w, https://genesiswp.guide/wp-content/uploads/2017/07/splash-660x440.jpg 660w" sizes="(max-width: 1320px) 100vw, 1320px" /><br />
+Back with a splash&#8230; (photo by <a href="https://unsplash.com/?photo=PiPZ2DHa3rE">Jakob Owens</a>)</em></p>
+<p><strong>After an unexpected summer ‘break’ for the last two weeks, this week I’m covering all my favourite happenings since the last edition (9 July 2017), including a new theme, a podcast and more.</strong></p>
+<h2>Themes</h2>
+<p>Lindsey Riel launches a new travel blogger theme, <a href="https://prettydarncute.com/product/travel-pretty-wordpress-theme/">Travel Pretty</a> (<a href="https://prettydarncute.com/demos/travelpretty/">demo</a>).</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Travel Pretty is all packed up and ready! <a href="https://t.co/rdvKwFwgs4">https://t.co/rdvKwFwgs4</a> <a href="https://twitter.com/hashtag/travelblogger?src=hash">#travelblogger</a></p>
+<p>&mdash; Lindsey Riel (@lindseyriel) <a href="https://twitter.com/lindseyriel/status/889563946776186880">July 24, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>And Susan Ramsey is doing a <a href="https://onehappystudio.com/product/24-hour-theme-setup-travel-pretty/">special offer for Travel Pretty theme setup and logo design</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">To celebrate the launch of <a href="https://twitter.com/hashtag/TravelPretty?src=hash">#TravelPretty</a>, I&#39;m offering a theme setup including <a href="https://twitter.com/hashtag/logo?src=hash">#logo</a> design! <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://t.co/NW8JTDaSlA">https://t.co/NW8JTDaSlA</a> <a href="https://t.co/wsIvTefAtS">pic.twitter.com/wsIvTefAtS</a></p>
+<p>&mdash; Susan Ramsey (@onehappystudio) <a href="https://twitter.com/onehappystudio/status/889563892678098946">July 24, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Your occasional reminder that Wes Straham is still offering <a href="http://appfinite.com/deals/buy-one-get-one-free-limited-offer/">buy one, get one free on all his Genesis themes over at Appfinite</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Looking for a Premium <a href="https://twitter.com/hashtag/GenesisWp?src=hash">#GenesisWp</a> Theme? </p>
+<p>Here’s your chance to Buy One Get One Free! <a href="https://t.co/WFnVeIM3cy">https://t.co/WFnVeIM3cy</a>  <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a> <a href="https://twitter.com/hashtag/marketing?src=hash">#marketing</a> <a href="https://twitter.com/hashtag/wp?src=hash">#wp</a> <a href="https://t.co/MlOiIA5VIg">pic.twitter.com/MlOiIA5VIg</a></p>
+<p>&mdash; Wes Straham (@WesStraham) <a href="https://twitter.com/WesStraham/status/888511506127753217">July 21, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Podcasts &amp; Talks</h2>
+<p>Tonya Mork of Know The Code has started a podcast! And<a href="https://knowthecode.io/ask-tonya/change-creativework-microdata-genesis"> on this episode of Ask Tonya she’s exploring microdata in Genesis</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">[NEW] What if your content is a book, recipe, or music? How do you change the microdata in <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a>? <a href="https://t.co/eJuq6KfTS3">https://t.co/eJuq6KfTS3</a></p>
+<p>&mdash; Know The Code (@KnowTheCodePro) <a href="https://twitter.com/KnowTheCodePro/status/887699837361299463">July 19, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Stephanie Hellwig recently spoke at WordCamp San Diego and her talk &#8211; <a href="https://wordpress.tv/2017/05/09/stephanie-hellwig-10-ways-to-provide-great-support/">10 ways to provide great support</a> &#8211; based on <del>lessons learnt from running her successful Genesis theme shop</del> [EDIT: 2 Aug 2017] the successful example of the <a href="http://restored316designs.com/">Restored 316</a> theme shop, is now available at WordPress.tv</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">That time I spoke at WCSD. . .  <a href="https://t.co/aKVgYrMd5y">https://t.co/aKVgYrMd5y</a> <a href="https://twitter.com/hashtag/wordpress?src=hash">#wordpress</a> <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> <a href="https://twitter.com/hashtag/keepLearning?src=hash">#keepLearning</a> <a href="https://twitter.com/hashtag/Entrepreneur?src=hash">#Entrepreneur</a></p>
+<p>&mdash; Stephanie Hellwig (@stephanehellwig) <a href="https://twitter.com/stephanehellwig/status/885169683422486529">July 12, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><a href="https://hallwaychats.com/episodes/episode-5-sara-dunn/">Hallway Chats</a> talks Genesis and more with Sara Dunn.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Thank you thank you to <a href="https://twitter.com/HallwayChats">@HallwayChats</a> for inviting me to be a guest! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/LSKAfw8fYa">https://t.co/LSKAfw8fYa</a></p>
+<p>&mdash; Sara Dunn (@Sara11D) <a href="https://twitter.com/Sara11D/status/885489906478350337">July 13, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Tutorials</h2>
+<p>Sridhar Katakam shows <a href="https://sridharkatakam.com/set-flexible-widgets-genesis-child-theme/">how you set to up flexible widget areas in any Genesis theme</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">How to set up Flexible Widgets in any Genesis child theme:<a href="https://t.co/Um2uqnqNVw">https://t.co/Um2uqnqNVw</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://t.co/3Sxyj1A5RM">pic.twitter.com/3Sxyj1A5RM</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/885015694978543616">July 12, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Plus, <a href="https://sridharkatakam.com/link-tagline-site-url-genesis/">how to link your site description to your homepage in Genesis</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">How to link Tagline to Site URL in Genesis:<a href="https://t.co/IO6tnQqyPJ">https://t.co/IO6tnQqyPJ</a><a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> <a href="https://t.co/6LR0ZKbqNs">pic.twitter.com/6LR0ZKbqNs</a></p>
+<p>&mdash; Sridhar Katakam (@srikat) <a href="https://twitter.com/srikat/status/886920586517032960">July 17, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Tonya Mork explains <a href="https://knowthecode.io/docx/genesis/genesis">exactly what the <code>genesis()</code> function does</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Video series walking you through the <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> framework. Find out exactly what the genesis(); function does <a href="https://t.co/HZah1xS7A8">https://t.co/HZah1xS7A8</a></p>
+<p>&mdash; Know The Code (@KnowTheCodePro) <a href="https://twitter.com/KnowTheCodePro/status/884191697852411904">July 9, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Best of the rest</h2>
+<p>Congrats to Remkus de Vries and his son Roan on the launch of their new project, <a href="https://allgenesisthemes.com/">allgenesisthemes.com</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">It&#39;s happening! Please welcome <a href="https://twitter.com/Roan_v">@Roan_v</a>,  my son, to the <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> world with our project. Still lots to do, but this is his first post <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/S6KcmoZQUF">https://t.co/S6KcmoZQUF</a></p>
+<p>&mdash; Remkus de Vries (@DeFries) <a href="https://twitter.com/DeFries/status/884823611407835138">July 11, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Interesting new flexible, custom post type plugin, <a href="https://jackiedelia.com/genesis-communities-cpt-plugin/">Genesis Communities CPT Plugin</a>, from Jackie D’Elia.</p>
+<blockquote data-secret="TQ6nYG9XWd" class="wp-embedded-content"><p><a href="https://jackiedelia.com/genesis-communities-cpt-plugin/">Genesis Communities CPT Plugin</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://jackiedelia.com/genesis-communities-cpt-plugin/embed/#?secret=TQ6nYG9XWd" data-secret="TQ6nYG9XWd" width="600" height="338" title="&#8220;Genesis Communities CPT Plugin&#8221; &#8212; Jackie D&#039;Elia Design" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Scott DeLuzio shares a <a href="https://github.com/ScottDeLuzio/featured-post-exclude-category-for-genesis">new plugin that lets you exclude a category from the Genesis Featured Posts widget</a>.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">I just made a plugin for <a href="https://twitter.com/hashtag/genesiswp?src=hash">#genesiswp</a> that lets you exclude a category from the Featured Posts widget <a href="https://t.co/nycAwWw6dg">https://t.co/nycAwWw6dg</a></p>
+<p>&mdash; Scott DeLuzio (@scottdeluzio) <a href="https://twitter.com/scottdeluzio/status/885977992886861824">July 14, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>And finally…</h2>
+<p>Huge congrats to the all hard working folk who run the Genesis Facebook Group, which just hit 8,000 members. If you’re not already part of it, why not join today.</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">We hit 8,000 members in the Facebook <a href="https://twitter.com/hashtag/GenesisWP?src=hash">#GenesisWP</a> group today:<a href="https://t.co/20uFgmY1cy">https://t.co/20uFgmY1cy</a> <a href="https://twitter.com/hashtag/WordPress?src=hash">#WordPress</a> <a href="https://twitter.com/studiopress">@studiopress</a> <a href="https://t.co/uCERroWSrV">pic.twitter.com/uCERroWSrV</a></p>
+<p>&mdash; Susan Ramsey (@onehappystudio) <a href="https://twitter.com/onehappystudio/status/888536604356222976">July 21, 2017</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>—</p>
+<p>Did I miss your amazing thing? <a href="https://genesiswp.guide">Go post it on the homepage instead!</a></p>
+<p>The post <a rel="nofollow" href="https://genesiswp.guide/2017-07-30/">These Weeks in Genesis (30 Jul 2017)</a> appeared first on <a rel="nofollow" href="https://genesiswp.guide">GenesisWP.guide</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
